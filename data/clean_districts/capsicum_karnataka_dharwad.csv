@@ -1,0 +1,156 @@
+district name,market name,commodity,min price (rs./quintal),max price (rs./quintal),modal price (rs./quintal),price date
+Dharwad,Dharwar,Capsicum,1000,1200,1100,2020-04-04
+Dharwad,Dharwar,Capsicum,1000,1300,1150,2020-04-05
+Dharwad,Dharwar,Capsicum,1100,1500,1300,2020-04-06
+Dharwad,Hubli (Amaragol),Capsicum,1600,2400,2100,2020-04-07
+Dharwad,Dharwar,Capsicum,1100,1500,1300,2020-04-07
+Dharwad,Hubli (Amaragol),Capsicum,1200,2000,1500,2020-04-08
+Dharwad,Dharwar,Capsicum,1200,1500,1350,2020-04-08
+Dharwad,Dharwar,Capsicum,1000,1200,1100,2020-04-09
+Dharwad,Hubli (Amaragol),Capsicum,1000,2000,1500,2020-04-09
+Dharwad,Dharwar,Capsicum,1200,1500,1350,2020-04-11
+Dharwad,Dharwar,Capsicum,1800,2000,1900,2020-04-12
+Dharwad,Dharwar,Capsicum,1800,3200,2500,2020-04-13
+Dharwad,Hubli (Amaragol),Capsicum,1100,2000,1800,2020-04-14
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-04-14
+Dharwad,Dharwar,Capsicum,1600,2000,1800,2020-04-15
+Dharwad,Hubli (Amaragol),Capsicum,1100,2400,1700,2020-04-15
+Dharwad,Hubli (Amaragol),Capsicum,1000,2500,2000,2020-04-16
+Dharwad,Dharwar,Capsicum,1500,2000,1750,2020-04-16
+Dharwad,Hubli (Amaragol),Capsicum,1200,2500,2200,2020-04-17
+Dharwad,Dharwar,Capsicum,1500,2000,1750,2020-04-18
+Dharwad,Hubli (Amaragol),Capsicum,1000,2500,1700,2020-04-18
+Dharwad,Dharwar,Capsicum,2000,2000,2000,2020-04-19
+Dharwad,Dharwar,Capsicum,1800,2000,1900,2020-04-20
+Dharwad,Dharwar,Capsicum,1800,2000,1900,2020-04-21
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-04-22
+Dharwad,Hubli (Amaragol),Capsicum,1100,2250,1900,2020-04-23
+Dharwad,Dharwar,Capsicum,1500,2000,1750,2020-04-23
+Dharwad,Hubli (Amaragol),Capsicum,1100,2200,1800,2020-04-24
+Dharwad,Dharwar,Capsicum,1500,1800,1650,2020-04-25
+Dharwad,Hubli (Amaragol),Capsicum,1100,2200,1400,2020-04-25
+Dharwad,Hubli (Amaragol),Capsicum,1100,2200,1600,2020-04-26
+Dharwad,Dharwar,Capsicum,1800,2250,2025,2020-04-26
+Dharwad,Hubli (Amaragol),Capsicum,1000,1800,1500,2020-04-28
+Dharwad,Dharwar,Capsicum,2500,3000,2750,2020-04-28
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-04-29
+Dharwad,Hubli (Amaragol),Capsicum,1100,1900,1600,2020-04-29
+Dharwad,Hubli (Amaragol),Capsicum,1000,1800,1400,2020-04-30
+Dharwad,Dharwar,Capsicum,2000,2200,2100,2020-04-30
+Dharwad,Hubli (Amaragol),Capsicum,900,1800,1400,2020-05-01
+Dharwad,Hubli (Amaragol),Capsicum,800,1600,1200,2020-05-02
+Dharwad,Dharwar,Capsicum,1500,1800,1650,2020-05-02
+Dharwad,Dharwar,Capsicum,1600,2000,1800,2020-05-03
+Dharwad,Dharwar,Capsicum,1800,2000,1900,2020-05-04
+Dharwad,Hubli (Amaragol),Capsicum,700,1650,1100,2020-05-05
+Dharwad,Dharwar,Capsicum,2000,2200,2100,2020-05-05
+Dharwad,Hubli (Amaragol),Capsicum,650,1400,900,2020-05-06
+Dharwad,Dharwar,Capsicum,1500,1800,1650,2020-05-06
+Dharwad,Hubli (Amaragol),Capsicum,600,1350,950,2020-05-07
+Dharwad,Dharwar,Capsicum,1800,2000,1900,2020-05-07
+Dharwad,Hubli (Amaragol),Capsicum,600,1400,900,2020-05-08
+Dharwad,Hubli (Amaragol),Capsicum,600,1500,900,2020-05-09
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-05-09
+Dharwad,Dharwar,Capsicum,2000,2200,2100,2020-05-10
+Dharwad,Dharwar,Capsicum,1500,2500,2000,2020-05-11
+Dharwad,Hubli (Amaragol),Capsicum,600,1500,1000,2020-05-12
+Dharwad,Hubli (Amaragol),Capsicum,600,1600,1100,2020-05-13
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-05-13
+Dharwad,Hubli (Amaragol),Capsicum,700,1800,1300,2020-05-14
+Dharwad,Dharwar,Capsicum,2000,3000,2500,2020-05-14
+Dharwad,Hubli (Amaragol),Capsicum,700,1700,1200,2020-05-15
+Dharwad,Hubli (Amaragol),Capsicum,600,1450,1000,2020-05-16
+Dharwad,Dharwar,Capsicum,2500,3000,2750,2020-05-16
+Dharwad,Dharwar,Capsicum,2000,3000,2500,2020-05-17
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-05-18
+Dharwad,Dharwar,Capsicum,2000,3200,2600,2020-05-19
+Dharwad,Hubli (Amaragol),Capsicum,700,1800,1200,2020-05-19
+Dharwad,Dharwar,Capsicum,2000,3200,2600,2020-05-20
+Dharwad,Hubli (Amaragol),Capsicum,700,1750,1350,2020-05-20
+Dharwad,Dharwar,Capsicum,2000,3200,2600,2020-05-21
+Dharwad,Hubli (Amaragol),Capsicum,600,1580,1050,2020-05-21
+Dharwad,Dharwar,Capsicum,2000,3200,2600,2020-05-22
+Dharwad,Hubli (Amaragol),Capsicum,600,1500,1200,2020-05-22
+Dharwad,Dharwar,Capsicum,1500,2000,1750,2020-05-23
+Dharwad,Hubli (Amaragol),Capsicum,800,1900,1300,2020-05-26
+Dharwad,Dharwar,Capsicum,2000,3000,2500,2020-05-26
+Dharwad,Hubli (Amaragol),Capsicum,800,1800,1300,2020-05-27
+Dharwad,Dharwar,Capsicum,3000,3500,3250,2020-05-27
+Dharwad,Hubli (Amaragol),Capsicum,850,1500,1100,2020-05-28
+Dharwad,Dharwar,Capsicum,2500,3000,2750,2020-05-28
+Dharwad,Hubli (Amaragol),Capsicum,800,1500,1100,2020-05-29
+Dharwad,Hubli (Amaragol),Capsicum,700,1500,900,2020-05-30
+Dharwad,Dharwar,Capsicum,2500,3000,2750,2020-05-30
+Dharwad,Dharwar,Capsicum,2500,3000,2750,2020-06-01
+Dharwad,Hubli (Amaragol),Capsicum,500,1300,900,2020-06-01
+Dharwad,Hubli (Amaragol),Capsicum,700,1400,1000,2020-06-02
+Dharwad,Dharwar,Capsicum,2500,3000,2750,2020-06-02
+Dharwad,Hubli (Amaragol),Capsicum,600,1400,1100,2020-06-03
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-06-03
+Dharwad,Hubli (Amaragol),Capsicum,600,1200,1000,2020-06-04
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-06-04
+Dharwad,Hubli (Amaragol),Capsicum,600,1250,850,2020-06-06
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-06-06
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-06-07
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-06-08
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-06-09
+Dharwad,Hubli (Amaragol),Capsicum,500,1000,700,2020-06-09
+Dharwad,Hubli (Amaragol),Capsicum,500,1000,700,2020-06-10
+Dharwad,Hubli (Amaragol),Capsicum,500,1100,800,2020-06-11
+Dharwad,Dharwar,Capsicum,2000,2500,2250,2020-06-11
+Dharwad,Hubli (Amaragol),Capsicum,500,1100,800,2020-06-13
+Dharwad,Dharwar,Capsicum,4000,5000,4500,2020-06-13
+Dharwad,Dharwar,Capsicum,4000,5000,4500,2020-06-15
+Dharwad,Dharwar,Capsicum,2500,3500,3000,2020-06-16
+Dharwad,Hubli (Amaragol),Capsicum,600,1200,1000,2020-06-16
+Dharwad,Hubli (Amaragol),Capsicum,500,1100,900,2020-06-17
+Dharwad,Dharwar,Capsicum,2500,3500,3000,2020-06-17
+Dharwad,Hubli (Amaragol),Capsicum,500,1000,700,2020-06-18
+Dharwad,Dharwar,Capsicum,2500,3500,3000,2020-06-18
+Dharwad,Hubli (Amaragol),Capsicum,500,1100,850,2020-06-19
+Dharwad,Hubli (Amaragol),Capsicum,500,1100,850,2020-06-20
+Dharwad,Dharwar,Capsicum,2500,3500,3000,2020-06-20
+Dharwad,Hubli (Amaragol),Capsicum,500,1000,700,2020-06-23
+Dharwad,Dharwar,Capsicum,2500,3500,3000,2020-06-23
+Dharwad,Hubli (Amaragol),Capsicum,500,1100,800,2020-06-24
+Dharwad,Dharwar,Capsicum,2500,3000,2750,2020-06-24
+Dharwad,Hubli (Amaragol),Capsicum,600,1000,800,2020-06-25
+Dharwad,Hubli (Amaragol),Capsicum,600,1050,800,2020-06-26
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-06-27
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-06-28
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-06-30
+Dharwad,Hubli (Amaragol),Capsicum,550,1050,750,2020-06-30
+Dharwad,Hubli (Amaragol),Capsicum,500,1100,800,2020-07-01
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-07-01
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-07-02
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-07-03
+Dharwad,Hubli (Amaragol),Capsicum,600,1200,900,2020-07-04
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-07-06
+Dharwad,Dharwar,Capsicum,1800,2000,1900,2020-07-13
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-07-14
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-07-15
+Dharwad,Dharwar,Capsicum,4500,4500,4500,2020-07-16
+Dharwad,Dharwar,Capsicum,4500,4500,4500,2020-07-17
+Dharwad,Dharwar,Capsicum,4500,4500,4500,2020-07-18
+Dharwad,Dharwar,Capsicum,4500,4500,4500,2020-07-20
+Dharwad,Dharwar,Capsicum,4500,4500,4500,2020-07-21
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-07-22
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-07-23
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-07-27
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-07-29
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-07-30
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-02
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-03
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-04
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-05
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-06
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-08
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-09
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-10
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-12
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-13
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-15
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-18
+Dharwad,Dharwar,Capsicum,4000,4500,4250,2020-08-20
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-08-25
+Dharwad,Dharwar,Capsicum,3500,4000,3750,2020-08-26

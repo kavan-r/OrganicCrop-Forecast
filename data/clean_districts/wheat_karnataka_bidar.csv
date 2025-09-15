@@ -1,0 +1,2745 @@
+district name,market name,commodity,min price (rs./quintal),max price (rs./quintal),modal price (rs./quintal),price date
+Bidar,Bidar,Wheat,2450,2850,2650,2020-01-01
+Bidar,Bidar,Wheat,2400,2850,2650,2020-01-02
+Bidar,Bidar,Wheat,2400,2850,2650,2020-01-03
+Bidar,Bidar,Wheat,2400,2850,2560,2020-01-04
+Bidar,Bidar,Wheat,2400,2811,2650,2020-01-06
+Bidar,Bidar,Wheat,2400,2850,2650,2020-01-08
+Bidar,Bidar,Wheat,2400,2850,2650,2020-01-09
+Bidar,Bidar,Wheat,2400,2850,2650,2020-01-10
+Bidar,Bidar,Wheat,2400,2850,2650,2020-01-11
+Bidar,Bidar,Wheat,2400,2850,2650,2020-01-13
+Bidar,Bidar,Wheat,2400,2880,2650,2020-01-14
+Bidar,Bidar,Wheat,4100,5500,4500,2020-01-17
+Bidar,Bidar,Wheat,2400,2850,2600,2020-01-18
+Bidar,Bidar,Wheat,2400,2850,2600,2020-01-20
+Bidar,Bidar,Wheat,2400,2850,2600,2020-01-21
+Bidar,Bidar,Wheat,2400,2850,2600,2020-01-22
+Bidar,Bidar,Wheat,2400,2850,2600,2020-01-23
+Bidar,Bidar,Wheat,2400,2800,2600,2020-01-25
+Bidar,Basava Kalayana,Wheat,2000,2600,2300,2020-01-25
+Bidar,Bidar,Wheat,2400,2800,2600,2020-01-27
+Bidar,Bidar,Wheat,2400,2800,2600,2020-01-28
+Bidar,Bidar,Wheat,2400,2800,2600,2020-01-29
+Bidar,Bidar,Wheat,2400,2850,2600,2020-01-30
+Bidar,Bidar,Wheat,2400,2800,2600,2020-01-31
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-01
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-03
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-04
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-05
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-06
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-07
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-08
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-10
+Bidar,Bidar,Wheat,2400,2800,2500,2020-02-11
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-12
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-13
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-14
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-15
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-17
+Bidar,Bidar,Wheat,2400,2800,2650,2020-02-18
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-20
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-24
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-25
+Bidar,Bidar,Wheat,2400,2850,2600,2020-02-26
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-27
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-28
+Bidar,Bidar,Wheat,2400,2800,2600,2020-02-29
+Bidar,Basava Kalayana,Wheat,1700,2100,1900,2020-03-02
+Bidar,Bidar,Wheat,2400,2800,2500,2020-03-02
+Bidar,Bidar,Wheat,2400,2800,2600,2020-03-03
+Bidar,Basava Kalayana,Wheat,2000,2300,2150,2020-03-04
+Bidar,Basava Kalayana,Wheat,2800,3400,3000,2020-03-04
+Bidar,Bidar,Wheat,2400,2800,2600,2020-03-04
+Bidar,Basava Kalayana,Wheat,2200,2200,2200,2020-03-05
+Bidar,Basava Kalayana,Wheat,2600,3100,2900,2020-03-05
+Bidar,Bidar,Wheat,2400,2800,2600,2020-03-05
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2020-03-06
+Bidar,Bidar,Wheat,2400,2800,2600,2020-03-06
+Bidar,Basava Kalayana,Wheat,2400,2901,2850,2020-03-06
+Bidar,Bidar,Wheat,2400,2800,2600,2020-03-07
+Bidar,Basava Kalayana,Wheat,1900,2100,2000,2020-03-11
+Bidar,Bidar,Wheat,2400,2800,2600,2020-03-11
+Bidar,Basava Kalayana,Wheat,2281,2281,2281,2020-03-11
+Bidar,Basava Kalayana,Wheat,1951,1951,1951,2020-03-12
+Bidar,Bidar,Wheat,2400,2800,2600,2020-03-12
+Bidar,Basava Kalayana,Wheat,2100,2451,2400,2020-03-12
+Bidar,Basava Kalayana,Wheat,2000,2000,2000,2020-03-13
+Bidar,Bidar,Wheat,2400,2800,2600,2020-03-13
+Bidar,Basava Kalayana,Wheat,1851,2550,2201,2020-03-13
+Bidar,Bidar,Wheat,2400,2800,2600,2020-03-14
+Bidar,Bidar,Wheat,2400,2800,2500,2020-03-16
+Bidar,Basava Kalayana,Wheat,2071,2580,2302,2020-03-16
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2020-03-17
+Bidar,Basava Kalayana,Wheat,2175,2175,2175,2020-03-17
+Bidar,Basava Kalayana,Wheat,2500,2790,2700,2020-03-18
+Bidar,Basava Kalayana,Wheat,2100,2100,2100,2020-03-18
+Bidar,Bidar,Wheat,2400,2800,2600,2020-04-07
+Bidar,Humanabad,Wheat,2400,2700,2500,2020-04-08
+Bidar,Bidar,Wheat,2400,2800,2600,2020-04-09
+Bidar,Humanabad,Wheat,1800,2600,2400,2020-04-09
+Bidar,Humanabad,Wheat,2100,2600,2400,2020-04-10
+Bidar,Bidar,Wheat,2400,2800,2600,2020-04-11
+Bidar,Humanabad,Wheat,2500,2800,2600,2020-04-11
+Bidar,Bidar,Wheat,2600,3200,2800,2020-04-13
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2020-04-13
+Bidar,Basava Kalayana,Wheat,2700,2700,2700,2020-04-15
+Bidar,Bidar,Wheat,2600,3200,2800,2020-04-15
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2020-04-15
+Bidar,Basava Kalayana,Wheat,2500,3000,2800,2020-04-16
+Bidar,Basava Kalayana,Wheat,2000,2060,2000,2020-04-16
+Bidar,Humanabad,Wheat,2200,2600,2500,2020-04-17
+Bidar,Basava Kalayana,Wheat,2700,2825,2800,2020-04-17
+Bidar,Humanabad,Wheat,2200,2600,2400,2020-04-18
+Bidar,Basava Kalayana,Wheat,2800,2800,2800,2020-04-18
+Bidar,Basava Kalayana,Wheat,1450,1450,1450,2020-04-18
+Bidar,Humanabad,Wheat,2200,2500,2400,2020-04-19
+Bidar,Basava Kalayana,Wheat,3000,3150,3121,2020-04-20
+Bidar,Bidar,Wheat,2600,3200,2800,2020-04-20
+Bidar,Basava Kalayana,Wheat,2800,3120,3100,2020-04-21
+Bidar,Bidar,Wheat,2600,3200,2800,2020-04-21
+Bidar,Basava Kalayana,Wheat,1600,1600,1600,2020-04-21
+Bidar,Humanabad,Wheat,2000,2600,2400,2020-04-21
+Bidar,Bidar,Wheat,2600,3200,2800,2020-04-22
+Bidar,Humanabad,Wheat,2000,2800,2500,2020-04-22
+Bidar,Basava Kalayana,Wheat,3011,3271,3200,2020-04-23
+Bidar,Bidar,Wheat,2600,3200,2800,2020-04-24
+Bidar,Basava Kalayana,Wheat,1650,1650,1650,2020-04-24
+Bidar,Humanabad,Wheat,2000,2600,2400,2020-04-24
+Bidar,Basava Kalayana,Wheat,3151,3350,3211,2020-04-24
+Bidar,Humanabad,Wheat,5000,5200,5100,2020-04-25
+Bidar,Basava Kalayana,Wheat,3050,3301,3241,2020-04-25
+Bidar,Bidar,Wheat,2600,3200,2800,2020-04-25
+Bidar,Basava Kalayana,Wheat,1650,1650,1650,2020-04-25
+Bidar,Bidar,Wheat,2600,3200,2800,2020-04-27
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2020-04-27
+Bidar,Basava Kalayana,Wheat,3200,3300,3251,2020-04-27
+Bidar,Bidar,Wheat,2600,3200,2800,2020-04-28
+Bidar,Humanabad,Wheat,2800,3080,2900,2020-04-28
+Bidar,Basava Kalayana,Wheat,3250,3460,3361,2020-04-28
+Bidar,Bidar,Wheat,2600,3200,2800,2020-04-29
+Bidar,Basava Kalayana,Wheat,2600,2600,2600,2020-04-29
+Bidar,Humanabad,Wheat,3000,3100,3050,2020-04-29
+Bidar,Basava Kalayana,Wheat,3250,3450,3355,2020-04-29
+Bidar,Basava Kalayana,Wheat,3100,3250,3211,2020-04-30
+Bidar,Bidar,Wheat,2600,2800,2700,2020-04-30
+Bidar,Humanabad,Wheat,2900,3150,3000,2020-04-30
+Bidar,Basava Kalayana,Wheat,3200,3200,3200,2020-05-02
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-02
+Bidar,Humanabad,Wheat,3000,3150,3100,2020-05-02
+Bidar,Humanabad,Wheat,3000,3200,3100,2020-05-03
+Bidar,Basava Kalayana,Wheat,2801,3415,3280,2020-05-04
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2020-05-04
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-04
+Bidar,Basava Kalayana,Wheat,3380,3460,3420,2020-05-05
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2020-05-05
+Bidar,Humanabad,Wheat,2900,3100,3000,2020-05-05
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-05
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-06
+Bidar,Basava Kalayana,Wheat,3380,3460,3420,2020-05-06
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2020-05-06
+Bidar,Humanabad,Wheat,2900,3200,3100,2020-05-06
+Bidar,Basava Kalayana,Wheat,1650,1650,1650,2020-05-07
+Bidar,Humanabad,Wheat,3000,3200,3100,2020-05-07
+Bidar,Basava Kalayana,Wheat,2800,3300,3291,2020-05-07
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-07
+Bidar,Basava Kalayana,Wheat,1840,1840,1840,2020-05-08
+Bidar,Basava Kalayana,Wheat,3300,3451,3400,2020-05-08
+Bidar,Humanabad,Wheat,3000,3200,3100,2020-05-08
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-08
+Bidar,Humanabad,Wheat,3000,3225,3200,2020-05-09
+Bidar,Basava Kalayana,Wheat,1850,1850,1850,2020-05-09
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-09
+Bidar,Basava Kalayana,Wheat,3001,3240,3100,2020-05-09
+Bidar,Basava Kalayana,Wheat,1650,1650,1650,2020-05-11
+Bidar,Bidar,Wheat,2600,3600,3200,2020-05-11
+Bidar,Basava Kalayana,Wheat,3200,3450,3330,2020-05-11
+Bidar,Bidar,Wheat,2600,3600,3200,2020-05-12
+Bidar,Humanabad,Wheat,2800,3200,3000,2020-05-12
+Bidar,Basava Kalayana,Wheat,3100,3301,3200,2020-05-12
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-13
+Bidar,Basava Kalayana,Wheat,3250,3400,3399,2020-05-13
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2020-05-15
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-15
+Bidar,Basava Kalayana,Wheat,3100,3350,3250,2020-05-15
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2020-05-16
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-16
+Bidar,Basava Kalayana,Wheat,3200,3391,3350,2020-05-16
+Bidar,Humanabad,Wheat,2900,3200,3000,2020-05-16
+Bidar,Humanabad,Wheat,2800,3230,3000,2020-05-17
+Bidar,Basava Kalayana,Wheat,3100,3250,3200,2020-05-18
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-18
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-19
+Bidar,Humanabad,Wheat,2900,3200,3100,2020-05-19
+Bidar,Basava Kalayana,Wheat,3200,3299,3250,2020-05-19
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2020-05-19
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-20
+Bidar,Basava Kalayana,Wheat,3102,3399,3250,2020-05-20
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2020-05-20
+Bidar,Humanabad,Wheat,2900,3200,3000,2020-05-20
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-21
+Bidar,Basava Kalayana,Wheat,3250,3250,3250,2020-05-21
+Bidar,Humanabad,Wheat,2900,3200,3000,2020-05-21
+Bidar,Basava Kalayana,Wheat,2900,3240,3100,2020-05-23
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2020-05-23
+Bidar,Bidar,Wheat,2600,3200,2800,2020-05-23
+Bidar,Humanabad,Wheat,2900,3200,3000,2020-05-23
+Bidar,Humanabad,Wheat,3500,3800,3600,2020-05-26
+Bidar,Bidar,Wheat,2400,3200,2800,2020-05-26
+Bidar,Humanabad,Wheat,2800,3200,3000,2020-05-27
+Bidar,Basava Kalayana,Wheat,2525,3100,2825,2020-05-27
+Bidar,Basava Kalayana,Wheat,2050,2050,2050,2020-05-27
+Bidar,Bidar,Wheat,2400,3200,2800,2020-05-27
+Bidar,Humanabad,Wheat,2800,3200,3000,2020-05-28
+Bidar,Basava Kalayana,Wheat,2901,3000,2989,2020-05-28
+Bidar,Bidar,Wheat,2400,3200,2800,2020-05-28
+Bidar,Bidar,Wheat,2400,3250,2850,2020-05-29
+Bidar,Humanabad,Wheat,2800,3200,3000,2020-05-29
+Bidar,Basava Kalayana,Wheat,2950,3066,3000,2020-05-29
+Bidar,Bidar,Wheat,2400,3200,2800,2020-05-30
+Bidar,Humanabad,Wheat,2800,3200,3000,2020-05-30
+Bidar,Basava Kalayana,Wheat,2850,3075,2902,2020-06-01
+Bidar,Bidar,Wheat,2400,3100,2800,2020-06-01
+Bidar,Basava Kalayana,Wheat,1771,1771,1771,2020-06-01
+Bidar,Basava Kalayana,Wheat,2700,2900,2850,2020-06-02
+Bidar,Bidar,Wheat,2400,3100,2800,2020-06-02
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-03
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2020-06-03
+Bidar,Basava Kalayana,Wheat,2900,2900,2900,2020-06-03
+Bidar,Bidar,Wheat,2500,3300,2700,2020-06-04
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-06
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-08
+Bidar,Basava Kalayana,Wheat,1865,1865,1865,2020-06-08
+Bidar,Basava Kalayana,Wheat,3000,3280,3100,2020-06-08
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-09
+Bidar,Basava Kalayana,Wheat,3000,3450,3400,2020-06-09
+Bidar,Basava Kalayana,Wheat,3250,3400,3381,2020-06-10
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-10
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-11
+Bidar,Basava Kalayana,Wheat,3371,3471,3448,2020-06-11
+Bidar,Basava Kalayana,Wheat,1600,1900,1890,2020-06-11
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-12
+Bidar,Basava Kalayana,Wheat,3250,3400,3300,2020-06-12
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-13
+Bidar,Basava Kalayana,Wheat,3380,3480,3400,2020-06-13
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-15
+Bidar,Basava Kalayana,Wheat,2030,2030,2030,2020-06-15
+Bidar,Basava Kalayana,Wheat,3201,3531,3380,2020-06-15
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-16
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-17
+Bidar,Basava Kalayana,Wheat,3395,3480,3431,2020-06-17
+Bidar,Bidar,Wheat,2400,3100,2800,2020-06-18
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-19
+Bidar,Basava Kalayana,Wheat,1850,1850,1850,2020-06-20
+Bidar,Basava Kalayana,Wheat,3451,3451,3451,2020-06-20
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-20
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2020-06-22
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-22
+Bidar,Basava Kalayana,Wheat,3500,3500,3500,2020-06-22
+Bidar,Basava Kalayana,Wheat,3200,3571,3500,2020-06-23
+Bidar,Bidar,Wheat,2400,3250,2850,2020-06-23
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-24
+Bidar,Basava Kalayana,Wheat,3451,3500,3471,2020-06-24
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-25
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2020-06-26
+Bidar,Basava Kalayana,Wheat,3541,3541,3541,2020-06-26
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-26
+Bidar,Bidar,Wheat,2400,3900,3200,2020-06-27
+Bidar,Basava Kalayana,Wheat,1940,1940,1940,2020-06-27
+Bidar,Basava Kalayana,Wheat,3500,3751,3721,2020-06-27
+Bidar,Basava Kalayana,Wheat,3711,3771,3751,2020-06-29
+Bidar,Basava Kalayana,Wheat,1926,1926,1926,2020-06-29
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-29
+Bidar,Bidar,Wheat,2400,3200,2800,2020-06-30
+Bidar,Bidar,Wheat,2400,3200,2800,2020-07-01
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2020-07-01
+Bidar,Basava Kalayana,Wheat,3600,3600,3600,2020-07-01
+Bidar,Bidar,Wheat,2400,3200,2800,2020-07-02
+Bidar,Basava Kalayana,Wheat,3800,3941,3931,2020-07-03
+Bidar,Bidar,Wheat,2400,3200,2800,2020-07-03
+Bidar,Basava Kalayana,Wheat,2050,2050,2050,2020-07-04
+Bidar,Bidar,Wheat,2400,3200,2800,2020-07-04
+Bidar,Basava Kalayana,Wheat,4000,4051,4021,2020-07-04
+Bidar,Bidar,Wheat,2400,3100,2700,2020-07-06
+Bidar,Basava Kalayana,Wheat,4101,4101,4101,2020-07-07
+Bidar,Bidar,Wheat,2400,3100,2700,2020-07-07
+Bidar,Bidar,Wheat,2300,3100,2700,2020-07-08
+Bidar,Basava Kalayana,Wheat,4191,4191,4191,2020-07-08
+Bidar,Basava Kalayana,Wheat,1850,1850,1850,2020-07-09
+Bidar,Bidar,Wheat,2400,3100,2700,2020-07-09
+Bidar,Basava Kalayana,Wheat,1950,1950,1950,2020-07-10
+Bidar,Bidar,Wheat,2400,2800,2600,2020-07-10
+Bidar,Basava Kalayana,Wheat,4100,4100,4100,2020-07-10
+Bidar,Bidar,Wheat,2400,3200,2800,2020-07-11
+Bidar,Basava Kalayana,Wheat,4150,4350,4291,2020-07-11
+Bidar,Bidar,Wheat,2400,3100,2700,2020-07-27
+Bidar,Basava Kalayana,Wheat,1851,1851,1851,2020-07-27
+Bidar,Basava Kalayana,Wheat,3901,4071,4050,2020-07-27
+Bidar,Bidar,Wheat,2400,3100,2700,2020-07-28
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2020-07-28
+Bidar,Basava Kalayana,Wheat,4000,4100,4062,2020-07-28
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2020-07-29
+Bidar,Basava Kalayana,Wheat,4000,4251,4080,2020-07-29
+Bidar,Bidar,Wheat,2400,3100,2700,2020-07-29
+Bidar,Basava Kalayana,Wheat,4251,4341,4330,2020-07-30
+Bidar,Bidar,Wheat,2400,3100,2700,2020-07-30
+Bidar,Bidar,Wheat,2400,3100,2700,2020-07-31
+Bidar,Basava Kalayana,Wheat,4000,4301,4200,2020-08-04
+Bidar,Basava Kalayana,Wheat,1880,1880,1880,2020-08-04
+Bidar,Bidar,Wheat,2200,2600,2400,2020-08-04
+Bidar,Basava Kalayana,Wheat,1899,1899,1899,2020-08-05
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-05
+Bidar,Basava Kalayana,Wheat,4000,4300,4100,2020-08-05
+Bidar,Basava Kalayana,Wheat,4100,4350,4251,2020-08-06
+Bidar,Bidar,Wheat,2400,3100,2800,2020-08-06
+Bidar,Basava Kalayana,Wheat,1881,1881,1881,2020-08-07
+Bidar,Basava Kalayana,Wheat,4251,4350,4340,2020-08-07
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-07
+Bidar,Basava Kalayana,Wheat,4050,4250,4200,2020-08-08
+Bidar,Basava Kalayana,Wheat,1881,2250,2000,2020-08-08
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-08
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-11
+Bidar,Basava Kalayana,Wheat,4000,4200,4100,2020-08-11
+Bidar,Basava Kalayana,Wheat,1850,2200,2000,2020-08-11
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-12
+Bidar,Basava Kalayana,Wheat,1800,2200,2000,2020-08-12
+Bidar,Basava Kalayana,Wheat,4000,4340,4320,2020-08-12
+Bidar,Basava Kalayana,Wheat,3691,4222,4200,2020-08-13
+Bidar,Basava Kalayana,Wheat,1850,1850,1850,2020-08-13
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-13
+Bidar,Basava Kalayana,Wheat,4291,4351,4300,2020-08-14
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-14
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-17
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-18
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-20
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-21
+Bidar,Basava Kalayana,Wheat,4200,4361,4300,2020-08-21
+Bidar,Basava Kalayana,Wheat,4100,4350,4150,2020-08-24
+Bidar,Basava Kalayana,Wheat,1700,1900,1800,2020-08-24
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-24
+Bidar,Bidar,Wheat,2400,3100,2700,2020-08-25
+Bidar,Basava Kalayana,Wheat,4100,4371,4200,2020-08-25
+Bidar,Basava Kalayana,Wheat,1750,1850,1800,2020-08-25
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2020-08-26
+Bidar,Basava Kalayana,Wheat,4100,4350,4302,2020-08-26
+Bidar,Bidar,Wheat,2400,3000,2700,2020-08-27
+Bidar,Basava Kalayana,Wheat,1650,1800,1700,2020-08-27
+Bidar,Basava Kalayana,Wheat,4100,4380,4200,2020-08-27
+Bidar,Bidar,Wheat,2400,3000,2700,2020-08-28
+Bidar,Bidar,Wheat,2400,3000,2700,2020-08-29
+Bidar,Basava Kalayana,Wheat,1600,1800,1700,2020-08-31
+Bidar,Basava Kalayana,Wheat,4000,4250,4100,2020-08-31
+Bidar,Bidar,Wheat,2400,3000,2700,2020-08-31
+Bidar,Bidar,Wheat,2400,2900,2600,2020-09-01
+Bidar,Basava Kalayana,Wheat,4500,4700,4580,2020-09-01
+Bidar,Basava Kalayana,Wheat,1600,1720,1650,2020-09-01
+Bidar,Basava Kalayana,Wheat,1600,1680,1650,2020-09-02
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-02
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-03
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-04
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-05
+Bidar,Basava Kalayana,Wheat,4500,4700,4550,2020-09-05
+Bidar,Basava Kalayana,Wheat,1600,1651,1645,2020-09-05
+Bidar,Basava Kalayana,Wheat,4800,5201,5000,2020-09-07
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-07
+Bidar,Basava Kalayana,Wheat,1570,1650,1600,2020-09-07
+Bidar,Basava Kalayana,Wheat,4800,4950,4800,2020-09-08
+Bidar,Basava Kalayana,Wheat,1600,1651,1600,2020-09-08
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-08
+Bidar,Basava Kalayana,Wheat,1600,1700,1650,2020-09-09
+Bidar,Basava Kalayana,Wheat,4500,5020,4800,2020-09-09
+Bidar,Basava Kalayana,Wheat,1601,1601,1601,2020-09-10
+Bidar,Basava Kalayana,Wheat,4890,5490,5410,2020-09-10
+Bidar,Basava Kalayana,Wheat,5400,5900,5800,2020-09-12
+Bidar,Basava Kalayana,Wheat,1600,1720,1650,2020-09-12
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-14
+Bidar,Basava Kalayana,Wheat,5200,5900,5500,2020-09-14
+Bidar,Basava Kalayana,Wheat,1600,1700,1650,2020-09-14
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-15
+Bidar,Basava Kalayana,Wheat,5300,6700,6300,2020-09-16
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-16
+Bidar,Basava Kalayana,Wheat,6000,6800,6400,2020-09-18
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-18
+Bidar,Basava Kalayana,Wheat,1601,1601,1601,2020-09-18
+Bidar,Basava Kalayana,Wheat,6700,6700,6700,2020-09-19
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-19
+Bidar,Basava Kalayana,Wheat,1600,1600,1600,2020-09-19
+Bidar,Basava Kalayana,Wheat,6050,6301,6100,2020-09-21
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-21
+Bidar,Basava Kalayana,Wheat,1600,1600,1600,2020-09-21
+Bidar,Basava Kalayana,Wheat,5601,6101,5950,2020-09-22
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-22
+Bidar,Basava Kalayana,Wheat,1625,1625,1625,2020-09-22
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-23
+Bidar,Basava Kalayana,Wheat,5501,5900,5790,2020-09-24
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-24
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-25
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-26
+Bidar,Basava Kalayana,Wheat,5550,6300,5801,2020-09-29
+Bidar,Basava Kalayana,Wheat,1601,1601,1601,2020-09-29
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-29
+Bidar,Basava Kalayana,Wheat,1500,1500,1500,2020-09-30
+Bidar,Bidar,Wheat,2400,3000,2700,2020-09-30
+Bidar,Basava Kalayana,Wheat,5500,6000,5800,2020-09-30
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-01
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-03
+Bidar,Basava Kalayana,Wheat,1500,1550,1510,2020-10-05
+Bidar,Basava Kalayana,Wheat,5500,6000,5600,2020-10-05
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-05
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-06
+Bidar,Basava Kalayana,Wheat,1550,1550,1550,2020-10-07
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-07
+Bidar,Basava Kalayana,Wheat,5800,6100,6000,2020-10-07
+Bidar,Basava Kalayana,Wheat,5500,6000,5900,2020-10-08
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-08
+Bidar,Basava Kalayana,Wheat,1550,1720,1600,2020-10-08
+Bidar,Basava Kalayana,Wheat,1501,1701,1601,2020-10-09
+Bidar,Basava Kalayana,Wheat,5000,6100,5800,2020-10-09
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-09
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-10
+Bidar,Basava Kalayana,Wheat,5000,6150,5500,2020-10-12
+Bidar,Basava Kalayana,Wheat,1500,1500,1500,2020-10-12
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-12
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-13
+Bidar,Basava Kalayana,Wheat,1500,1550,1540,2020-10-13
+Bidar,Basava Kalayana,Wheat,5500,6100,6000,2020-10-13
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-14
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-15
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-17
+Bidar,Basava Kalayana,Wheat,5500,6100,5600,2020-10-19
+Bidar,Basava Kalayana,Wheat,1500,1500,1500,2020-10-19
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-19
+Bidar,Basava Kalayana,Wheat,5500,6500,6100,2020-10-20
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-20
+Bidar,Basava Kalayana,Wheat,1500,1500,1500,2020-10-20
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-21
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-22
+Bidar,Basava Kalayana,Wheat,1500,1550,1540,2020-10-22
+Bidar,Basava Kalayana,Wheat,5100,6500,6100,2020-10-22
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-23
+Bidar,Basava Kalayana,Wheat,1450,1600,1500,2020-10-23
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-24
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-28
+Bidar,Bidar,Wheat,2400,3000,2700,2020-10-29
+Bidar,Bidar,Wheat,2400,3000,2700,2020-11-02
+Bidar,Basava Kalayana,Wheat,5500,6900,6500,2020-11-03
+Bidar,Bidar,Wheat,2500,3000,2800,2020-11-03
+Bidar,Basava Kalayana,Wheat,1500,1500,1500,2020-11-03
+Bidar,Basava Kalayana,Wheat,1400,1400,1400,2020-11-04
+Bidar,Basava Kalayana,Wheat,6100,6500,6200,2020-11-04
+Bidar,Bidar,Wheat,2400,3000,2700,2020-11-04
+Bidar,Bidar,Wheat,2500,3000,2800,2020-11-05
+Bidar,Basava Kalayana,Wheat,5500,6200,5500,2020-11-05
+Bidar,Basava Kalayana,Wheat,1400,1500,1450,2020-11-05
+Bidar,Bidar,Wheat,2500,3000,2700,2020-11-06
+Bidar,Bidar,Wheat,2500,3000,2800,2020-11-07
+Bidar,Basava Kalayana,Wheat,1400,1500,1450,2020-11-09
+Bidar,Basava Kalayana,Wheat,5000,6900,6200,2020-11-09
+Bidar,Basava Kalayana,Wheat,1400,1500,1450,2020-11-10
+Bidar,Basava Kalayana,Wheat,6000,6580,6200,2020-11-10
+Bidar,Bidar,Wheat,2500,3000,2700,2020-11-18
+Bidar,Basava Kalayana,Wheat,1400,1400,1400,2020-11-18
+Bidar,Basava Kalayana,Wheat,5600,7000,6500,2020-11-18
+Bidar,Bidar,Wheat,2500,3000,2700,2020-11-19
+Bidar,Bidar,Wheat,2400,3000,2600,2020-11-20
+Bidar,Bidar,Wheat,2400,2800,2500,2020-11-21
+Bidar,Bidar,Wheat,2400,2800,2600,2020-11-23
+Bidar,Bidar,Wheat,2400,2800,2600,2020-11-24
+Bidar,Bidar,Wheat,2400,2900,2600,2020-11-25
+Bidar,Basava Kalayana,Wheat,1400,1800,1450,2020-11-26
+Bidar,Bidar,Wheat,2400,2800,2600,2020-11-26
+Bidar,Bidar,Wheat,2400,2900,2600,2020-11-27
+Bidar,Bidar,Wheat,2400,2900,2700,2020-11-28
+Bidar,Bidar,Wheat,2400,2900,2700,2020-11-30
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-01
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-02
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-04
+Bidar,Basava Kalayana,Wheat,6000,6800,6200,2020-12-05
+Bidar,Basava Kalayana,Wheat,1300,1450,1400,2020-12-05
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-07
+Bidar,Basava Kalayana,Wheat,6000,6650,6300,2020-12-09
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-09
+Bidar,Basava Kalayana,Wheat,1400,1600,1550,2020-12-09
+Bidar,Basava Kalayana,Wheat,6000,6800,6500,2020-12-10
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-10
+Bidar,Basava Kalayana,Wheat,1300,1450,1400,2020-12-10
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-11
+Bidar,Basava Kalayana,Wheat,5500,6600,6300,2020-12-12
+Bidar,Basava Kalayana,Wheat,1300,1450,1300,2020-12-12
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-12
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-15
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-16
+Bidar,Bidar,Wheat,2000,2600,2400,2020-12-24
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-26
+Bidar,Basava Kalayana,Wheat,1350,1500,1350,2020-12-28
+Bidar,Basava Kalayana,Wheat,2000,5100,4500,2020-12-28
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-28
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-29
+Bidar,Bidar,Wheat,2400,2900,2700,2020-12-31
+Bidar,Bidar,Wheat,2400,2900,2700,2021-01-01
+Bidar,Bidar,Wheat,2400,2900,2700,2021-01-02
+Bidar,Basava Kalayana,Wheat,1300,1300,1300,2021-01-04
+Bidar,Basava Kalayana,Wheat,3000,5000,4100,2021-01-04
+Bidar,Bidar,Wheat,2400,2900,2700,2021-01-04
+Bidar,Bidar,Wheat,2400,2850,2700,2021-01-05
+Bidar,Bidar,Wheat,2400,2850,2700,2021-01-06
+Bidar,Bidar,Wheat,2440,2900,2700,2021-01-07
+Bidar,Bidar,Wheat,2400,2900,2700,2021-01-09
+Bidar,Bidar,Wheat,2400,2900,2700,2021-01-11
+Bidar,Bidar,Wheat,2400,2900,2700,2021-01-16
+Bidar,Bidar,Wheat,2400,2800,2600,2021-01-18
+Bidar,Bidar,Wheat,2400,2800,2600,2021-01-19
+Bidar,Bidar,Wheat,2400,2800,2600,2021-01-20
+Bidar,Bidar,Wheat,2400,2800,2600,2021-01-21
+Bidar,Bidar,Wheat,2400,2800,2600,2021-01-22
+Bidar,Bidar,Wheat,2400,2800,2600,2021-01-23
+Bidar,Bidar,Wheat,2400,3000,2700,2021-01-25
+Bidar,Bidar,Wheat,2400,2800,2600,2021-01-27
+Bidar,Bidar,Wheat,2400,2800,2600,2021-01-28
+Bidar,Basava Kalayana,Wheat,1375,1375,1375,2021-01-28
+Bidar,Bidar,Wheat,2400,2800,2600,2021-01-29
+Bidar,Bidar,Wheat,2400,2800,2600,2021-01-30
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-01
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-02
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-03
+Bidar,Basava Kalayana,Wheat,1325,1550,1350,2021-02-04
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-04
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-05
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-06
+Bidar,Basava Kalayana,Wheat,1450,1750,1501,2021-02-08
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-08
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-09
+Bidar,Bidar,Wheat,2450,2850,2650,2021-02-10
+Bidar,Bidar,Wheat,2400,2850,2650,2021-02-12
+Bidar,Bidar,Wheat,2400,2800,2690,2021-02-13
+Bidar,Basava Kalayana,Wheat,1100,1800,1450,2021-02-13
+Bidar,Bidar,Wheat,2400,2850,2650,2021-02-15
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-16
+Bidar,Bidar,Wheat,2450,2850,2650,2021-02-17
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-18
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-19
+Bidar,Basava Kalayana,Wheat,1350,1700,1400,2021-02-20
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-20
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-22
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-23
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-24
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-25
+Bidar,Basava Kalayana,Wheat,1450,1650,1500,2021-02-26
+Bidar,Bidar,Wheat,2400,2800,2600,2021-02-26
+Bidar,Basava Kalayana,Wheat,4300,4800,4550,2021-02-26
+Bidar,Basava Kalayana,Wheat,1500,1710,1600,2021-02-27
+Bidar,Basava Kalayana,Wheat,4600,5010,4800,2021-02-27
+Bidar,Basava Kalayana,Wheat,1340,1850,1550,2021-03-01
+Bidar,Basava Kalayana,Wheat,4000,4900,4650,2021-03-01
+Bidar,Bidar,Wheat,2450,2850,2600,2021-03-01
+Bidar,Bidar,Wheat,2400,2800,2600,2021-03-02
+Bidar,Basava Kalayana,Wheat,1500,1850,1700,2021-03-03
+Bidar,Basava Kalayana,Wheat,4000,4500,4320,2021-03-03
+Bidar,Bidar,Wheat,2450,2850,2650,2021-03-03
+Bidar,Bidar,Wheat,2450,2850,2650,2021-03-04
+Bidar,Bidar,Wheat,2400,2800,2600,2021-03-05
+Bidar,Basava Kalayana,Wheat,3800,4500,4200,2021-03-06
+Bidar,Bidar,Wheat,2400,2800,2600,2021-03-06
+Bidar,Basava Kalayana,Wheat,1300,1900,1550,2021-03-06
+Bidar,Basava Kalayana,Wheat,4300,4450,4400,2021-03-08
+Bidar,Bidar,Wheat,2400,2800,2600,2021-03-08
+Bidar,Basava Kalayana,Wheat,4151,4410,4351,2021-03-09
+Bidar,Bidar,Wheat,2400,2800,2600,2021-03-09
+Bidar,Basava Kalayana,Wheat,1600,1730,1681,2021-03-09
+Bidar,Basava Kalayana,Wheat,4250,4400,4326,2021-03-10
+Bidar,Bidar,Wheat,2400,2800,2600,2021-03-10
+Bidar,Basava Kalayana,Wheat,4500,4660,4590,2021-03-12
+Bidar,Basava Kalayana,Wheat,1775,1775,1775,2021-03-12
+Bidar,Basava Kalayana,Wheat,1500,1900,1750,2021-03-15
+Bidar,Basava Kalayana,Wheat,4000,5510,5200,2021-03-15
+Bidar,Bidar,Wheat,2400,2800,2600,2021-03-15
+Bidar,Bidar,Wheat,2400,2800,2600,2021-03-16
+Bidar,Basava Kalayana,Wheat,1500,1850,1750,2021-03-16
+Bidar,Basava Kalayana,Wheat,4000,5500,5200,2021-03-16
+Bidar,Bidar,Wheat,1800,2400,2000,2021-03-17
+Bidar,Basava Kalayana,Wheat,1550,1850,1700,2021-03-17
+Bidar,Basava Kalayana,Wheat,4500,5070,4750,2021-03-17
+Bidar,Bidar,Wheat,1600,2300,1900,2021-03-18
+Bidar,Basava Kalayana,Wheat,1600,1900,1720,2021-03-18
+Bidar,Basava Kalayana,Wheat,4000,4720,4600,2021-03-18
+Bidar,Basava Kalayana,Wheat,1600,1811,1700,2021-03-19
+Bidar,Basava Kalayana,Wheat,3800,4721,4500,2021-03-19
+Bidar,Bidar,Wheat,1600,2400,2200,2021-03-19
+Bidar,Bidar,Wheat,1600,2300,2100,2021-03-20
+Bidar,Basava Kalayana,Wheat,3900,4550,4200,2021-03-20
+Bidar,Basava Kalayana,Wheat,1500,1941,1700,2021-03-20
+Bidar,Basava Kalayana,Wheat,4350,4550,4450,2021-03-22
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2021-03-22
+Bidar,Bidar,Wheat,1700,2600,2400,2021-03-22
+Bidar,Bidar,Wheat,1500,2700,2000,2021-03-23
+Bidar,Basava Kalayana,Wheat,4401,4551,4500,2021-03-23
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2021-03-23
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2021-03-24
+Bidar,Basava Kalayana,Wheat,4500,4691,4600,2021-03-24
+Bidar,Basava Kalayana,Wheat,1790,1950,1830,2021-03-25
+Bidar,Bidar,Wheat,1600,2800,2200,2021-03-25
+Bidar,Basava Kalayana,Wheat,4500,4681,4600,2021-03-25
+Bidar,Bidar,Wheat,1650,2800,2500,2021-03-26
+Bidar,Basava Kalayana,Wheat,4250,4650,4550,2021-03-26
+Bidar,Basava Kalayana,Wheat,1750,1950,1800,2021-03-26
+Bidar,Basava Kalayana,Wheat,4450,4600,4500,2021-03-27
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2021-03-27
+Bidar,Bidar,Wheat,1600,2700,2000,2021-03-27
+Bidar,Basava Kalayana,Wheat,1500,1830,1700,2021-03-30
+Bidar,Basava Kalayana,Wheat,3900,4420,4250,2021-03-30
+Bidar,Basava Kalayana,Wheat,1750,1810,1800,2021-03-31
+Bidar,Basava Kalayana,Wheat,4360,4525,4400,2021-03-31
+Bidar,Basava Kalayana,Wheat,4200,4550,4500,2021-04-01
+Bidar,Basava Kalayana,Wheat,1700,1951,1800,2021-04-01
+Bidar,Bidar,Wheat,1675,2700,2000,2021-04-01
+Bidar,Bidar,Wheat,1650,2700,2000,2021-04-03
+Bidar,Basava Kalayana,Wheat,4000,4720,4500,2021-04-03
+Bidar,Basava Kalayana,Wheat,1350,1860,1700,2021-04-03
+Bidar,Basava Kalayana,Wheat,3900,4810,4500,2021-04-05
+Bidar,Basava Kalayana,Wheat,1550,1950,1750,2021-04-05
+Bidar,Bidar,Wheat,1650,2700,2000,2021-04-05
+Bidar,Basava Kalayana,Wheat,4000,4925,4600,2021-04-06
+Bidar,Bidar,Wheat,1670,2700,2000,2021-04-06
+Bidar,Basava Kalayana,Wheat,1650,1900,1750,2021-04-06
+Bidar,Basava Kalayana,Wheat,4200,4950,4600,2021-04-07
+Bidar,Basava Kalayana,Wheat,1500,1900,1700,2021-04-07
+Bidar,Bidar,Wheat,1625,2700,2000,2021-04-07
+Bidar,Basava Kalayana,Wheat,1650,2000,1800,2021-04-08
+Bidar,Bidar,Wheat,1650,2400,2200,2021-04-08
+Bidar,Basava Kalayana,Wheat,4000,4900,4600,2021-04-08
+Bidar,Bidar,Wheat,1600,2700,2400,2021-04-09
+Bidar,Basava Kalayana,Wheat,1700,2100,1800,2021-04-09
+Bidar,Basava Kalayana,Wheat,4500,4900,4600,2021-04-09
+Bidar,Basava Kalayana,Wheat,4100,4950,4700,2021-04-10
+Bidar,Basava Kalayana,Wheat,1550,1920,1700,2021-04-10
+Bidar,Bidar,Wheat,1650,2700,2000,2021-04-10
+Bidar,Basava Kalayana,Wheat,4400,4850,4600,2021-04-15
+Bidar,Basava Kalayana,Wheat,1500,1900,1700,2021-04-15
+Bidar,Bidar,Wheat,1674,2700,2000,2021-04-15
+Bidar,Basava Kalayana,Wheat,1800,1900,1850,2021-04-16
+Bidar,Bidar,Wheat,1675,2700,2000,2021-04-16
+Bidar,Basava Kalayana,Wheat,4700,4891,4800,2021-04-16
+Bidar,Bidar,Wheat,1650,2700,2000,2021-04-17
+Bidar,Bidar,Wheat,1675,2700,2000,2021-04-19
+Bidar,Basava Kalayana,Wheat,4000,4761,4650,2021-04-19
+Bidar,Basava Kalayana,Wheat,1600,2211,1800,2021-04-19
+Bidar,Bidar,Wheat,1650,2700,2000,2021-04-20
+Bidar,Basava Kalayana,Wheat,1800,2151,1900,2021-04-22
+Bidar,Bidar,Wheat,1800,2700,2000,2021-04-22
+Bidar,Basava Kalayana,Wheat,4500,4700,4600,2021-04-22
+Bidar,Bidar,Wheat,1850,2700,2200,2021-04-23
+Bidar,Bidar,Wheat,1650,2600,2000,2021-05-04
+Bidar,Bidar,Wheat,1650,2600,2000,2021-05-05
+Bidar,Bidar,Wheat,1650,2600,2000,2021-05-06
+Bidar,Bidar,Wheat,1650,2600,2000,2021-05-07
+Bidar,Bidar,Wheat,1650,2700,2200,2021-05-25
+Bidar,Bidar,Wheat,1700,2600,2000,2021-05-26
+Bidar,Bidar,Wheat,1700,2700,2100,2021-05-27
+Bidar,Bidar,Wheat,1650,2700,2000,2021-05-28
+Bidar,Bidar,Wheat,1650,2600,2400,2021-05-29
+Bidar,Bidar,Wheat,1600,2700,2000,2021-05-31
+Bidar,Bidar,Wheat,1450,2600,2000,2021-06-01
+Bidar,Bidar,Wheat,1750,2600,2100,2021-06-02
+Bidar,Bidar,Wheat,1650,2600,2100,2021-06-03
+Bidar,Bidar,Wheat,1600,2600,2400,2021-06-04
+Bidar,Bidar,Wheat,1700,2600,2400,2021-06-05
+Bidar,Bidar,Wheat,1700,2600,2000,2021-06-07
+Bidar,Basava Kalayana,Wheat,4900,5000,4950,2021-06-08
+Bidar,Basava Kalayana,Wheat,1500,1750,1725,2021-06-08
+Bidar,Bidar,Wheat,1650,2700,2100,2021-06-08
+Bidar,Basava Kalayana,Wheat,1750,1750,1750,2021-06-09
+Bidar,Bidar,Wheat,1650,2700,2000,2021-06-09
+Bidar,Basava Kalayana,Wheat,5000,5000,5000,2021-06-09
+Bidar,Bidar,Wheat,1800,2700,2100,2021-06-11
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2021-06-11
+Bidar,Basava Kalayana,Wheat,4800,5000,4900,2021-06-11
+Bidar,Basava Kalayana,Wheat,5000,5000,5000,2021-06-12
+Bidar,Basava Kalayana,Wheat,1750,1750,1750,2021-06-12
+Bidar,Bidar,Wheat,1800,2700,2000,2021-06-12
+Bidar,Basava Kalayana,Wheat,1725,1750,1740,2021-06-14
+Bidar,Bidar,Wheat,1700,6500,2700,2021-06-14
+Bidar,Basava Kalayana,Wheat,5000,5000,5000,2021-06-14
+Bidar,Basava Kalayana,Wheat,1750,1750,1750,2021-06-15
+Bidar,Bidar,Wheat,2000,2700,2200,2021-06-15
+Bidar,Basava Kalayana,Wheat,5000,5000,5000,2021-06-15
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2021-06-16
+Bidar,Basava Kalayana,Wheat,5000,5000,5000,2021-06-16
+Bidar,Bidar,Wheat,1750,2650,2000,2021-06-16
+Bidar,Basava Kalayana,Wheat,5000,5000,5000,2021-06-17
+Bidar,Bidar,Wheat,1800,2700,2200,2021-06-17
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2021-06-17
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2021-06-18
+Bidar,Basava Kalayana,Wheat,5000,5000,5000,2021-06-18
+Bidar,Bidar,Wheat,2000,2700,2200,2021-06-18
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2021-06-19
+Bidar,Basava Kalayana,Wheat,5000,5000,5000,2021-06-19
+Bidar,Bidar,Wheat,1850,2700,2000,2021-06-21
+Bidar,Basava Kalayana,Wheat,1700,1700,1700,2021-06-21
+Bidar,Basava Kalayana,Wheat,4900,5030,5000,2021-06-21
+Bidar,Bidar,Wheat,2000,2700,2300,2021-06-22
+Bidar,Basava Kalayana,Wheat,4950,5100,5000,2021-06-22
+Bidar,Basava Kalayana,Wheat,1700,1900,1710,2021-06-22
+Bidar,Basava Kalayana,Wheat,4901,5097,5000,2021-06-23
+Bidar,Bidar,Wheat,2000,2700,2200,2021-06-23
+Bidar,Basava Kalayana,Wheat,1700,1925,1721,2021-06-23
+Bidar,Bidar,Wheat,1700,2600,2000,2021-06-25
+Bidar,Basava Kalayana,Wheat,5000,5100,5070,2021-06-26
+Bidar,Basava Kalayana,Wheat,1700,1900,1725,2021-06-26
+Bidar,Bidar,Wheat,1650,2600,2100,2021-06-26
+Bidar,Basava Kalayana,Wheat,1550,1900,1700,2021-06-28
+Bidar,Bidar,Wheat,1700,2600,2100,2021-06-28
+Bidar,Basava Kalayana,Wheat,4800,5200,5050,2021-06-28
+Bidar,Basava Kalayana,Wheat,1600,1721,1650,2021-06-29
+Bidar,Basava Kalayana,Wheat,4900,5121,5000,2021-06-29
+Bidar,Bidar,Wheat,1800,2600,2100,2021-06-29
+Bidar,Basava Kalayana,Wheat,1650,1900,1700,2021-06-30
+Bidar,Basava Kalayana,Wheat,5000,5189,5100,2021-06-30
+Bidar,Basava Kalayana,Wheat,1650,1750,1700,2021-07-01
+Bidar,Basava Kalayana,Wheat,5000,5199,5150,2021-07-01
+Bidar,Bidar,Wheat,1700,2600,2100,2021-07-02
+Bidar,Basava Kalayana,Wheat,4000,5200,5100,2021-07-02
+Bidar,Basava Kalayana,Wheat,1750,1771,1760,2021-07-02
+Bidar,Basava Kalayana,Wheat,4900,5200,5100,2021-07-03
+Bidar,Basava Kalayana,Wheat,1750,1750,1750,2021-07-03
+Bidar,Bidar,Wheat,1800,2600,2400,2021-07-03
+Bidar,Basava Kalayana,Wheat,4000,5100,4800,2021-07-05
+Bidar,Basava Kalayana,Wheat,1650,1920,1700,2021-07-05
+Bidar,Bidar,Wheat,1800,2700,2200,2021-07-05
+Bidar,Bidar,Wheat,1700,2700,2200,2021-07-06
+Bidar,Basava Kalayana,Wheat,4500,5040,5000,2021-07-06
+Bidar,Basava Kalayana,Wheat,1701,1780,1750,2021-07-06
+Bidar,Basava Kalayana,Wheat,4200,5150,5000,2021-07-07
+Bidar,Bidar,Wheat,1700,2700,2200,2021-07-07
+Bidar,Basava Kalayana,Wheat,1650,2000,1700,2021-07-07
+Bidar,Basava Kalayana,Wheat,1650,1850,1700,2021-07-08
+Bidar,Bidar,Wheat,1650,2600,2100,2021-07-08
+Bidar,Basava Kalayana,Wheat,4500,5050,4800,2021-07-08
+Bidar,Basava Kalayana,Wheat,4500,5100,5000,2021-07-10
+Bidar,Basava Kalayana,Wheat,1650,2200,1800,2021-07-10
+Bidar,Bidar,Wheat,1800,2600,2000,2021-07-10
+Bidar,Basava Kalayana,Wheat,1670,1900,1780,2021-07-12
+Bidar,Basava Kalayana,Wheat,4850,5000,4950,2021-07-12
+Bidar,Bidar,Wheat,1800,2700,2100,2021-07-13
+Bidar,Basava Kalayana,Wheat,1700,1821,1740,2021-07-13
+Bidar,Basava Kalayana,Wheat,4800,4900,4850,2021-07-13
+Bidar,Basava Kalayana,Wheat,4600,5000,4850,2021-07-14
+Bidar,Bidar,Wheat,1700,2600,2400,2021-07-14
+Bidar,Basava Kalayana,Wheat,1701,1760,1750,2021-07-14
+Bidar,Bidar,Wheat,1700,2600,2000,2021-07-15
+Bidar,Basava Kalayana,Wheat,1650,1820,1809,2021-07-15
+Bidar,Basava Kalayana,Wheat,4700,4720,4701,2021-07-15
+Bidar,Bidar,Wheat,1800,2700,2100,2021-07-16
+Bidar,Basava Kalayana,Wheat,4720,4750,4720,2021-07-16
+Bidar,Basava Kalayana,Wheat,1700,1850,1750,2021-07-16
+Bidar,Bidar,Wheat,1800,2600,2000,2021-07-17
+Bidar,Basava Kalayana,Wheat,1750,2000,1799,2021-07-17
+Bidar,Basava Kalayana,Wheat,4700,4849,4800,2021-07-17
+Bidar,Basava Kalayana,Wheat,1500,1790,1761,2021-07-19
+Bidar,Basava Kalayana,Wheat,4799,4870,4801,2021-07-19
+Bidar,Bidar,Wheat,1800,2600,2000,2021-07-19
+Bidar,Bidar,Wheat,1800,2700,2100,2021-07-20
+Bidar,Basava Kalayana,Wheat,4700,4820,4750,2021-07-20
+Bidar,Basava Kalayana,Wheat,1500,1871,1750,2021-07-20
+Bidar,Bidar,Wheat,1800,2700,2100,2021-07-22
+Bidar,Basava Kalayana,Wheat,1650,1905,1888,2021-07-23
+Bidar,Basava Kalayana,Wheat,4600,4750,4700,2021-07-23
+Bidar,Bidar,Wheat,1800,2700,2100,2021-07-23
+Bidar,Basava Kalayana,Wheat,1850,1900,1871,2021-07-24
+Bidar,Basava Kalayana,Wheat,4795,4831,4800,2021-07-24
+Bidar,Bidar,Wheat,1800,2700,2100,2021-07-24
+Bidar,Bidar,Wheat,1800,2600,2000,2021-07-26
+Bidar,Basava Kalayana,Wheat,4700,4850,4800,2021-07-26
+Bidar,Basava Kalayana,Wheat,1825,1950,1850,2021-07-26
+Bidar,Bidar,Wheat,1700,2700,2100,2021-07-27
+Bidar,Basava Kalayana,Wheat,1850,1920,1900,2021-07-27
+Bidar,Basava Kalayana,Wheat,4741,4855,4850,2021-07-27
+Bidar,Bidar,Wheat,1700,2700,2100,2021-07-28
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2021-07-29
+Bidar,Basava Kalayana,Wheat,4700,5000,4961,2021-07-29
+Bidar,Bidar,Wheat,1720,2700,2100,2021-07-29
+Bidar,Basava Kalayana,Wheat,4972,4972,4972,2021-07-30
+Bidar,Bidar,Wheat,1700,2700,2000,2021-07-30
+Bidar,Basava Kalayana,Wheat,1850,1900,1880,2021-07-30
+Bidar,Basava Kalayana,Wheat,1600,1850,1811,2021-07-31
+Bidar,Bidar,Wheat,1650,2600,2000,2021-07-31
+Bidar,Bidar,Wheat,1700,2700,2100,2021-08-02
+Bidar,Basava Kalayana,Wheat,1725,1822,1805,2021-08-03
+Bidar,Basava Kalayana,Wheat,4001,4900,4800,2021-08-03
+Bidar,Bidar,Wheat,1700,2700,2100,2021-08-03
+Bidar,Basava Kalayana,Wheat,1750,1830,1758,2021-08-04
+Bidar,Basava Kalayana,Wheat,4775,4821,4800,2021-08-04
+Bidar,Bidar,Wheat,1700,2700,2100,2021-08-04
+Bidar,Bidar,Wheat,1710,2700,2100,2021-08-05
+Bidar,Basava Kalayana,Wheat,4551,4901,4800,2021-08-05
+Bidar,Basava Kalayana,Wheat,1650,1950,1750,2021-08-05
+Bidar,Basava Kalayana,Wheat,1650,1900,1720,2021-08-06
+Bidar,Bidar,Wheat,1700,2700,2100,2021-08-06
+Bidar,Basava Kalayana,Wheat,4650,4900,4800,2021-08-06
+Bidar,Basava Kalayana,Wheat,4800,4830,4800,2021-08-07
+Bidar,Basava Kalayana,Wheat,1750,1751,1750,2021-08-07
+Bidar,Bidar,Wheat,1750,2700,2100,2021-08-09
+Bidar,Basava Kalayana,Wheat,1650,1921,1750,2021-08-10
+Bidar,Basava Kalayana,Wheat,4650,4950,4800,2021-08-10
+Bidar,Bidar,Wheat,1700,2700,2100,2021-08-10
+Bidar,Basava Kalayana,Wheat,1700,1881,1800,2021-08-11
+Bidar,Bidar,Wheat,1750,2700,2100,2021-08-11
+Bidar,Basava Kalayana,Wheat,4600,4900,4750,2021-08-11
+Bidar,Basava Kalayana,Wheat,4750,4850,4800,2021-08-12
+Bidar,Bidar,Wheat,1700,2700,2200,2021-08-12
+Bidar,Basava Kalayana,Wheat,1750,1880,1831,2021-08-12
+Bidar,Bidar,Wheat,1720,2700,2100,2021-08-16
+Bidar,Basava Kalayana,Wheat,4700,4875,4800,2021-08-17
+Bidar,Bidar,Wheat,1700,2700,2100,2021-08-17
+Bidar,Basava Kalayana,Wheat,1800,1910,1875,2021-08-17
+Bidar,Basava Kalayana,Wheat,4500,4820,4700,2021-08-18
+Bidar,Bidar,Wheat,1640,2700,2100,2021-08-18
+Bidar,Basava Kalayana,Wheat,1800,1920,1880,2021-08-18
+Bidar,Bidar,Wheat,1650,2700,2100,2021-08-19
+Bidar,Basava Kalayana,Wheat,4851,4851,4851,2021-08-19
+Bidar,Basava Kalayana,Wheat,1850,1901,1875,2021-08-19
+Bidar,Basava Kalayana,Wheat,1850,1891,1890,2021-08-21
+Bidar,Basava Kalayana,Wheat,1700,2050,1850,2021-08-24
+Bidar,Basava Kalayana,Wheat,4500,4950,4700,2021-08-24
+Bidar,Bidar,Wheat,1650,2600,2100,2021-08-24
+Bidar,Basava Kalayana,Wheat,1750,1900,1800,2021-08-25
+Bidar,Bidar,Wheat,1700,2700,2200,2021-08-25
+Bidar,Basava Kalayana,Wheat,4500,4800,4650,2021-08-25
+Bidar,Basava Kalayana,Wheat,4600,4850,4800,2021-08-26
+Bidar,Basava Kalayana,Wheat,1750,2050,1900,2021-08-26
+Bidar,Bidar,Wheat,1650,2700,2200,2021-08-26
+Bidar,Basava Kalayana,Wheat,4750,4800,4799,2021-08-27
+Bidar,Bidar,Wheat,1750,2700,2200,2021-08-27
+Bidar,Basava Kalayana,Wheat,1850,1925,1900,2021-08-27
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2021-08-28
+Bidar,Bidar,Wheat,1750,2700,2200,2021-08-28
+Bidar,Basava Kalayana,Wheat,4750,4750,4750,2021-08-28
+Bidar,Bidar,Wheat,1800,2700,2200,2021-08-30
+Bidar,Basava Kalayana,Wheat,1800,2050,1900,2021-08-31
+Bidar,Basava Kalayana,Wheat,4300,4850,4700,2021-08-31
+Bidar,Bidar,Wheat,1700,2600,2100,2021-08-31
+Bidar,Bidar,Wheat,1710,2600,2400,2021-09-01
+Bidar,Basava Kalayana,Wheat,4730,4730,4730,2021-09-01
+Bidar,Basava Kalayana,Wheat,1750,2050,1950,2021-09-01
+Bidar,Basava Kalayana,Wheat,1800,1900,1875,2021-09-02
+Bidar,Bidar,Wheat,1700,2600,2100,2021-09-02
+Bidar,Basava Kalayana,Wheat,4400,4750,4671,2021-09-02
+Bidar,Basava Kalayana,Wheat,4600,4880,4700,2021-09-03
+Bidar,Bidar,Wheat,2200,2700,2400,2021-09-03
+Bidar,Basava Kalayana,Wheat,1800,2000,1920,2021-09-03
+Bidar,Bidar,Wheat,1700,2800,2300,2021-09-04
+Bidar,Basava Kalayana,Wheat,4600,4800,4750,2021-09-04
+Bidar,Basava Kalayana,Wheat,1800,1980,1850,2021-09-04
+Bidar,Basava Kalayana,Wheat,1926,1999,1950,2021-09-08
+Bidar,Bidar,Wheat,2200,2600,2400,2021-09-08
+Bidar,Bidar,Wheat,1700,2700,2200,2021-09-09
+Bidar,Basava Kalayana,Wheat,4701,4701,4701,2021-09-11
+Bidar,Bidar,Wheat,2000,2600,2200,2021-09-11
+Bidar,Basava Kalayana,Wheat,1900,1980,1950,2021-09-11
+Bidar,Basava Kalayana,Wheat,1900,1951,1925,2021-09-13
+Bidar,Bidar,Wheat,1700,2800,2200,2021-09-13
+Bidar,Basava Kalayana,Wheat,4500,4601,4600,2021-09-13
+Bidar,Basava Kalayana,Wheat,4500,4850,4700,2021-09-14
+Bidar,Basava Kalayana,Wheat,1800,2000,1911,2021-09-14
+Bidar,Basava Kalayana,Wheat,1925,1971,1953,2021-09-15
+Bidar,Bidar,Wheat,2000,2700,2200,2021-09-15
+Bidar,Basava Kalayana,Wheat,1950,2063,1980,2021-09-16
+Bidar,Bidar,Wheat,1700,2700,2100,2021-09-16
+Bidar,Bidar,Wheat,1700,2600,2200,2021-09-18
+Bidar,Basava Kalayana,Wheat,1950,1950,1950,2021-09-20
+Bidar,Bidar,Wheat,1750,2700,2300,2021-09-20
+Bidar,Basava Kalayana,Wheat,4650,4700,4661,2021-09-21
+Bidar,Basava Kalayana,Wheat,1900,2031,2000,2021-09-21
+Bidar,Bidar,Wheat,1600,2600,2100,2021-09-21
+Bidar,Basava Kalayana,Wheat,4200,4820,4680,2021-09-22
+Bidar,Basava Kalayana,Wheat,1800,2000,1850,2021-09-22
+Bidar,Basava Kalayana,Wheat,1950,1985,1981,2021-09-23
+Bidar,Basava Kalayana,Wheat,4500,4800,4650,2021-09-24
+Bidar,Basava Kalayana,Wheat,1750,2000,1920,2021-09-24
+Bidar,Bidar,Wheat,1750,2700,2200,2021-09-25
+Bidar,Basava Kalayana,Wheat,1850,2000,1920,2021-09-25
+Bidar,Basava Kalayana,Wheat,4600,4820,4720,2021-09-25
+Bidar,Basava Kalayana,Wheat,1925,1976,1971,2021-09-27
+Bidar,Basava Kalayana,Wheat,4400,4750,4600,2021-09-28
+Bidar,Bidar,Wheat,1700,2700,2200,2021-09-28
+Bidar,Basava Kalayana,Wheat,1750,2000,1900,2021-09-28
+Bidar,Basava Kalayana,Wheat,1850,2000,1900,2021-09-29
+Bidar,Bidar,Wheat,1700,2700,2200,2021-09-29
+Bidar,Basava Kalayana,Wheat,1900,1951,1930,2021-09-30
+Bidar,Bidar,Wheat,1700,2700,2200,2021-09-30
+Bidar,Basava Kalayana,Wheat,4600,4660,4640,2021-09-30
+Bidar,Bidar,Wheat,1700,2700,2200,2021-10-01
+Bidar,Basava Kalayana,Wheat,1800,1960,1910,2021-10-04
+Bidar,Bidar,Wheat,1700,2700,2200,2021-10-04
+Bidar,Basava Kalayana,Wheat,4100,4900,4450,2021-10-04
+Bidar,Bidar,Wheat,1700,2600,2100,2021-10-05
+Bidar,Bidar,Wheat,1800,2700,2200,2021-10-07
+Bidar,Basava Kalayana,Wheat,4500,4800,4620,2021-10-08
+Bidar,Basava Kalayana,Wheat,1750,1980,1825,2021-10-08
+Bidar,Bidar,Wheat,1700,2600,2200,2021-10-08
+Bidar,Bidar,Wheat,1700,2600,2200,2021-10-09
+Bidar,Basava Kalayana,Wheat,1925,1925,1925,2021-10-09
+Bidar,Bidar,Wheat,1700,2800,2200,2021-10-11
+Bidar,Basava Kalayana,Wheat,1800,1950,1900,2021-10-11
+Bidar,Bidar,Wheat,1800,2700,2200,2021-10-12
+Bidar,Basava Kalayana,Wheat,4200,4600,4400,2021-10-12
+Bidar,Basava Kalayana,Wheat,1750,1980,1900,2021-10-12
+Bidar,Basava Kalayana,Wheat,1900,1982,1980,2021-10-13
+Bidar,Bidar,Wheat,1800,2700,2200,2021-10-13
+Bidar,Bidar,Wheat,1700,2800,2300,2021-10-18
+Bidar,Basava Kalayana,Wheat,1950,2011,2000,2021-10-18
+Bidar,Basava Kalayana,Wheat,1925,2030,2026,2021-10-21
+Bidar,Bidar,Wheat,1700,2700,2200,2021-10-21
+Bidar,Bidar,Wheat,1800,2800,2200,2021-10-22
+Bidar,Basava Kalayana,Wheat,1800,2080,1950,2021-10-22
+Bidar,Basava Kalayana,Wheat,3000,5651,4250,2021-10-22
+Bidar,Basava Kalayana,Wheat,1750,2050,2001,2021-10-23
+Bidar,Basava Kalayana,Wheat,3900,4490,4200,2021-10-23
+Bidar,Bidar,Wheat,2400,3400,2800,2021-10-23
+Bidar,Basava Kalayana,Wheat,1911,2001,1950,2021-10-25
+Bidar,Basava Kalayana,Wheat,4000,4401,4100,2021-10-25
+Bidar,Bidar,Wheat,1700,2700,2200,2021-10-25
+Bidar,Basava Kalayana,Wheat,3900,4250,4101,2021-10-26
+Bidar,Basava Kalayana,Wheat,1975,2025,2011,2021-10-26
+Bidar,Bidar,Wheat,1700,2800,2200,2021-10-26
+Bidar,Basava Kalayana,Wheat,1900,2050,2001,2021-10-27
+Bidar,Bidar,Wheat,1700,2700,2200,2021-10-27
+Bidar,Basava Kalayana,Wheat,4000,4900,4000,2021-10-27
+Bidar,Basava Kalayana,Wheat,3500,4100,4000,2021-10-28
+Bidar,Bidar,Wheat,1700,2700,2200,2021-10-28
+Bidar,Basava Kalayana,Wheat,1800,2500,2000,2021-10-28
+Bidar,Basava Kalayana,Wheat,4000,4000,4000,2021-10-29
+Bidar,Bidar,Wheat,1700,2700,2200,2021-10-29
+Bidar,Basava Kalayana,Wheat,1850,2050,2001,2021-10-29
+Bidar,Basava Kalayana,Wheat,2001,2100,2050,2021-10-30
+Bidar,Basava Kalayana,Wheat,1950,2081,2001,2021-11-05
+Bidar,Basava Kalayana,Wheat,3700,4050,3800,2021-11-05
+Bidar,Basava Kalayana,Wheat,3600,3950,3850,2021-11-08
+Bidar,Bidar,Wheat,1700,2800,2200,2021-11-08
+Bidar,Basava Kalayana,Wheat,2000,2150,2050,2021-11-08
+Bidar,Basava Kalayana,Wheat,2050,2100,2071,2021-11-09
+Bidar,Bidar,Wheat,1700,2600,2400,2021-11-09
+Bidar,Basava Kalayana,Wheat,4100,5051,5001,2021-11-09
+Bidar,Bidar,Wheat,1700,2800,2400,2021-11-10
+Bidar,Basava Kalayana,Wheat,1950,2150,2050,2021-11-10
+Bidar,Basava Kalayana,Wheat,3800,4100,4000,2021-11-10
+Bidar,Basava Kalayana,Wheat,3000,4200,4151,2021-11-11
+Bidar,Bidar,Wheat,1700,2800,2200,2021-11-11
+Bidar,Basava Kalayana,Wheat,2000,2171,2001,2021-11-11
+Bidar,Basava Kalayana,Wheat,3900,4100,4000,2021-11-12
+Bidar,Basava Kalayana,Wheat,2050,2200,2125,2021-11-12
+Bidar,Bidar,Wheat,1800,2800,2400,2021-11-12
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-13
+Bidar,Basava Kalayana,Wheat,1750,2200,2000,2021-11-13
+Bidar,Basava Kalayana,Wheat,3600,4200,3900,2021-11-13
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-15
+Bidar,Basava Kalayana,Wheat,3500,4000,3900,2021-11-15
+Bidar,Basava Kalayana,Wheat,1700,2150,2000,2021-11-15
+Bidar,Basava Kalayana,Wheat,3900,4300,4100,2021-11-16
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-16
+Bidar,Basava Kalayana,Wheat,1850,2200,2100,2021-11-16
+Bidar,Basava Kalayana,Wheat,1950,2300,2150,2021-11-17
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-17
+Bidar,Basava Kalayana,Wheat,3900,4400,4100,2021-11-17
+Bidar,Basava Kalayana,Wheat,4000,4300,4200,2021-11-18
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-18
+Bidar,Basava Kalayana,Wheat,2150,2150,2150,2021-11-18
+Bidar,Basava Kalayana,Wheat,1850,2200,2100,2021-11-19
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-19
+Bidar,Basava Kalayana,Wheat,4100,4100,4100,2021-11-19
+Bidar,Basava Kalayana,Wheat,4000,4500,4200,2021-11-20
+Bidar,Basava Kalayana,Wheat,1900,2250,2100,2021-11-20
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-20
+Bidar,Basava Kalayana,Wheat,3900,4600,4200,2021-11-23
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-23
+Bidar,Basava Kalayana,Wheat,1900,2250,2100,2021-11-23
+Bidar,Basava Kalayana,Wheat,2150,2400,2352,2021-11-24
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-24
+Bidar,Basava Kalayana,Wheat,4000,4300,4101,2021-11-24
+Bidar,Basava Kalayana,Wheat,1950,2350,2150,2021-11-25
+Bidar,Basava Kalayana,Wheat,4300,4300,4300,2021-11-25
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-25
+Bidar,Basava Kalayana,Wheat,2000,2400,2200,2021-11-26
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-26
+Bidar,Basava Kalayana,Wheat,4100,4400,4100,2021-11-26
+Bidar,Basava Kalayana,Wheat,2000,2400,2250,2021-11-27
+Bidar,Basava Kalayana,Wheat,4100,4520,4400,2021-11-27
+Bidar,Bidar,Wheat,1800,2400,2300,2021-11-29
+Bidar,Bidar,Wheat,1800,2800,2300,2021-11-30
+Bidar,Basava Kalayana,Wheat,4100,4400,4200,2021-11-30
+Bidar,Basava Kalayana,Wheat,2000,2400,2200,2021-11-30
+Bidar,Basava Kalayana,Wheat,2000,2250,2150,2021-12-01
+Bidar,Basava Kalayana,Wheat,4000,4450,4250,2021-12-01
+Bidar,Bidar,Wheat,1800,2800,2300,2021-12-01
+Bidar,Basava Kalayana,Wheat,3800,4300,4200,2021-12-02
+Bidar,Basava Kalayana,Wheat,1950,2250,2150,2021-12-02
+Bidar,Bidar,Wheat,1800,2800,2400,2021-12-02
+Bidar,Basava Kalayana,Wheat,2000,2250,2100,2021-12-03
+Bidar,Basava Kalayana,Wheat,3800,4250,4000,2021-12-03
+Bidar,Bidar,Wheat,1800,2800,2300,2021-12-03
+Bidar,Basava Kalayana,Wheat,1900,2300,2200,2021-12-06
+Bidar,Bidar,Wheat,1800,2800,2300,2021-12-06
+Bidar,Basava Kalayana,Wheat,3000,4400,4100,2021-12-06
+Bidar,Basava Kalayana,Wheat,2000,2299,2280,2021-12-07
+Bidar,Bidar,Wheat,1800,2800,2300,2021-12-07
+Bidar,Basava Kalayana,Wheat,4000,4180,4131,2021-12-07
+Bidar,Bidar,Wheat,1800,2800,2300,2021-12-08
+Bidar,Basava Kalayana,Wheat,3800,4250,4100,2021-12-08
+Bidar,Basava Kalayana,Wheat,1850,2300,2150,2021-12-08
+Bidar,Basava Kalayana,Wheat,3300,4150,4000,2021-12-09
+Bidar,Basava Kalayana,Wheat,1750,2350,2151,2021-12-09
+Bidar,Bidar,Wheat,1800,2900,2400,2021-12-09
+Bidar,Bidar,Wheat,1800,2900,2400,2021-12-10
+Bidar,Basava Kalayana,Wheat,1900,2300,2200,2021-12-10
+Bidar,Basava Kalayana,Wheat,3500,4250,4000,2021-12-10
+Bidar,Basava Kalayana,Wheat,1900,2300,2150,2021-12-11
+Bidar,Basava Kalayana,Wheat,3800,4200,4050,2021-12-11
+Bidar,Basava Kalayana,Wheat,3600,4100,4000,2021-12-13
+Bidar,Bidar,Wheat,1800,2900,2500,2021-12-13
+Bidar,Basava Kalayana,Wheat,1900,2300,2100,2021-12-13
+Bidar,Basava Kalayana,Wheat,3200,4000,3800,2021-12-14
+Bidar,Bidar,Wheat,1800,2900,2500,2021-12-14
+Bidar,Basava Kalayana,Wheat,1750,2300,2000,2021-12-14
+Bidar,Basava Kalayana,Wheat,2111,2280,2210,2021-12-15
+Bidar,Bidar,Wheat,1800,2600,2400,2021-12-15
+Bidar,Basava Kalayana,Wheat,3800,3800,3800,2021-12-16
+Bidar,Bidar,Wheat,1800,2700,2300,2021-12-16
+Bidar,Basava Kalayana,Wheat,2100,2100,2100,2021-12-16
+Bidar,Bidar,Wheat,1800,2700,2300,2021-12-17
+Bidar,Bidar,Wheat,1800,2700,2300,2021-12-18
+Bidar,Bidar,Wheat,1800,2700,2300,2021-12-20
+Bidar,Bidar,Wheat,1800,2700,2300,2021-12-21
+Bidar,Basava Kalayana,Wheat,3000,3781,3400,2021-12-21
+Bidar,Basava Kalayana,Wheat,1800,2200,2000,2021-12-21
+Bidar,Basava Kalayana,Wheat,1950,2250,2100,2021-12-22
+Bidar,Basava Kalayana,Wheat,3200,3600,3400,2021-12-22
+Bidar,Bidar,Wheat,1800,2700,2300,2021-12-22
+Bidar,Bidar,Wheat,1800,2800,2400,2021-12-23
+Bidar,Basava Kalayana,Wheat,1900,2050,2000,2021-12-23
+Bidar,Basava Kalayana,Wheat,1800,2280,1900,2021-12-24
+Bidar,Bidar,Wheat,1800,2800,2400,2021-12-24
+Bidar,Basava Kalayana,Wheat,1800,2150,2000,2021-12-27
+Bidar,Bidar,Wheat,1800,2700,2300,2021-12-27
+Bidar,Bidar,Wheat,1800,2700,2300,2021-12-28
+Bidar,Basava Kalayana,Wheat,2001,2150,2100,2021-12-28
+Bidar,Basava Kalayana,Wheat,1800,2180,2001,2021-12-29
+Bidar,Bidar,Wheat,1800,2700,2400,2021-12-29
+Bidar,Basava Kalayana,Wheat,3201,3201,3201,2021-12-29
+Bidar,Bidar,Wheat,1800,2700,2300,2021-12-30
+Bidar,Basava Kalayana,Wheat,1850,2280,2000,2021-12-30
+Bidar,Bidar,Wheat,1800,2700,2300,2021-12-31
+Bidar,Bidar,Wheat,1800,2800,2300,2022-01-01
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-03
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-04
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2022-01-05
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-05
+Bidar,Basava Kalayana,Wheat,1800,2000,1950,2022-01-06
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-06
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-07
+Bidar,Basava Kalayana,Wheat,1700,2300,2100,2022-01-07
+Bidar,Basava Kalayana,Wheat,2700,3200,2700,2022-01-07
+Bidar,Basava Kalayana,Wheat,1551,2100,2000,2022-01-10
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-10
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-11
+Bidar,Basava Kalayana,Wheat,3050,3050,3050,2022-01-12
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-12
+Bidar,Basava Kalayana,Wheat,2081,2300,2100,2022-01-12
+Bidar,Basava Kalayana,Wheat,2091,2091,2091,2022-01-13
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-13
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-17
+Bidar,Basava Kalayana,Wheat,1750,2200,2000,2022-01-17
+Bidar,Basava Kalayana,Wheat,2900,3200,3000,2022-01-17
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-18
+Bidar,Basava Kalayana,Wheat,1750,2300,2000,2022-01-18
+Bidar,Basava Kalayana,Wheat,2800,3250,3000,2022-01-18
+Bidar,Basava Kalayana,Wheat,3000,3200,3000,2022-01-19
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-19
+Bidar,Basava Kalayana,Wheat,1750,2000,1900,2022-01-19
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-20
+Bidar,Basava Kalayana,Wheat,1850,2300,2000,2022-01-21
+Bidar,Basava Kalayana,Wheat,2800,3400,3200,2022-01-21
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-21
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-22
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-24
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-25
+Bidar,Basava Kalayana,Wheat,1700,2100,1710,2022-01-27
+Bidar,Basava Kalayana,Wheat,3000,3000,3000,2022-01-27
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-27
+Bidar,Basava Kalayana,Wheat,2800,3100,3000,2022-01-28
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-28
+Bidar,Basava Kalayana,Wheat,1700,2000,1900,2022-01-28
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-29
+Bidar,Basava Kalayana,Wheat,3000,3100,3000,2022-01-29
+Bidar,Basava Kalayana,Wheat,1700,2000,1800,2022-01-29
+Bidar,Basava Kalayana,Wheat,3000,3250,3100,2022-01-31
+Bidar,Basava Kalayana,Wheat,1750,2150,1800,2022-01-31
+Bidar,Bidar,Wheat,1800,2700,2300,2022-01-31
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-02
+Bidar,Basava Kalayana,Wheat,3000,3500,3100,2022-02-02
+Bidar,Basava Kalayana,Wheat,1700,2150,1950,2022-02-02
+Bidar,Basava Kalayana,Wheat,3000,3150,3000,2022-02-03
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-03
+Bidar,Basava Kalayana,Wheat,1750,2000,1900,2022-02-03
+Bidar,Basava Kalayana,Wheat,3000,3150,3000,2022-02-04
+Bidar,Basava Kalayana,Wheat,1700,2000,1900,2022-02-04
+Bidar,Basava Kalayana,Wheat,1700,2000,1800,2022-02-05
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-05
+Bidar,Basava Kalayana,Wheat,3000,3150,3000,2022-02-05
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-07
+Bidar,Basava Kalayana,Wheat,2950,3050,2950,2022-02-08
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-08
+Bidar,Basava Kalayana,Wheat,1700,2100,2000,2022-02-08
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-09
+Bidar,Basava Kalayana,Wheat,1882,1882,1882,2022-02-10
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-10
+Bidar,Basava Kalayana,Wheat,1850,2000,1900,2022-02-11
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-11
+Bidar,Basava Kalayana,Wheat,2650,3100,3000,2022-02-11
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-12
+Bidar,Basava Kalayana,Wheat,1750,2000,1850,2022-02-12
+Bidar,Basava Kalayana,Wheat,1700,1900,1850,2022-02-14
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-14
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-15
+Bidar,Basava Kalayana,Wheat,2850,3100,3000,2022-02-15
+Bidar,Basava Kalayana,Wheat,1700,1900,1850,2022-02-15
+Bidar,Basava Kalayana,Wheat,1700,1950,1800,2022-02-16
+Bidar,Basava Kalayana,Wheat,1700,1920,1800,2022-02-17
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-17
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2022-02-18
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-18
+Bidar,Basava Kalayana,Wheat,2900,2999,2900,2022-02-19
+Bidar,Basava Kalayana,Wheat,1750,1930,1750,2022-02-19
+Bidar,Basava Kalayana,Wheat,2700,3200,3000,2022-02-21
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-21
+Bidar,Basava Kalayana,Wheat,1750,2100,1900,2022-02-21
+Bidar,Basava Kalayana,Wheat,1700,2100,1800,2022-02-22
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-22
+Bidar,Basava Kalayana,Wheat,2400,2900,2700,2022-02-22
+Bidar,Basava Kalayana,Wheat,2400,2700,2600,2022-02-23
+Bidar,Basava Kalayana,Wheat,1750,2200,2000,2022-02-23
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-23
+Bidar,Basava Kalayana,Wheat,1700,1950,1800,2022-02-24
+Bidar,Basava Kalayana,Wheat,2400,2680,2500,2022-02-24
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-24
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-25
+Bidar,Basava Kalayana,Wheat,2400,2650,2500,2022-02-25
+Bidar,Basava Kalayana,Wheat,1700,2000,1900,2022-02-25
+Bidar,Basava Kalayana,Wheat,1600,2000,1800,2022-02-26
+Bidar,Basava Kalayana,Wheat,2100,2700,2500,2022-02-26
+Bidar,Bidar,Wheat,1800,2700,2300,2022-02-26
+Bidar,Bidar,Wheat,1800,2800,2400,2022-02-28
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2022-02-28
+Bidar,Basava Kalayana,Wheat,2100,2650,2400,2022-02-28
+Bidar,Basava Kalayana,Wheat,1450,2100,1450,2022-03-03
+Bidar,Basava Kalayana,Wheat,2400,2700,2600,2022-03-03
+Bidar,Bidar,Wheat,1800,2800,2400,2022-03-03
+Bidar,Basava Kalayana,Wheat,1500,1800,1500,2022-03-04
+Bidar,Basava Kalayana,Wheat,2100,2690,2450,2022-03-04
+Bidar,Bidar,Wheat,1800,2700,2300,2022-03-04
+Bidar,Basava Kalayana,Wheat,2000,2700,2500,2022-03-05
+Bidar,Basava Kalayana,Wheat,2000,2300,2150,2022-03-05
+Bidar,Bidar,Wheat,1800,2700,2300,2022-03-05
+Bidar,Bidar,Wheat,1800,2800,2300,2022-03-07
+Bidar,Basava Kalayana,Wheat,1750,2100,1900,2022-03-07
+Bidar,Basava Kalayana,Wheat,2200,2851,2600,2022-03-07
+Bidar,Basava Kalayana,Wheat,1700,2150,1900,2022-03-08
+Bidar,Bidar,Wheat,1800,2900,2500,2022-03-08
+Bidar,Basava Kalayana,Wheat,2300,2850,2600,2022-03-08
+Bidar,Bidar,Wheat,1800,2800,2500,2022-03-09
+Bidar,Basava Kalayana,Wheat,1750,2200,1900,2022-03-09
+Bidar,Basava Kalayana,Wheat,2000,2720,2500,2022-03-09
+Bidar,Basava Kalayana,Wheat,2100,2700,2550,2022-03-10
+Bidar,Bidar,Wheat,1800,2800,2400,2022-03-10
+Bidar,Basava Kalayana,Wheat,1900,2350,2100,2022-03-10
+Bidar,Basava Kalayana,Wheat,2000,2725,2450,2022-03-11
+Bidar,Basava Kalayana,Wheat,1900,2400,2100,2022-03-11
+Bidar,Bidar,Wheat,1800,2900,2500,2022-03-11
+Bidar,Basava Kalayana,Wheat,2000,2850,2500,2022-03-12
+Bidar,Basava Kalayana,Wheat,1900,2300,2100,2022-03-12
+Bidar,Bidar,Wheat,1800,2900,2500,2022-03-12
+Bidar,Bidar,Wheat,1800,2900,2500,2022-03-14
+Bidar,Basava Kalayana,Wheat,2000,2300,2200,2022-03-14
+Bidar,Basava Kalayana,Wheat,2100,2712,2500,2022-03-14
+Bidar,Bidar,Wheat,1800,2900,2500,2022-03-15
+Bidar,Basava Kalayana,Wheat,2400,2700,2550,2022-03-15
+Bidar,Basava Kalayana,Wheat,2000,2325,2150,2022-03-15
+Bidar,Bidar,Wheat,1800,2900,2500,2022-03-16
+Bidar,Basava Kalayana,Wheat,1800,2000,1800,2022-03-16
+Bidar,Basava Kalayana,Wheat,2200,2850,2550,2022-03-16
+Bidar,Basava Kalayana,Wheat,2000,2150,2000,2022-03-19
+Bidar,Basava Kalayana,Wheat,2100,2800,2600,2022-03-19
+Bidar,Basava Kalayana,Wheat,2100,2920,2700,2022-03-21
+Bidar,Basava Kalayana,Wheat,2000,2400,2200,2022-03-21
+Bidar,Bidar,Wheat,1800,2900,2500,2022-03-21
+Bidar,Basava Kalayana,Wheat,2100,2950,2650,2022-03-22
+Bidar,Basava Kalayana,Wheat,2000,2350,2200,2022-03-22
+Bidar,Bidar,Wheat,1900,2900,2500,2022-03-22
+Bidar,Bidar,Wheat,1800,2900,2500,2022-03-23
+Bidar,Basava Kalayana,Wheat,2000,2300,2150,2022-03-23
+Bidar,Basava Kalayana,Wheat,2100,2950,2700,2022-03-23
+Bidar,Bidar,Wheat,1800,2900,2500,2022-03-24
+Bidar,Basava Kalayana,Wheat,2000,3050,2800,2022-03-24
+Bidar,Basava Kalayana,Wheat,2000,2400,2200,2022-03-24
+Bidar,Basava Kalayana,Wheat,2000,2400,2250,2022-03-25
+Bidar,Bidar,Wheat,1800,2900,2500,2022-03-25
+Bidar,Basava Kalayana,Wheat,2250,3250,3000,2022-03-25
+Bidar,Basava Kalayana,Wheat,2800,3500,3300,2022-03-26
+Bidar,Basava Kalayana,Wheat,2000,2400,2200,2022-03-26
+Bidar,Bidar,Wheat,2000,2900,2500,2022-03-26
+Bidar,Bidar,Wheat,2000,2900,2500,2022-03-28
+Bidar,Basava Kalayana,Wheat,2000,2350,2150,2022-03-28
+Bidar,Basava Kalayana,Wheat,2800,3450,3300,2022-03-28
+Bidar,Bidar,Wheat,1850,2900,2500,2022-03-29
+Bidar,Basava Kalayana,Wheat,2600,3340,3300,2022-03-29
+Bidar,Bidar,Wheat,2000,2900,2500,2022-03-30
+Bidar,Basava Kalayana,Wheat,2250,2250,2250,2022-03-30
+Bidar,Basava Kalayana,Wheat,2800,3450,3200,2022-03-30
+Bidar,Basava Kalayana,Wheat,2000,2350,2200,2022-03-31
+Bidar,Basava Kalayana,Wheat,2900,3400,3250,2022-03-31
+Bidar,Basava Kalayana,Wheat,1900,2350,2100,2022-04-04
+Bidar,Basava Kalayana,Wheat,2800,3500,3300,2022-04-04
+Bidar,Bidar,Wheat,2000,2900,2500,2022-04-05
+Bidar,Basava Kalayana,Wheat,2900,3500,3200,2022-04-05
+Bidar,Basava Kalayana,Wheat,1850,2450,2200,2022-04-05
+Bidar,Basava Kalayana,Wheat,1900,2500,2350,2022-04-06
+Bidar,Basava Kalayana,Wheat,2700,3480,3200,2022-04-06
+Bidar,Bidar,Wheat,2000,2900,2500,2022-04-06
+Bidar,Basava Kalayana,Wheat,1700,2750,2300,2022-04-07
+Bidar,Bidar,Wheat,2000,2900,2500,2022-04-07
+Bidar,Basava Kalayana,Wheat,2800,3450,3200,2022-04-07
+Bidar,Bidar,Wheat,2000,2950,2500,2022-04-08
+Bidar,Basava Kalayana,Wheat,2050,2250,2100,2022-04-08
+Bidar,Basava Kalayana,Wheat,2600,3300,3025,2022-04-08
+Bidar,Basava Kalayana,Wheat,2600,3400,3100,2022-04-09
+Bidar,Bidar,Wheat,2000,2900,2500,2022-04-09
+Bidar,Basava Kalayana,Wheat,2000,2350,2100,2022-04-09
+Bidar,Bidar,Wheat,1900,2900,2500,2022-04-11
+Bidar,Basava Kalayana,Wheat,2000,2300,2150,2022-04-11
+Bidar,Basava Kalayana,Wheat,2600,3350,3150,2022-04-11
+Bidar,Bidar,Wheat,2000,2900,2500,2022-04-12
+Bidar,Basava Kalayana,Wheat,1950,2400,2100,2022-04-12
+Bidar,Basava Kalayana,Wheat,2600,3300,3050,2022-04-12
+Bidar,Bidar,Wheat,2000,2900,2500,2022-04-13
+Bidar,Basava Kalayana,Wheat,2200,2781,2400,2022-04-13
+Bidar,Basava Kalayana,Wheat,2500,3250,3000,2022-04-13
+Bidar,Basava Kalayana,Wheat,2300,3150,3000,2022-04-18
+Bidar,Bidar,Wheat,2000,2900,2500,2022-04-18
+Bidar,Basava Kalayana,Wheat,2000,2700,2300,2022-04-18
+Bidar,Bidar,Wheat,2000,2900,2600,2022-04-19
+Bidar,Basava Kalayana,Wheat,2731,2731,2731,2022-04-19
+Bidar,Basava Kalayana,Wheat,2300,3200,2800,2022-04-19
+Bidar,Basava Kalayana,Wheat,2551,3000,2900,2022-04-20
+Bidar,Basava Kalayana,Wheat,2000,2500,2400,2022-04-20
+Bidar,Bidar,Wheat,2000,2900,2600,2022-04-20
+Bidar,Basava Kalayana,Wheat,2400,2950,2900,2022-04-21
+Bidar,Basava Kalayana,Wheat,2101,2399,2190,2022-04-21
+Bidar,Bidar,Wheat,2000,2900,2500,2022-04-21
+Bidar,Basava Kalayana,Wheat,2100,2250,2225,2022-04-22
+Bidar,Basava Kalayana,Wheat,2750,3000,2950,2022-04-22
+Bidar,Bidar,Wheat,2000,2900,2500,2022-04-22
+Bidar,Basava Kalayana,Wheat,2700,2950,2850,2022-04-23
+Bidar,Basava Kalayana,Wheat,2200,2200,2200,2022-04-23
+Bidar,Bidar,Wheat,2000,3000,2500,2022-04-23
+Bidar,Basava Kalayana,Wheat,2800,3000,2900,2022-04-25
+Bidar,Bidar,Wheat,2000,3000,2500,2022-04-25
+Bidar,Basava Kalayana,Wheat,2000,2700,2250,2022-04-26
+Bidar,Bidar,Wheat,2000,3000,2500,2022-04-26
+Bidar,Basava Kalayana,Wheat,2800,2800,2800,2022-04-27
+Bidar,Basava Kalayana,Wheat,2721,2950,2800,2022-04-27
+Bidar,Bidar,Wheat,2000,3000,2500,2022-04-27
+Bidar,Bidar,Wheat,2000,3000,2500,2022-04-28
+Bidar,Basava Kalayana,Wheat,2400,2651,2550,2022-04-28
+Bidar,Basava Kalayana,Wheat,2550,2830,2750,2022-04-28
+Bidar,Bidar,Wheat,2000,3000,2500,2022-04-29
+Bidar,Basava Kalayana,Wheat,2200,2900,2650,2022-04-29
+Bidar,Basava Kalayana,Wheat,2000,2650,2300,2022-04-29
+Bidar,Basava Kalayana,Wheat,2400,2900,2700,2022-05-02
+Bidar,Basava Kalayana,Wheat,2000,2700,2300,2022-05-02
+Bidar,Bidar,Wheat,2000,3000,2500,2022-05-04
+Bidar,Basava Kalayana,Wheat,2100,3001,2700,2022-05-06
+Bidar,Bidar,Wheat,2000,3200,2500,2022-05-06
+Bidar,Basava Kalayana,Wheat,2050,2600,2250,2022-05-06
+Bidar,Basava Kalayana,Wheat,1950,2680,2300,2022-05-07
+Bidar,Basava Kalayana,Wheat,2200,3050,2800,2022-05-07
+Bidar,Bidar,Wheat,2000,2600,2500,2022-05-07
+Bidar,Basava Kalayana,Wheat,2500,2850,2500,2022-05-09
+Bidar,Bidar,Wheat,2000,3200,2500,2022-05-09
+Bidar,Basava Kalayana,Wheat,2200,2700,2300,2022-05-09
+Bidar,Basava Kalayana,Wheat,2400,2850,2700,2022-05-10
+Bidar,Basava Kalayana,Wheat,2025,2025,2025,2022-05-10
+Bidar,Bidar,Wheat,2000,3200,2500,2022-05-10
+Bidar,Basava Kalayana,Wheat,2300,2990,2700,2022-05-11
+Bidar,Basava Kalayana,Wheat,2000,2950,2300,2022-05-11
+Bidar,Bidar,Wheat,2000,3200,2800,2022-05-11
+Bidar,Basava Kalayana,Wheat,2000,2500,2300,2022-05-12
+Bidar,Basava Kalayana,Wheat,2300,2900,2700,2022-05-12
+Bidar,Bidar,Wheat,2000,3200,2500,2022-05-12
+Bidar,Basava Kalayana,Wheat,2100,2900,2750,2022-05-13
+Bidar,Bidar,Wheat,2000,3200,2600,2022-05-13
+Bidar,Basava Kalayana,Wheat,2100,2900,2400,2022-05-13
+Bidar,Basava Kalayana,Wheat,2000,2900,2650,2022-05-14
+Bidar,Basava Kalayana,Wheat,2000,2500,2280,2022-05-14
+Bidar,Bidar,Wheat,2000,3200,2800,2022-05-14
+Bidar,Bidar,Wheat,2000,3100,2700,2022-05-16
+Bidar,Basava Kalayana,Wheat,1950,2500,2200,2022-05-17
+Bidar,Bidar,Wheat,2000,3200,2600,2022-05-17
+Bidar,Basava Kalayana,Wheat,2100,2700,2500,2022-05-17
+Bidar,Basava Kalayana,Wheat,2200,2700,2500,2022-05-18
+Bidar,Basava Kalayana,Wheat,2081,2600,2081,2022-05-18
+Bidar,Bidar,Wheat,2000,3200,2800,2022-05-18
+Bidar,Bidar,Wheat,2000,3300,2800,2022-05-19
+Bidar,Basava Kalayana,Wheat,2100,2100,2100,2022-05-19
+Bidar,Basava Kalayana,Wheat,2100,2700,2550,2022-05-19
+Bidar,Bidar,Wheat,2000,3200,2800,2022-05-20
+Bidar,Basava Kalayana,Wheat,2200,2500,2300,2022-05-20
+Bidar,Basava Kalayana,Wheat,2200,2650,2400,2022-05-20
+Bidar,Basava Kalayana,Wheat,1950,2690,2450,2022-05-21
+Bidar,Basava Kalayana,Wheat,2000,2500,2200,2022-05-21
+Bidar,Bidar,Wheat,2000,2800,2500,2022-05-23
+Bidar,Basava Kalayana,Wheat,1800,2600,2200,2022-05-24
+Bidar,Basava Kalayana,Wheat,2100,2700,2500,2022-05-24
+Bidar,Basava Kalayana,Wheat,2200,2200,2200,2022-05-25
+Bidar,Basava Kalayana,Wheat,2400,2530,2520,2022-05-25
+Bidar,Basava Kalayana,Wheat,2100,2200,2150,2022-05-26
+Bidar,Bidar,Wheat,2500,3200,2800,2022-05-26
+Bidar,Basava Kalayana,Wheat,2000,2750,2400,2022-05-26
+Bidar,Basava Kalayana,Wheat,2000,2750,2500,2022-05-27
+Bidar,Basava Kalayana,Wheat,2000,2800,2300,2022-05-27
+Bidar,Bidar,Wheat,2000,3300,2800,2022-05-27
+Bidar,Bidar,Wheat,2000,3200,2800,2022-05-28
+Bidar,Basava Kalayana,Wheat,2000,2850,2200,2022-05-31
+Bidar,Basava Kalayana,Wheat,2000,2700,2400,2022-05-31
+Bidar,Bidar,Wheat,2000,2900,2700,2022-06-01
+Bidar,Bidar,Wheat,2000,3200,2900,2022-06-02
+Bidar,Basava Kalayana,Wheat,2100,2550,2300,2022-06-02
+Bidar,Basava Kalayana,Wheat,2000,2720,2500,2022-06-02
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-03
+Bidar,Basava Kalayana,Wheat,2050,2600,2400,2022-06-03
+Bidar,Basava Kalayana,Wheat,2480,2550,2500,2022-06-03
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-04
+Bidar,Basava Kalayana,Wheat,2350,2550,2500,2022-06-04
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2022-06-04
+Bidar,Basava Kalayana,Wheat,2050,2050,2050,2022-06-06
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-06
+Bidar,Basava Kalayana,Wheat,2300,2550,2500,2022-06-06
+Bidar,Basava Kalayana,Wheat,2350,2550,2450,2022-06-07
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-07
+Bidar,Basava Kalayana,Wheat,1950,2401,2000,2022-06-07
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-08
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-09
+Bidar,Basava Kalayana,Wheat,2200,2525,2500,2022-06-09
+Bidar,Basava Kalayana,Wheat,2150,2150,2150,2022-06-09
+Bidar,Basava Kalayana,Wheat,2350,2500,2450,2022-06-10
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-10
+Bidar,Basava Kalayana,Wheat,2276,2276,2276,2022-06-10
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-11
+Bidar,Basava Kalayana,Wheat,2000,2190,2100,2022-06-11
+Bidar,Basava Kalayana,Wheat,2400,2500,2450,2022-06-11
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-13
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-15
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-16
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-17
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-18
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-20
+Bidar,Basava Kalayana,Wheat,2251,2450,2400,2022-06-20
+Bidar,Basava Kalayana,Wheat,1980,2400,2100,2022-06-20
+Bidar,Basava Kalayana,Wheat,2170,2170,2170,2022-06-21
+Bidar,Basava Kalayana,Wheat,2221,2400,2350,2022-06-21
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-21
+Bidar,Basava Kalayana,Wheat,2300,2425,2400,2022-06-22
+Bidar,Basava Kalayana,Wheat,2100,2500,2200,2022-06-22
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-22
+Bidar,Basava Kalayana,Wheat,2100,2100,2100,2022-06-23
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-23
+Bidar,Basava Kalayana,Wheat,2200,2441,2400,2022-06-23
+Bidar,Basava Kalayana,Wheat,2300,2400,2325,2022-06-24
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-24
+Bidar,Basava Kalayana,Wheat,2200,2200,2200,2022-06-24
+Bidar,Basava Kalayana,Wheat,2251,2400,2325,2022-06-25
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-25
+Bidar,Basava Kalayana,Wheat,2130,2130,2130,2022-06-27
+Bidar,Bidar,Wheat,2000,2800,2500,2022-06-27
+Bidar,Basava Kalayana,Wheat,2300,2400,2370,2022-06-27
+Bidar,Basava Kalayana,Wheat,2300,2406,2350,2022-06-29
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-29
+Bidar,Basava Kalayana,Wheat,2180,2260,2200,2022-06-29
+Bidar,Bidar,Wheat,2000,3200,2800,2022-06-30
+Bidar,Basava Kalayana,Wheat,2250,2470,2431,2022-06-30
+Bidar,Basava Kalayana,Wheat,2021,2320,2100,2022-06-30
+Bidar,Basava Kalayana,Wheat,2279,2279,2279,2022-07-01
+Bidar,Basava Kalayana,Wheat,2400,2461,2450,2022-07-01
+Bidar,Basava Kalayana,Wheat,2100,2100,2100,2022-07-04
+Bidar,Basava Kalayana,Wheat,2150,2500,2450,2022-07-04
+Bidar,Basava Kalayana,Wheat,2230,2550,2450,2022-07-05
+Bidar,Basava Kalayana,Wheat,2100,2600,2300,2022-07-05
+Bidar,Bidar,Wheat,1900,3200,2850,2022-07-05
+Bidar,Basava Kalayana,Wheat,2300,2549,2400,2022-07-06
+Bidar,Bidar,Wheat,2000,3200,2800,2022-07-06
+Bidar,Basava Kalayana,Wheat,2000,2600,2200,2022-07-06
+Bidar,Basava Kalayana,Wheat,2380,2581,2400,2022-07-07
+Bidar,Basava Kalayana,Wheat,1800,2692,2500,2022-07-07
+Bidar,Bidar,Wheat,2000,3200,2800,2022-07-07
+Bidar,Bidar,Wheat,1900,3200,2800,2022-07-08
+Bidar,Basava Kalayana,Wheat,2000,2700,2100,2022-07-08
+Bidar,Basava Kalayana,Wheat,2000,2600,2500,2022-07-08
+Bidar,Bidar,Wheat,1900,3200,2800,2022-07-09
+Bidar,Basava Kalayana,Wheat,2100,2611,2100,2022-07-09
+Bidar,Basava Kalayana,Wheat,2100,2600,2480,2022-07-09
+Bidar,Bidar,Wheat,1900,3200,2800,2022-07-11
+Bidar,Basava Kalayana,Wheat,2100,2280,2200,2022-07-11
+Bidar,Basava Kalayana,Wheat,2475,2555,2501,2022-07-11
+Bidar,Bidar,Wheat,1900,3200,2800,2022-07-12
+Bidar,Basava Kalayana,Wheat,2300,2500,2400,2022-07-12
+Bidar,Bidar,Wheat,1900,3200,2800,2022-07-13
+Bidar,Basava Kalayana,Wheat,2300,2500,2400,2022-07-15
+Bidar,Bidar,Wheat,1900,3200,2800,2022-07-15
+Bidar,Basava Kalayana,Wheat,2100,2250,2200,2022-07-15
+Bidar,Basava Kalayana,Wheat,2621,2621,2621,2022-07-16
+Bidar,Basava Kalayana,Wheat,2200,2511,2475,2022-07-16
+Bidar,Bidar,Wheat,2000,3200,2800,2022-07-18
+Bidar,Basava Kalayana,Wheat,2201,2541,2450,2022-07-18
+Bidar,Basava Kalayana,Wheat,2000,2200,2100,2022-07-18
+Bidar,Basava Kalayana,Wheat,2200,2570,2370,2022-07-19
+Bidar,Basava Kalayana,Wheat,2381,2532,2525,2022-07-19
+Bidar,Bidar,Wheat,2000,3200,2800,2022-07-20
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2022-07-20
+Bidar,Basava Kalayana,Wheat,2320,2533,2450,2022-07-20
+Bidar,Basava Kalayana,Wheat,2380,2550,2450,2022-07-21
+Bidar,Bidar,Wheat,2000,3200,2800,2022-07-21
+Bidar,Basava Kalayana,Wheat,2251,2600,2390,2022-07-21
+Bidar,Basava Kalayana,Wheat,2210,2210,2210,2022-07-22
+Bidar,Basava Kalayana,Wheat,2300,2476,2400,2022-07-22
+Bidar,Bidar,Wheat,2000,3200,2800,2022-07-22
+Bidar,Basava Kalayana,Wheat,2400,2511,2500,2022-07-23
+Bidar,Basava Kalayana,Wheat,2400,2451,2425,2022-07-23
+Bidar,Bidar,Wheat,2000,3200,2800,2022-07-23
+Bidar,Basava Kalayana,Wheat,2200,2550,2400,2022-07-25
+Bidar,Basava Kalayana,Wheat,2000,2381,2300,2022-07-25
+Bidar,Basava Kalayana,Wheat,2300,2400,2350,2022-07-26
+Bidar,Basava Kalayana,Wheat,2500,2500,2500,2022-07-26
+Bidar,Basava Kalayana,Wheat,2001,2400,2300,2022-07-27
+Bidar,Bidar,Wheat,2000,3200,2800,2022-07-27
+Bidar,Basava Kalayana,Wheat,2370,2450,2371,2022-07-27
+Bidar,Bidar,Wheat,1950,3200,2800,2022-07-29
+Bidar,Basava Kalayana,Wheat,2250,2400,2368,2022-07-29
+Bidar,Basava Kalayana,Wheat,2491,2491,2491,2022-07-29
+Bidar,Basava Kalayana,Wheat,2500,2500,2500,2022-07-30
+Bidar,Bidar,Wheat,1950,3200,2800,2022-07-30
+Bidar,Basava Kalayana,Wheat,2300,2453,2380,2022-07-30
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-01
+Bidar,Basava Kalayana,Wheat,2330,2497,2450,2022-08-03
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-03
+Bidar,Basava Kalayana,Wheat,2300,2420,2401,2022-08-03
+Bidar,Bidar,Wheat,1950,3200,2800,2022-08-04
+Bidar,Basava Kalayana,Wheat,2470,2470,2470,2022-08-04
+Bidar,Basava Kalayana,Wheat,2200,2520,2450,2022-08-04
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-05
+Bidar,Basava Kalayana,Wheat,2471,2471,2471,2022-08-05
+Bidar,Basava Kalayana,Wheat,2221,2500,2450,2022-08-05
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-06
+Bidar,Basava Kalayana,Wheat,2746,2746,2746,2022-08-06
+Bidar,Basava Kalayana,Wheat,2250,2481,2400,2022-08-06
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-08
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-10
+Bidar,Basava Kalayana,Wheat,2351,2621,2546,2022-08-10
+Bidar,Basava Kalayana,Wheat,2300,2467,2400,2022-08-10
+Bidar,Basava Kalayana,Wheat,2301,2500,2450,2022-08-12
+Bidar,Basava Kalayana,Wheat,2450,2450,2450,2022-08-12
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-12
+Bidar,Basava Kalayana,Wheat,2300,2500,2421,2022-08-13
+Bidar,Basava Kalayana,Wheat,2470,2470,2470,2022-08-13
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-13
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-16
+Bidar,Basava Kalayana,Wheat,2801,2801,2801,2022-08-16
+Bidar,Basava Kalayana,Wheat,2200,2500,2400,2022-08-16
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-17
+Bidar,Basava Kalayana,Wheat,2200,2450,2400,2022-08-17
+Bidar,Basava Kalayana,Wheat,2300,2466,2400,2022-08-17
+Bidar,Basava Kalayana,Wheat,2200,2441,2300,2022-08-18
+Bidar,Bidar,Wheat,1900,3200,2800,2022-08-18
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-19
+Bidar,Basava Kalayana,Wheat,2000,2350,2347,2022-08-20
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-20
+Bidar,Basava Kalayana,Wheat,2400,2400,2400,2022-08-20
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-22
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-23
+Bidar,Basava Kalayana,Wheat,2427,2750,2500,2022-08-23
+Bidar,Basava Kalayana,Wheat,2200,2340,2300,2022-08-23
+Bidar,Basava Kalayana,Wheat,2200,2398,2300,2022-08-24
+Bidar,Bidar,Wheat,2100,3200,2800,2022-08-24
+Bidar,Basava Kalayana,Wheat,2471,2571,2490,2022-08-24
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-25
+Bidar,Basava Kalayana,Wheat,2250,2316,2300,2022-08-25
+Bidar,Bidar,Wheat,2100,3250,2800,2022-08-26
+Bidar,Basava Kalayana,Wheat,2100,2302,2250,2022-08-29
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-29
+Bidar,Bidar,Wheat,2000,3200,2800,2022-08-30
+Bidar,Basava Kalayana,Wheat,2201,2365,2300,2022-08-30
+Bidar,Basava Kalayana,Wheat,2201,2791,2400,2022-09-01
+Bidar,Basava Kalayana,Wheat,2050,2280,2225,2022-09-01
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-01
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-02
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2022-09-02
+Bidar,Basava Kalayana,Wheat,2051,2300,2200,2022-09-02
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-03
+Bidar,Basava Kalayana,Wheat,2225,2300,2250,2022-09-03
+Bidar,Basava Kalayana,Wheat,2001,2001,2001,2022-09-03
+Bidar,Basava Kalayana,Wheat,2151,2200,2191,2022-09-05
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-05
+Bidar,Basava Kalayana,Wheat,2451,2750,2600,2022-09-06
+Bidar,Basava Kalayana,Wheat,2250,2250,2250,2022-09-06
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-06
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-07
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-08
+Bidar,Basava Kalayana,Wheat,2251,2761,2451,2022-09-09
+Bidar,Bidar,Wheat,2050,3200,2800,2022-09-09
+Bidar,Basava Kalayana,Wheat,2000,2289,2200,2022-09-09
+Bidar,Basava Kalayana,Wheat,2441,2441,2441,2022-09-10
+Bidar,Basava Kalayana,Wheat,2250,2250,2250,2022-09-10
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-10
+Bidar,Basava Kalayana,Wheat,2351,2351,2351,2022-09-12
+Bidar,Basava Kalayana,Wheat,2000,2250,2175,2022-09-12
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-12
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-13
+Bidar,Basava Kalayana,Wheat,1900,2258,2201,2022-09-14
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-14
+Bidar,Basava Kalayana,Wheat,2800,2800,2800,2022-09-14
+Bidar,Basava Kalayana,Wheat,2000,2226,2200,2022-09-15
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-15
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-16
+Bidar,Basava Kalayana,Wheat,2000,2221,2200,2022-09-16
+Bidar,Basava Kalayana,Wheat,2001,2001,2001,2022-09-16
+Bidar,Basava Kalayana,Wheat,1800,2200,2100,2022-09-17
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-19
+Bidar,Basava Kalayana,Wheat,2200,2800,2500,2022-09-20
+Bidar,Basava Kalayana,Wheat,1801,2400,1950,2022-09-20
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-20
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-21
+Bidar,Basava Kalayana,Wheat,1821,2000,1900,2022-09-21
+Bidar,Basava Kalayana,Wheat,2300,2799,2300,2022-09-21
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-22
+Bidar,Basava Kalayana,Wheat,1900,2050,2000,2022-09-23
+Bidar,Basava Kalayana,Wheat,2600,2600,2600,2022-09-23
+Bidar,Bidar,Wheat,2000,3200,2800,2022-09-23
+Bidar,Bidar,Wheat,2200,3300,2900,2022-09-24
+Bidar,Basava Kalayana,Wheat,2200,2200,2200,2022-09-24
+Bidar,Basava Kalayana,Wheat,1825,2000,1900,2022-09-24
+Bidar,Bidar,Wheat,2200,3300,2900,2022-09-26
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2022-09-27
+Bidar,Basava Kalayana,Wheat,1900,2100,2000,2022-09-27
+Bidar,Bidar,Wheat,2100,3200,2800,2022-09-27
+Bidar,Basava Kalayana,Wheat,2200,2650,2500,2022-09-28
+Bidar,Bidar,Wheat,2200,3200,2900,2022-09-28
+Bidar,Basava Kalayana,Wheat,1911,2081,2000,2022-09-28
+Bidar,Basava Kalayana,Wheat,1700,2170,2000,2022-09-29
+Bidar,Basava Kalayana,Wheat,2000,2600,2600,2022-09-29
+Bidar,Bidar,Wheat,2000,3200,2900,2022-09-29
+Bidar,Basava Kalayana,Wheat,1750,2150,2000,2022-09-30
+Bidar,Bidar,Wheat,2200,3200,2900,2022-09-30
+Bidar,Basava Kalayana,Wheat,2250,2250,2250,2022-10-01
+Bidar,Bidar,Wheat,2200,3200,2900,2022-10-01
+Bidar,Basava Kalayana,Wheat,1901,2076,2000,2022-10-01
+Bidar,Basava Kalayana,Wheat,2500,2500,2500,2022-10-03
+Bidar,Basava Kalayana,Wheat,1800,1901,1900,2022-10-03
+Bidar,Bidar,Wheat,2200,3200,2800,2022-10-03
+Bidar,Basava Kalayana,Wheat,1921,1921,1921,2022-10-06
+Bidar,Basava Kalayana,Wheat,2201,2650,2300,2022-10-06
+Bidar,Basava Kalayana,Wheat,2600,2600,2600,2022-10-07
+Bidar,Basava Kalayana,Wheat,1750,1750,1750,2022-10-07
+Bidar,Bidar,Wheat,2000,3200,2900,2022-10-07
+Bidar,Basava Kalayana,Wheat,1900,2021,2000,2022-10-08
+Bidar,Bidar,Wheat,2000,3200,2900,2022-10-08
+Bidar,Basava Kalayana,Wheat,1700,1900,1850,2022-10-10
+Bidar,Bidar,Wheat,2000,3200,2800,2022-10-10
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2022-10-11
+Bidar,Bidar,Wheat,2000,3200,2900,2022-10-11
+Bidar,Basava Kalayana,Wheat,1850,2100,1900,2022-10-12
+Bidar,Bidar,Wheat,2000,3200,2800,2022-10-12
+Bidar,Bidar,Wheat,2000,3200,2900,2022-10-13
+Bidar,Basava Kalayana,Wheat,2200,2200,2200,2022-10-13
+Bidar,Basava Kalayana,Wheat,1921,1921,1921,2022-10-13
+Bidar,Basava Kalayana,Wheat,1951,1951,1951,2022-10-14
+Bidar,Basava Kalayana,Wheat,1800,1800,1800,2022-10-14
+Bidar,Basava Kalayana,Wheat,2250,2250,2250,2022-10-15
+Bidar,Bidar,Wheat,2000,3200,2900,2022-10-15
+Bidar,Basava Kalayana,Wheat,1800,2099,1900,2022-10-15
+Bidar,Bidar,Wheat,2200,3200,2600,2022-10-17
+Bidar,Bidar,Wheat,2200,3300,3100,2022-10-18
+Bidar,Basava Kalayana,Wheat,1800,1941,1921,2022-10-18
+Bidar,Basava Kalayana,Wheat,2200,2200,2200,2022-10-18
+Bidar,Basava Kalayana,Wheat,1700,2700,2399,2022-10-26
+Bidar,Basava Kalayana,Wheat,1801,2100,2081,2022-10-26
+Bidar,Basava Kalayana,Wheat,1801,2090,2070,2022-10-27
+Bidar,Basava Kalayana,Wheat,2800,2800,2800,2022-10-27
+Bidar,Bidar,Wheat,2000,3200,2900,2022-10-27
+Bidar,Basava Kalayana,Wheat,1950,2099,2000,2022-10-28
+Bidar,Bidar,Wheat,2000,3200,2800,2022-10-28
+Bidar,Basava Kalayana,Wheat,1900,2081,2000,2022-10-29
+Bidar,Bidar,Wheat,2000,3200,2800,2022-10-29
+Bidar,Basava Kalayana,Wheat,2200,2200,2200,2022-10-29
+Bidar,Basava Kalayana,Wheat,2000,2050,2040,2022-10-31
+Bidar,Bidar,Wheat,2000,3200,2800,2022-10-31
+Bidar,Basava Kalayana,Wheat,2400,2400,2400,2022-11-02
+Bidar,Bidar,Wheat,2000,3200,2900,2022-11-02
+Bidar,Basava Kalayana,Wheat,1800,2120,2100,2022-11-02
+Bidar,Basava Kalayana,Wheat,2000,2157,2130,2022-11-03
+Bidar,Bidar,Wheat,2000,3200,2900,2022-11-03
+Bidar,Basava Kalayana,Wheat,2281,2281,2281,2022-11-04
+Bidar,Basava Kalayana,Wheat,1821,2180,2150,2022-11-04
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-04
+Bidar,Basava Kalayana,Wheat,1801,2300,2050,2022-11-05
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-05
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-07
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-08
+Bidar,Basava Kalayana,Wheat,2400,2400,2400,2022-11-09
+Bidar,Basava Kalayana,Wheat,2401,2843,2826,2022-11-09
+Bidar,Bidar,Wheat,2000,3200,2900,2022-11-10
+Bidar,Basava Kalayana,Wheat,2850,3000,2900,2022-11-10
+Bidar,Basava Kalayana,Wheat,2590,2851,2800,2022-11-12
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-12
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-14
+Bidar,Basava Kalayana,Wheat,2581,2750,2700,2022-11-14
+Bidar,Basava Kalayana,Wheat,2601,2601,2601,2022-11-14
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-15
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-16
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-17
+Bidar,Basava Kalayana,Wheat,2440,2600,2500,2022-11-18
+Bidar,Basava Kalayana,Wheat,2900,2900,2900,2022-11-18
+Bidar,Basava Kalayana,Wheat,2590,3701,2600,2022-11-19
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-19
+Bidar,Basava Kalayana,Wheat,2600,2750,2700,2022-11-19
+Bidar,Basava Kalayana,Wheat,2500,2800,2751,2022-11-21
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-21
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2022-11-22
+Bidar,Basava Kalayana,Wheat,2500,2827,2800,2022-11-22
+Bidar,Bidar,Wheat,2800,3400,2900,2022-11-22
+Bidar,Basava Kalayana,Wheat,2400,2901,2850,2022-11-24
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-24
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-25
+Bidar,Basava Kalayana,Wheat,2551,2551,2551,2022-11-25
+Bidar,Basava Kalayana,Wheat,2450,2850,2780,2022-11-25
+Bidar,Basava Kalayana,Wheat,2750,2870,2830,2022-11-26
+Bidar,Bidar,Wheat,2000,3200,2800,2022-11-26
+Bidar,Basava Kalayana,Wheat,2451,2780,2750,2022-11-28
+Bidar,Bidar,Wheat,2000,3200,2900,2022-11-28
+Bidar,Basava Kalayana,Wheat,2550,2780,2751,2022-11-29
+Bidar,Bidar,Wheat,2000,3300,2900,2022-11-29
+Bidar,Basava Kalayana,Wheat,2450,2700,2500,2022-11-30
+Bidar,Basava Kalayana,Wheat,2650,2670,2650,2022-12-01
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-01
+Bidar,Basava Kalayana,Wheat,2500,2680,2600,2022-12-02
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-02
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-03
+Bidar,Basava Kalayana,Wheat,2350,2500,2450,2022-12-03
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-05
+Bidar,Bidar,Wheat,2000,5200,2800,2022-12-06
+Bidar,Basava Kalayana,Wheat,2400,2681,2500,2022-12-06
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-07
+Bidar,Basava Kalayana,Wheat,2111,2578,2500,2022-12-07
+Bidar,Basava Kalayana,Wheat,2300,2571,2500,2022-12-08
+Bidar,Basava Kalayana,Wheat,3131,3131,3131,2022-12-08
+Bidar,Basava Kalayana,Wheat,2200,2548,2500,2022-12-09
+Bidar,Basava Kalayana,Wheat,2200,2689,2500,2022-12-10
+Bidar,Basava Kalayana,Wheat,1800,2626,2000,2022-12-10
+Bidar,Basava Kalayana,Wheat,2200,2350,2350,2022-12-12
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-12
+Bidar,Basava Kalayana,Wheat,2200,2586,2500,2022-12-12
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-13
+Bidar,Basava Kalayana,Wheat,2000,2575,2500,2022-12-13
+Bidar,Basava Kalayana,Wheat,2391,2575,2500,2022-12-13
+Bidar,Basava Kalayana,Wheat,2850,2850,2850,2022-12-14
+Bidar,Bidar,Wheat,2100,3400,2900,2022-12-14
+Bidar,Basava Kalayana,Wheat,1800,2500,2300,2022-12-14
+Bidar,Basava Kalayana,Wheat,2499,2499,2499,2022-12-15
+Bidar,Basava Kalayana,Wheat,2200,2585,2400,2022-12-15
+Bidar,Basava Kalayana,Wheat,2000,2475,2400,2022-12-16
+Bidar,Bidar,Wheat,2050,3300,2900,2022-12-16
+Bidar,Basava Kalayana,Wheat,2200,2551,2500,2022-12-17
+Bidar,Bidar,Wheat,2000,3200,2500,2022-12-17
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-19
+Bidar,Basava Kalayana,Wheat,2000,2520,2400,2022-12-19
+Bidar,Basava Kalayana,Wheat,2400,2900,2500,2022-12-19
+Bidar,Basava Kalayana,Wheat,2050,2550,2400,2022-12-20
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-20
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-21
+Bidar,Basava Kalayana,Wheat,2200,2531,2400,2022-12-21
+Bidar,Basava Kalayana,Wheat,2400,2500,2450,2022-12-22
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-22
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-24
+Bidar,Basava Kalayana,Wheat,2060,2680,2400,2022-12-26
+Bidar,Basava Kalayana,Wheat,1800,2500,2400,2022-12-26
+Bidar,Bidar,Wheat,4400,6000,5200,2022-12-26
+Bidar,Basava Kalayana,Wheat,2000,2500,2400,2022-12-27
+Bidar,Basava Kalayana,Wheat,2200,2801,2500,2022-12-27
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-27
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-28
+Bidar,Basava Kalayana,Wheat,2300,2400,2350,2022-12-28
+Bidar,Basava Kalayana,Wheat,2200,2451,2400,2022-12-28
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2022-12-29
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-29
+Bidar,Basava Kalayana,Wheat,2300,2427,2400,2022-12-29
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-30
+Bidar,Basava Kalayana,Wheat,2150,2400,2300,2022-12-30
+Bidar,Bidar,Wheat,2000,3200,2800,2022-12-31
+Bidar,Basava Kalayana,Wheat,2261,2500,2400,2022-12-31
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-02
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-03
+Bidar,Bidar,Wheat,2000,3200,2000,2023-01-04
+Bidar,Basava Kalayana,Wheat,2250,2350,2325,2023-01-05
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-05
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-06
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-01-06
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-07
+Bidar,Basava Kalayana,Wheat,2300,2450,2321,2023-01-07
+Bidar,Basava Kalayana,Wheat,2351,2450,2396,2023-01-09
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-09
+Bidar,Basava Kalayana,Wheat,2300,2400,2353,2023-01-10
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-10
+Bidar,Bidar,Wheat,4350,5960,5300,2023-01-11
+Bidar,Basava Kalayana,Wheat,2351,2517,2488,2023-01-11
+Bidar,Bidar,Wheat,2100,3300,2900,2023-01-12
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-13
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-14
+Bidar,Basava Kalayana,Wheat,2281,2400,2300,2023-01-17
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-17
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-01-18
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-18
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2023-01-18
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2023-01-19
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-19
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-20
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-01-23
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-23
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-24
+Bidar,Basava Kalayana,Wheat,2201,2311,2251,2023-01-24
+Bidar,Basava Kalayana,Wheat,2200,2321,2300,2023-01-25
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-25
+Bidar,Basava Kalayana,Wheat,2400,2400,2400,2023-01-27
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-27
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-28
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-01-30
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-30
+Bidar,Bidar,Wheat,2000,3200,2800,2023-01-31
+Bidar,Bidar,Wheat,2000,3200,2800,2023-02-01
+Bidar,Basava Kalayana,Wheat,2200,2300,2250,2023-02-01
+Bidar,Bidar,Wheat,2000,3200,2800,2023-02-02
+Bidar,Bidar,Wheat,2000,3200,2800,2023-02-03
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-02-03
+Bidar,Basava Kalayana,Wheat,2721,2721,2721,2023-02-03
+Bidar,Bidar,Wheat,2000,3200,2800,2023-02-04
+Bidar,Basava Kalayana,Wheat,2000,2400,2380,2023-02-06
+Bidar,Bidar,Wheat,2000,3200,2800,2023-02-06
+Bidar,Bidar,Wheat,2000,3200,2800,2023-02-07
+Bidar,Bidar,Wheat,2000,3200,2800,2023-02-08
+Bidar,Basava Kalayana,Wheat,2406,2406,2406,2023-02-09
+Bidar,Basava Kalayana,Wheat,2500,2500,2500,2023-02-09
+Bidar,Bidar,Wheat,2000,3200,2800,2023-02-09
+Bidar,Bidar,Wheat,2000,3200,2800,2023-02-10
+Bidar,Bidar,Wheat,2000,3200,2800,2023-02-11
+Bidar,Bidar,Wheat,2100,3300,2900,2023-02-13
+Bidar,Basava Kalayana,Wheat,2670,2670,2670,2023-02-13
+Bidar,Basava Kalayana,Wheat,2371,2371,2371,2023-02-13
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-02-14
+Bidar,Bidar,Wheat,2100,3300,2900,2023-02-14
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2023-02-15
+Bidar,Bidar,Wheat,2200,3300,2900,2023-02-15
+Bidar,Basava Kalayana,Wheat,2901,2901,2901,2023-02-15
+Bidar,Bidar,Wheat,2200,3300,2900,2023-02-16
+Bidar,Bidar,Wheat,2200,3300,2900,2023-02-17
+Bidar,Basava Kalayana,Wheat,2500,2790,2600,2023-02-21
+Bidar,Bidar,Wheat,2200,3300,2900,2023-02-21
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2023-02-21
+Bidar,Basava Kalayana,Wheat,2250,2350,2300,2023-02-22
+Bidar,Basava Kalayana,Wheat,2661,2661,2661,2023-02-22
+Bidar,Bidar,Wheat,2200,3300,2900,2023-02-22
+Bidar,Basava Kalayana,Wheat,2000,2750,2600,2023-02-23
+Bidar,Basava Kalayana,Wheat,2300,2490,2350,2023-02-23
+Bidar,Bidar,Wheat,2200,3300,2900,2023-02-23
+Bidar,Bidar,Wheat,2200,3300,2900,2023-02-24
+Bidar,Basava Kalayana,Wheat,2200,2400,2300,2023-02-24
+Bidar,Basava Kalayana,Wheat,2201,2700,2400,2023-02-25
+Bidar,Basava Kalayana,Wheat,2300,2400,2380,2023-02-25
+Bidar,Bidar,Wheat,2200,3300,2900,2023-02-25
+Bidar,Basava Kalayana,Wheat,2050,2400,2100,2023-02-27
+Bidar,Bidar,Wheat,2200,3300,2900,2023-02-27
+Bidar,Basava Kalayana,Wheat,2100,2320,2300,2023-02-27
+Bidar,Bidar,Wheat,2200,3300,2900,2023-02-28
+Bidar,Basava Kalayana,Wheat,2250,2380,2300,2023-02-28
+Bidar,Basava Kalayana,Wheat,2260,2260,2260,2023-02-28
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-03-01
+Bidar,Basava Kalayana,Wheat,2250,2430,2300,2023-03-01
+Bidar,Basava Kalayana,Wheat,2421,2421,2421,2023-03-02
+Bidar,Bidar,Wheat,2200,3300,2900,2023-03-02
+Bidar,Basava Kalayana,Wheat,2200,2380,2300,2023-03-02
+Bidar,Bidar,Wheat,2200,3300,2900,2023-03-03
+Bidar,Bidar,Wheat,2200,3300,2900,2023-03-04
+Bidar,Basava Kalayana,Wheat,2200,2380,2300,2023-03-04
+Bidar,Basava Kalayana,Wheat,2181,2300,2250,2023-03-04
+Bidar,Bidar,Wheat,2200,3300,2900,2023-03-06
+Bidar,Basava Kalayana,Wheat,2101,2400,2350,2023-03-06
+Bidar,Basava Kalayana,Wheat,2075,2250,2200,2023-03-06
+Bidar,Basava Kalayana,Wheat,1825,2400,2300,2023-03-09
+Bidar,Basava Kalayana,Wheat,2100,2200,2150,2023-03-09
+Bidar,Bidar,Wheat,2300,3300,2900,2023-03-09
+Bidar,Basava Kalayana,Wheat,2100,2349,2300,2023-03-10
+Bidar,Bidar,Wheat,2300,3300,2900,2023-03-10
+Bidar,Basava Kalayana,Wheat,2070,2350,2100,2023-03-10
+Bidar,Basava Kalayana,Wheat,2000,2400,2300,2023-03-11
+Bidar,Bidar,Wheat,2300,3300,2900,2023-03-11
+Bidar,Basava Kalayana,Wheat,2000,2150,2010,2023-03-11
+Bidar,Basava Kalayana,Wheat,2151,2351,2300,2023-03-13
+Bidar,Bidar,Wheat,2300,3350,3000,2023-03-13
+Bidar,Basava Kalayana,Wheat,2040,2250,2070,2023-03-13
+Bidar,Basava Kalayana,Wheat,1900,2150,2050,2023-03-14
+Bidar,Bidar,Wheat,2300,3300,2900,2023-03-14
+Bidar,Basava Kalayana,Wheat,2150,2420,2300,2023-03-14
+Bidar,Bidar,Wheat,2300,3300,2900,2023-03-15
+Bidar,Basava Kalayana,Wheat,2100,2302,2125,2023-03-15
+Bidar,Basava Kalayana,Wheat,1801,2380,2300,2023-03-15
+Bidar,Basava Kalayana,Wheat,2100,2200,2100,2023-03-16
+Bidar,Bidar,Wheat,2300,3300,2900,2023-03-16
+Bidar,Basava Kalayana,Wheat,2000,2380,2300,2023-03-16
+Bidar,Basava Kalayana,Wheat,2000,2350,2170,2023-03-17
+Bidar,Basava Kalayana,Wheat,2300,2490,2400,2023-03-17
+Bidar,Bidar,Wheat,2300,3300,2800,2023-03-17
+Bidar,Basava Kalayana,Wheat,1900,2481,2350,2023-03-18
+Bidar,Bidar,Wheat,2300,3300,2900,2023-03-18
+Bidar,Basava Kalayana,Wheat,2100,2500,2200,2023-03-18
+Bidar,Basava Kalayana,Wheat,2101,2540,2500,2023-03-20
+Bidar,Bidar,Wheat,2300,3300,2900,2023-03-20
+Bidar,Basava Kalayana,Wheat,2000,2499,2100,2023-03-20
+Bidar,Basava Kalayana,Wheat,2100,2100,2100,2023-03-23
+Bidar,Basava Kalayana,Wheat,1700,2640,2550,2023-03-23
+Bidar,Basava Kalayana,Wheat,2100,2100,2100,2023-03-24
+Bidar,Basava Kalayana,Wheat,1600,2678,2500,2023-03-24
+Bidar,Bidar,Wheat,2300,3300,2800,2023-03-24
+Bidar,Bidar,Wheat,2000,3300,2900,2023-03-25
+Bidar,Basava Kalayana,Wheat,1500,2500,2400,2023-03-25
+Bidar,Basava Kalayana,Wheat,2050,2600,2100,2023-03-25
+Bidar,Basava Kalayana,Wheat,1500,2600,2550,2023-03-27
+Bidar,Bidar,Wheat,2500,3300,2800,2023-03-27
+Bidar,Basava Kalayana,Wheat,1600,2850,2100,2023-03-27
+Bidar,Bidar,Wheat,2200,3300,2800,2023-03-28
+Bidar,Basava Kalayana,Wheat,2100,2100,2100,2023-03-28
+Bidar,Basava Kalayana,Wheat,1500,2650,2400,2023-03-28
+Bidar,Basava Kalayana,Wheat,2050,2850,2550,2023-03-29
+Bidar,Basava Kalayana,Wheat,1600,2650,2400,2023-03-29
+Bidar,Bidar,Wheat,2300,3300,2800,2023-03-29
+Bidar,Basava Kalayana,Wheat,1550,2550,2400,2023-03-31
+Bidar,Basava Kalayana,Wheat,2050,2890,2701,2023-03-31
+Bidar,Bidar,Wheat,1900,3300,2800,2023-03-31
+Bidar,Basava Kalayana,Wheat,2050,2050,2050,2023-04-01
+Bidar,Basava Kalayana,Wheat,1500,2500,2400,2023-04-01
+Bidar,Basava Kalayana,Wheat,2050,2800,2701,2023-04-03
+Bidar,Bidar,Wheat,2000,3300,2700,2023-04-03
+Bidar,Basava Kalayana,Wheat,1500,2645,2500,2023-04-03
+Bidar,Bidar,Wheat,2200,3200,2800,2023-04-05
+Bidar,Basava Kalayana,Wheat,1651,2586,2500,2023-04-05
+Bidar,Basava Kalayana,Wheat,2050,2750,2500,2023-04-05
+Bidar,Basava Kalayana,Wheat,2040,2899,2800,2023-04-08
+Bidar,Bidar,Wheat,2100,3200,2800,2023-04-08
+Bidar,Basava Kalayana,Wheat,1700,2500,2300,2023-04-08
+Bidar,Basava Kalayana,Wheat,2050,2650,2500,2023-04-10
+Bidar,Bidar,Wheat,2100,3200,2800,2023-04-10
+Bidar,Basava Kalayana,Wheat,1600,2400,2310,2023-04-10
+Bidar,Bidar,Wheat,2000,3200,2800,2023-04-11
+Bidar,Basava Kalayana,Wheat,2050,3010,2500,2023-04-11
+Bidar,Basava Kalayana,Wheat,1500,2400,2300,2023-04-11
+Bidar,Basava Kalayana,Wheat,2050,2700,2250,2023-04-12
+Bidar,Bidar,Wheat,2000,3200,2800,2023-04-12
+Bidar,Basava Kalayana,Wheat,1701,2450,2300,2023-04-12
+Bidar,Basava Kalayana,Wheat,1600,2391,2200,2023-04-13
+Bidar,Basava Kalayana,Wheat,2050,2050,2050,2023-04-13
+Bidar,Bidar,Wheat,2000,3200,2800,2023-04-13
+Bidar,Basava Kalayana,Wheat,1500,2399,2200,2023-04-15
+Bidar,Bidar,Wheat,2000,3200,2800,2023-04-15
+Bidar,Basava Kalayana,Wheat,2000,2171,2050,2023-04-15
+Bidar,Basava Kalayana,Wheat,1500,2400,2300,2023-04-17
+Bidar,Bidar,Wheat,2000,3200,2800,2023-04-17
+Bidar,Basava Kalayana,Wheat,2000,2650,2100,2023-04-17
+Bidar,Bidar,Wheat,2000,3200,2800,2023-04-18
+Bidar,Basava Kalayana,Wheat,2000,2951,2850,2023-04-18
+Bidar,Basava Kalayana,Wheat,1501,2400,2300,2023-04-18
+Bidar,Bidar,Wheat,2000,3200,2800,2023-04-19
+Bidar,Basava Kalayana,Wheat,2050,2050,2050,2023-04-19
+Bidar,Basava Kalayana,Wheat,1500,2451,2250,2023-04-19
+Bidar,Bidar,Wheat,2000,3200,2800,2023-04-21
+Bidar,Basava Kalayana,Wheat,1500,2580,2371,2023-04-21
+Bidar,Basava Kalayana,Wheat,2050,2050,2050,2023-04-21
+Bidar,Bidar,Wheat,2000,3200,2800,2023-04-24
+Bidar,Bidar,Wheat,2100,3300,2900,2023-04-25
+Bidar,Bidar,Wheat,2000,3200,2800,2023-04-26
+Bidar,Basava Kalayana,Wheat,2000,2830,2175,2023-04-26
+Bidar,Basava Kalayana,Wheat,1500,2580,2300,2023-04-26
+Bidar,Basava Kalayana,Wheat,1550,2500,2450,2023-04-27
+Bidar,Bidar,Wheat,2000,3300,2800,2023-04-27
+Bidar,Basava Kalayana,Wheat,2050,2900,2500,2023-04-27
+Bidar,Bidar,Wheat,2200,3300,2900,2023-04-28
+Bidar,Basava Kalayana,Wheat,2050,2800,2151,2023-04-28
+Bidar,Basava Kalayana,Wheat,1800,2350,2300,2023-04-28
+Bidar,Basava Kalayana,Wheat,2050,2050,2050,2023-04-29
+Bidar,Bidar,Wheat,2500,3300,2900,2023-04-29
+Bidar,Basava Kalayana,Wheat,1650,2450,2350,2023-04-29
+Bidar,Basava Kalayana,Wheat,2050,2951,2290,2023-05-02
+Bidar,Bidar,Wheat,2200,3300,2900,2023-05-02
+Bidar,Basava Kalayana,Wheat,1500,2300,2200,2023-05-02
+Bidar,Basava Kalayana,Wheat,1600,2400,2200,2023-05-03
+Bidar,Basava Kalayana,Wheat,2000,2100,2075,2023-05-03
+Bidar,Bidar,Wheat,2000,3300,2900,2023-05-03
+Bidar,Basava Kalayana,Wheat,1500,2351,2260,2023-05-04
+Bidar,Basava Kalayana,Wheat,2000,2800,2350,2023-05-04
+Bidar,Bidar,Wheat,2200,4400,3000,2023-05-04
+Bidar,Bidar,Wheat,2100,4300,3000,2023-05-05
+Bidar,Bidar,Wheat,2200,4400,3000,2023-05-06
+Bidar,Basava Kalayana,Wheat,2050,2800,2100,2023-05-06
+Bidar,Basava Kalayana,Wheat,1750,2370,2200,2023-05-06
+Bidar,Basava Kalayana,Wheat,1500,2490,2250,2023-05-08
+Bidar,Bidar,Wheat,2400,4500,3000,2023-05-08
+Bidar,Basava Kalayana,Wheat,2020,2140,2100,2023-05-08
+Bidar,Basava Kalayana,Wheat,1591,2381,2300,2023-05-09
+Bidar,Basava Kalayana,Wheat,2000,2200,2025,2023-05-09
+Bidar,Bidar,Wheat,2200,4500,3000,2023-05-09
+Bidar,Basava Kalayana,Wheat,1651,2425,1902,2023-05-11
+Bidar,Bidar,Wheat,2200,3300,2900,2023-05-11
+Bidar,Basava Kalayana,Wheat,1920,2100,2000,2023-05-11
+Bidar,Bidar,Wheat,2200,3300,2900,2023-05-12
+Bidar,Basava Kalayana,Wheat,1550,2400,2299,2023-05-15
+Bidar,Bidar,Wheat,2200,3300,2900,2023-05-15
+Bidar,Basava Kalayana,Wheat,1900,2800,2500,2023-05-15
+Bidar,Basava Kalayana,Wheat,2011,2050,2019,2023-05-16
+Bidar,Bidar,Wheat,2200,3300,2900,2023-05-16
+Bidar,Basava Kalayana,Wheat,1700,2398,2300,2023-05-16
+Bidar,Bidar,Wheat,2200,3400,3000,2023-05-17
+Bidar,Basava Kalayana,Wheat,1700,2900,2050,2023-05-17
+Bidar,Basava Kalayana,Wheat,1650,2500,2400,2023-05-17
+Bidar,Basava Kalayana,Wheat,2000,2601,2200,2023-05-18
+Bidar,Bidar,Wheat,2000,3400,3000,2023-05-18
+Bidar,Basava Kalayana,Wheat,2021,2460,2300,2023-05-18
+Bidar,Basava Kalayana,Wheat,1751,3111,2500,2023-05-20
+Bidar,Basava Kalayana,Wheat,1600,2508,2431,2023-05-20
+Bidar,Bidar,Wheat,2000,5000,4500,2023-05-20
+Bidar,Bidar,Wheat,2000,3400,3000,2023-05-22
+Bidar,Basava Kalayana,Wheat,2000,2800,2200,2023-05-22
+Bidar,Basava Kalayana,Wheat,1700,2500,2390,2023-05-22
+Bidar,Bidar,Wheat,2000,3400,3000,2023-05-23
+Bidar,Basava Kalayana,Wheat,1700,2400,2300,2023-05-23
+Bidar,Basava Kalayana,Wheat,2000,2751,2300,2023-05-23
+Bidar,Basava Kalayana,Wheat,2100,2800,2250,2023-05-24
+Bidar,Basava Kalayana,Wheat,2000,2450,2251,2023-05-24
+Bidar,Bidar,Wheat,2000,3400,3000,2023-05-24
+Bidar,Basava Kalayana,Wheat,2260,2401,2360,2023-05-25
+Bidar,Basava Kalayana,Wheat,2000,2401,2300,2023-05-25
+Bidar,Bidar,Wheat,2000,3300,3000,2023-05-25
+Bidar,Basava Kalayana,Wheat,1825,2450,2400,2023-05-26
+Bidar,Bidar,Wheat,2000,3300,3000,2023-05-26
+Bidar,Basava Kalayana,Wheat,2100,2100,2100,2023-05-26
+Bidar,Bidar,Wheat,2000,3400,3000,2023-05-27
+Bidar,Basava Kalayana,Wheat,2100,2900,2700,2023-05-27
+Bidar,Basava Kalayana,Wheat,1501,2401,2397,2023-05-27
+Bidar,Basava Kalayana,Wheat,2050,2851,2300,2023-05-29
+Bidar,Basava Kalayana,Wheat,1700,2350,2150,2023-05-29
+Bidar,Bidar,Wheat,2000,3300,3000,2023-05-29
+Bidar,Basava Kalayana,Wheat,2100,2700,2300,2023-05-30
+Bidar,Basava Kalayana,Wheat,1500,2425,2400,2023-05-30
+Bidar,Bidar,Wheat,2000,3300,3000,2023-05-30
+Bidar,Bidar,Wheat,2000,3300,3000,2023-05-31
+Bidar,Basava Kalayana,Wheat,2171,2700,2400,2023-05-31
+Bidar,Basava Kalayana,Wheat,2050,2500,2400,2023-05-31
+Bidar,Basava Kalayana,Wheat,2200,2200,2200,2023-06-01
+Bidar,Basava Kalayana,Wheat,1900,2530,2450,2023-06-01
+Bidar,Bidar,Wheat,2200,3300,3000,2023-06-01
+Bidar,Basava Kalayana,Wheat,1800,2601,2450,2023-06-02
+Bidar,Basava Kalayana,Wheat,2151,2491,2221,2023-06-02
+Bidar,Bidar,Wheat,2100,3300,3000,2023-06-02
+Bidar,Bidar,Wheat,2200,3300,3000,2023-06-03
+Bidar,Basava Kalayana,Wheat,2050,2580,2400,2023-06-03
+Bidar,Basava Kalayana,Wheat,2050,2050,2050,2023-06-03
+Bidar,Bidar,Wheat,2100,3300,3000,2023-06-05
+Bidar,Bidar,Wheat,2100,3300,3000,2023-06-06
+Bidar,Basava Kalayana,Wheat,2101,2651,2300,2023-06-06
+Bidar,Basava Kalayana,Wheat,1600,2500,2400,2023-06-06
+Bidar,Bidar,Wheat,2200,3300,3000,2023-06-07
+Bidar,Basava Kalayana,Wheat,1800,2650,2500,2023-06-07
+Bidar,Basava Kalayana,Wheat,2200,2350,2300,2023-06-07
+Bidar,Basava Kalayana,Wheat,1800,2400,2300,2023-06-08
+Bidar,Basava Kalayana,Wheat,2300,2799,2450,2023-06-08
+Bidar,Bidar,Wheat,2200,3300,3000,2023-06-08
+Bidar,Basava Kalayana,Wheat,2300,2600,2400,2023-06-09
+Bidar,Basava Kalayana,Wheat,2180,2370,2300,2023-06-09
+Bidar,Basava Kalayana,Wheat,1500,2400,2300,2023-06-10
+Bidar,Basava Kalayana,Wheat,2300,2750,2350,2023-06-10
+Bidar,Bidar,Wheat,2600,3400,3100,2023-06-10
+Bidar,Basava Kalayana,Wheat,2050,2500,2300,2023-06-12
+Bidar,Bidar,Wheat,2400,3400,3150,2023-06-12
+Bidar,Basava Kalayana,Wheat,1850,2500,2400,2023-06-12
+Bidar,Basava Kalayana,Wheat,1901,2370,2300,2023-06-13
+Bidar,Basava Kalayana,Wheat,1800,2422,2300,2023-06-13
+Bidar,Bidar,Wheat,2400,3400,3050,2023-06-13
+Bidar,Bidar,Wheat,2200,3200,3000,2023-06-14
+Bidar,Basava Kalayana,Wheat,2200,2801,2600,2023-06-14
+Bidar,Basava Kalayana,Wheat,1851,2400,2300,2023-06-14
+Bidar,Basava Kalayana,Wheat,1700,2450,2300,2023-06-15
+Bidar,Bidar,Wheat,2200,3200,3000,2023-06-15
+Bidar,Basava Kalayana,Wheat,2200,2200,2200,2023-06-15
+Bidar,Basava Kalayana,Wheat,1800,2300,1900,2023-06-16
+Bidar,Bidar,Wheat,2300,3300,3000,2023-06-16
+Bidar,Basava Kalayana,Wheat,2100,2261,2250,2023-06-16
+Bidar,Basava Kalayana,Wheat,1500,2350,2300,2023-06-17
+Bidar,Basava Kalayana,Wheat,2280,2280,2280,2023-06-17
+Bidar,Bidar,Wheat,2250,3300,3000,2023-06-17
+Bidar,Basava Kalayana,Wheat,1801,2375,2300,2023-06-19
+Bidar,Basava Kalayana,Wheat,2600,2600,2600,2023-06-19
+Bidar,Bidar,Wheat,2500,3300,3000,2023-06-19
+Bidar,Basava Kalayana,Wheat,1700,2350,2300,2023-06-20
+Bidar,Basava Kalayana,Wheat,2280,2701,2300,2023-06-20
+Bidar,Bidar,Wheat,2500,3300,3000,2023-06-21
+Bidar,Basava Kalayana,Wheat,2200,2360,2270,2023-06-22
+Bidar,Basava Kalayana,Wheat,1750,2400,2360,2023-06-22
+Bidar,Basava Kalayana,Wheat,2280,2280,2280,2023-06-23
+Bidar,Bidar,Wheat,2500,3300,2700,2023-06-23
+Bidar,Basava Kalayana,Wheat,1900,1900,1900,2023-06-23
+Bidar,Basava Kalayana,Wheat,2325,2325,2325,2023-06-24
+Bidar,Basava Kalayana,Wheat,1850,2450,2400,2023-06-24
+Bidar,Bidar,Wheat,2500,3300,2700,2023-06-24
+Bidar,Basava Kalayana,Wheat,1821,2501,2441,2023-06-26
+Bidar,Basava Kalayana,Wheat,2050,2330,2270,2023-06-26
+Bidar,Bidar,Wheat,2000,3300,3000,2023-06-27
+Bidar,Basava Kalayana,Wheat,2200,2351,2300,2023-06-27
+Bidar,Basava Kalayana,Wheat,1800,2531,2400,2023-06-27
+Bidar,Basava Kalayana,Wheat,2280,2280,2280,2023-06-28
+Bidar,Bidar,Wheat,2000,3300,3000,2023-06-28
+Bidar,Basava Kalayana,Wheat,2200,2490,2400,2023-06-28
+Bidar,Basava Kalayana,Wheat,1800,2400,2300,2023-06-30
+Bidar,Bidar,Wheat,2000,3300,3000,2023-06-30
+Bidar,Basava Kalayana,Wheat,2200,2300,2251,2023-06-30
+Bidar,Basava Kalayana,Wheat,1800,2300,2150,2023-07-01
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2023-07-01
+Bidar,Bidar,Wheat,2000,3300,3000,2023-07-01
+Bidar,Basava Kalayana,Wheat,2250,2250,2250,2023-07-03
+Bidar,Basava Kalayana,Wheat,2100,2592,2350,2023-07-03
+Bidar,Bidar,Wheat,2000,3300,3000,2023-07-03
+Bidar,Basava Kalayana,Wheat,2200,2500,2351,2023-07-05
+Bidar,Basava Kalayana,Wheat,2300,2574,2425,2023-07-05
+Bidar,Bidar,Wheat,2000,3300,3000,2023-07-05
+Bidar,Basava Kalayana,Wheat,2290,2421,2297,2023-07-06
+Bidar,Bidar,Wheat,2000,3300,3000,2023-07-06
+Bidar,Basava Kalayana,Wheat,2000,2540,2351,2023-07-06
+Bidar,Basava Kalayana,Wheat,2400,2821,2750,2023-07-07
+Bidar,Basava Kalayana,Wheat,2311,2311,2311,2023-07-07
+Bidar,Bidar,Wheat,2000,3300,3000,2023-07-07
+Bidar,Bidar,Wheat,2000,3300,3100,2023-07-08
+Bidar,Basava Kalayana,Wheat,2200,2770,2700,2023-07-08
+Bidar,Basava Kalayana,Wheat,2300,2601,2325,2023-07-10
+Bidar,Basava Kalayana,Wheat,2350,2800,2750,2023-07-10
+Bidar,Bidar,Wheat,2100,3300,3000,2023-07-10
+Bidar,Basava Kalayana,Wheat,2250,2501,2290,2023-07-11
+Bidar,Basava Kalayana,Wheat,2251,2641,2580,2023-07-11
+Bidar,Bidar,Wheat,2200,3300,3000,2023-07-11
+Bidar,Basava Kalayana,Wheat,2300,2445,2380,2023-07-12
+Bidar,Bidar,Wheat,2200,3300,3000,2023-07-12
+Bidar,Basava Kalayana,Wheat,2351,2880,2700,2023-07-12
+Bidar,Basava Kalayana,Wheat,2280,2700,2351,2023-07-13
+Bidar,Bidar,Wheat,2200,3300,3000,2023-07-13
+Bidar,Basava Kalayana,Wheat,2301,2700,2501,2023-07-13
+Bidar,Basava Kalayana,Wheat,2301,2702,2661,2023-07-14
+Bidar,Bidar,Wheat,2500,2900,2700,2023-07-14
+Bidar,Basava Kalayana,Wheat,2906,3000,2930,2023-07-14
+Bidar,Bidar,Wheat,2400,3300,3000,2023-07-15
+Bidar,Basava Kalayana,Wheat,2701,2995,2800,2023-07-15
+Bidar,Bidar,Wheat,2500,3500,3000,2023-07-18
+Bidar,Basava Kalayana,Wheat,2250,2440,2360,2023-07-19
+Bidar,Basava Kalayana,Wheat,2600,2892,2800,2023-07-19
+Bidar,Bidar,Wheat,2000,3300,3000,2023-07-20
+Bidar,Bidar,Wheat,2100,3300,3000,2023-07-21
+Bidar,Basava Kalayana,Wheat,2340,3000,2871,2023-07-21
+Bidar,Basava Kalayana,Wheat,2250,2250,2250,2023-07-21
+Bidar,Basava Kalayana,Wheat,2300,2400,2350,2023-07-22
+Bidar,Bidar,Wheat,2200,3300,3000,2023-07-22
+Bidar,Basava Kalayana,Wheat,2600,3050,2901,2023-07-22
+Bidar,Bidar,Wheat,2300,3300,3000,2023-07-24
+Bidar,Basava Kalayana,Wheat,2800,2971,2946,2023-07-24
+Bidar,Basava Kalayana,Wheat,2261,2400,2350,2023-07-24
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-07-25
+Bidar,Basava Kalayana,Wheat,2200,3141,3000,2023-07-25
+Bidar,Bidar,Wheat,2200,3500,3000,2023-07-25
+Bidar,Basava Kalayana,Wheat,2771,3150,3000,2023-07-26
+Bidar,Basava Kalayana,Wheat,2270,2350,2346,2023-07-26
+Bidar,Bidar,Wheat,2200,3400,3000,2023-07-26
+Bidar,Basava Kalayana,Wheat,2330,2330,2330,2023-07-28
+Bidar,Bidar,Wheat,2200,3300,3100,2023-07-28
+Bidar,Basava Kalayana,Wheat,2600,3000,2900,2023-07-28
+Bidar,Basava Kalayana,Wheat,2300,2751,2480,2023-07-31
+Bidar,Basava Kalayana,Wheat,2780,2950,2900,2023-07-31
+Bidar,Bidar,Wheat,2200,3300,3000,2023-07-31
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-08-01
+Bidar,Basava Kalayana,Wheat,2631,2941,2800,2023-08-01
+Bidar,Bidar,Wheat,2300,3300,3000,2023-08-01
+Bidar,Bidar,Wheat,2300,3400,3100,2023-08-02
+Bidar,Basava Kalayana,Wheat,2650,2950,2800,2023-08-02
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-08-02
+Bidar,Bidar,Wheat,2500,3400,3100,2023-08-03
+Bidar,Basava Kalayana,Wheat,2401,2900,2850,2023-08-03
+Bidar,Basava Kalayana,Wheat,2301,2301,2301,2023-08-03
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-08-04
+Bidar,Bidar,Wheat,2325,3400,3100,2023-08-04
+Bidar,Basava Kalayana,Wheat,2500,2980,2900,2023-08-04
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-08-05
+Bidar,Bidar,Wheat,2400,3400,3100,2023-08-05
+Bidar,Basava Kalayana,Wheat,2200,2850,2500,2023-08-05
+Bidar,Basava Kalayana,Wheat,2401,2812,2690,2023-08-07
+Bidar,Basava Kalayana,Wheat,2500,2860,2721,2023-08-07
+Bidar,Bidar,Wheat,2300,3400,3100,2023-08-07
+Bidar,Bidar,Wheat,2400,3400,3100,2023-08-08
+Bidar,Basava Kalayana,Wheat,2251,2690,2650,2023-08-08
+Bidar,Basava Kalayana,Wheat,2350,2450,2400,2023-08-08
+Bidar,Bidar,Wheat,2100,3400,3100,2023-08-09
+Bidar,Basava Kalayana,Wheat,2500,2500,2500,2023-08-09
+Bidar,Basava Kalayana,Wheat,2200,2851,2800,2023-08-09
+Bidar,Basava Kalayana,Wheat,2600,2871,2700,2023-08-10
+Bidar,Basava Kalayana,Wheat,2380,2380,2380,2023-08-10
+Bidar,Bidar,Wheat,2200,3400,3100,2023-08-10
+Bidar,Bidar,Wheat,2200,3400,3100,2023-08-11
+Bidar,Basava Kalayana,Wheat,2400,2801,2401,2023-08-11
+Bidar,Basava Kalayana,Wheat,2400,2800,2771,2023-08-11
+Bidar,Bidar,Wheat,2100,3400,3100,2023-08-12
+Bidar,Basava Kalayana,Wheat,2651,2971,2800,2023-08-12
+Bidar,Basava Kalayana,Wheat,2280,2700,2450,2023-08-12
+Bidar,Bidar,Wheat,2300,3400,3100,2023-08-14
+Bidar,Basava Kalayana,Wheat,2400,2841,2700,2023-08-17
+Bidar,Basava Kalayana,Wheat,2380,2425,2421,2023-08-17
+Bidar,Bidar,Wheat,2500,3400,3100,2023-08-17
+Bidar,Bidar,Wheat,2500,3400,3100,2023-08-18
+Bidar,Basava Kalayana,Wheat,2325,2501,2401,2023-08-18
+Bidar,Basava Kalayana,Wheat,2601,2900,2800,2023-08-18
+Bidar,Basava Kalayana,Wheat,2360,2460,2361,2023-08-19
+Bidar,Bidar,Wheat,2500,3400,3100,2023-08-19
+Bidar,Basava Kalayana,Wheat,2701,2851,2800,2023-08-19
+Bidar,Bidar,Wheat,2500,3400,3000,2023-08-22
+Bidar,Basava Kalayana,Wheat,2350,2651,2450,2023-08-23
+Bidar,Bidar,Wheat,2400,3400,3100,2023-08-23
+Bidar,Basava Kalayana,Wheat,1700,3000,2700,2023-08-23
+Bidar,Bidar,Wheat,2400,3400,3100,2023-08-24
+Bidar,Basava Kalayana,Wheat,2300,2446,2372,2023-08-24
+Bidar,Basava Kalayana,Wheat,2741,2901,2811,2023-08-24
+Bidar,Basava Kalayana,Wheat,2700,2990,2900,2023-08-25
+Bidar,Bidar,Wheat,2400,3400,3100,2023-08-25
+Bidar,Basava Kalayana,Wheat,2421,2710,2661,2023-08-25
+Bidar,Basava Kalayana,Wheat,2400,2926,2800,2023-08-26
+Bidar,Bidar,Wheat,2400,3400,3100,2023-08-26
+Bidar,Bidar,Wheat,2400,3400,3100,2023-08-28
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-08-29
+Bidar,Basava Kalayana,Wheat,2751,2995,2850,2023-08-29
+Bidar,Basava Kalayana,Wheat,2221,2600,2450,2023-08-31
+Bidar,Basava Kalayana,Wheat,2911,3025,3011,2023-08-31
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2023-09-01
+Bidar,Bidar,Wheat,2500,3400,3250,2023-09-01
+Bidar,Basava Kalayana,Wheat,2799,2981,2900,2023-09-01
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-02
+Bidar,Basava Kalayana,Wheat,2693,2996,2899,2023-09-02
+Bidar,Basava Kalayana,Wheat,2300,2891,2451,2023-09-02
+Bidar,Basava Kalayana,Wheat,2350,2610,2401,2023-09-05
+Bidar,Basava Kalayana,Wheat,2780,3026,3000,2023-09-05
+Bidar,Bidar,Wheat,2600,3400,3100,2023-09-05
+Bidar,Basava Kalayana,Wheat,2400,2600,2401,2023-09-06
+Bidar,Basava Kalayana,Wheat,2850,3060,2900,2023-09-06
+Bidar,Basava Kalayana,Wheat,2540,3000,2900,2023-09-08
+Bidar,Basava Kalayana,Wheat,2400,2400,2400,2023-09-08
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-08
+Bidar,Basava Kalayana,Wheat,2500,3119,3000,2023-09-09
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-09
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-11
+Bidar,Basava Kalayana,Wheat,2800,3099,2900,2023-09-12
+Bidar,Basava Kalayana,Wheat,2300,2751,2400,2023-09-12
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-12
+Bidar,Basava Kalayana,Wheat,2200,2500,2300,2023-09-13
+Bidar,Basava Kalayana,Wheat,2501,3000,2900,2023-09-13
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-13
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-15
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-16
+Bidar,Basava Kalayana,Wheat,2700,2900,2800,2023-09-16
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2023-09-16
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-18
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-09-18
+Bidar,Basava Kalayana,Wheat,2200,2900,2800,2023-09-18
+Bidar,Basava Kalayana,Wheat,2500,2841,2700,2023-09-20
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-20
+Bidar,Basava Kalayana,Wheat,2250,2500,2300,2023-09-20
+Bidar,Basava Kalayana,Wheat,2401,2900,2800,2023-09-21
+Bidar,Basava Kalayana,Wheat,2350,2350,2350,2023-09-21
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-21
+Bidar,Bidar,Wheat,2600,3400,3100,2023-09-22
+Bidar,Basava Kalayana,Wheat,2700,2950,2800,2023-09-22
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-09-22
+Bidar,Basava Kalayana,Wheat,2700,2850,2800,2023-09-23
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-25
+Bidar,Basava Kalayana,Wheat,2650,2851,2800,2023-09-25
+Bidar,Basava Kalayana,Wheat,2171,2171,2171,2023-09-25
+Bidar,Basava Kalayana,Wheat,2000,2881,2751,2023-09-26
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-26
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-09-26
+Bidar,Bidar,Wheat,2400,3300,3000,2023-09-27
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-09-29
+Bidar,Basava Kalayana,Wheat,2521,2900,2890,2023-09-29
+Bidar,Bidar,Wheat,2500,3400,3100,2023-09-29
+Bidar,Basava Kalayana,Wheat,2001,2300,2200,2023-09-30
+Bidar,Basava Kalayana,Wheat,2300,3000,2780,2023-09-30
+Bidar,Bidar,Wheat,2600,3400,3100,2023-10-03
+Bidar,Basava Kalayana,Wheat,2701,3000,2960,2023-10-03
+Bidar,Basava Kalayana,Wheat,2100,2300,2200,2023-10-03
+Bidar,Basava Kalayana,Wheat,2500,2901,2850,2023-10-04
+Bidar,Bidar,Wheat,2600,3400,3100,2023-10-04
+Bidar,Basava Kalayana,Wheat,2150,2330,2251,2023-10-04
+Bidar,Basava Kalayana,Wheat,2251,2411,2351,2023-10-05
+Bidar,Basava Kalayana,Wheat,2650,2961,2800,2023-10-05
+Bidar,Bidar,Wheat,2600,3400,3100,2023-10-05
+Bidar,Basava Kalayana,Wheat,2650,2880,2791,2023-10-06
+Bidar,Bidar,Wheat,2700,3400,3100,2023-10-06
+Bidar,Basava Kalayana,Wheat,2350,2700,2400,2023-10-06
+Bidar,Bidar,Wheat,2600,3400,3100,2023-10-07
+Bidar,Basava Kalayana,Wheat,2751,2930,2800,2023-10-07
+Bidar,Basava Kalayana,Wheat,2301,2301,2301,2023-10-07
+Bidar,Basava Kalayana,Wheat,2850,3010,2901,2023-10-09
+Bidar,Basava Kalayana,Wheat,2350,2600,2375,2023-10-09
+Bidar,Bidar,Wheat,2700,3400,3100,2023-10-10
+Bidar,Basava Kalayana,Wheat,2300,2731,2500,2023-10-10
+Bidar,Bidar,Wheat,2600,3400,3100,2023-10-11
+Bidar,Basava Kalayana,Wheat,2400,2601,2500,2023-10-12
+Bidar,Bidar,Wheat,2700,3400,3100,2023-10-12
+Bidar,Basava Kalayana,Wheat,2300,2900,2500,2023-10-12
+Bidar,Basava Kalayana,Wheat,2270,2382,2300,2023-10-13
+Bidar,Basava Kalayana,Wheat,2551,2900,2750,2023-10-13
+Bidar,Bidar,Wheat,2600,3400,3100,2023-10-13
+Bidar,Bidar,Wheat,2600,3400,3100,2023-10-16
+Bidar,Basava Kalayana,Wheat,2400,3000,2700,2023-10-16
+Bidar,Basava Kalayana,Wheat,2300,2400,2350,2023-10-16
+Bidar,Basava Kalayana,Wheat,2400,2400,2400,2023-10-17
+Bidar,Bidar,Wheat,2500,3500,3200,2023-10-17
+Bidar,Basava Kalayana,Wheat,2401,2851,2700,2023-10-17
+Bidar,Bidar,Wheat,2600,3400,3100,2023-10-18
+Bidar,Basava Kalayana,Wheat,2700,2850,2800,2023-10-18
+Bidar,Bidar,Wheat,2600,3400,3100,2023-10-19
+Bidar,Bidar,Wheat,2600,3400,3150,2023-10-20
+Bidar,Bidar,Wheat,2600,3400,3100,2023-10-21
+Bidar,Basava Kalayana,Wheat,2800,2900,2850,2023-10-21
+Bidar,Basava Kalayana,Wheat,3000,3501,3199,2023-10-25
+Bidar,Basava Kalayana,Wheat,2400,2400,2400,2023-10-25
+Bidar,Bidar,Wheat,2700,3400,3100,2023-10-26
+Bidar,Basava Kalayana,Wheat,2981,3351,3200,2023-10-26
+Bidar,Bidar,Wheat,2600,3500,3200,2023-10-27
+Bidar,Basava Kalayana,Wheat,3200,3680,3300,2023-10-27
+Bidar,Basava Kalayana,Wheat,2300,2425,2350,2023-10-27
+Bidar,Bidar,Wheat,2700,3400,3100,2023-10-30
+Bidar,Basava Kalayana,Wheat,2350,2400,2351,2023-10-30
+Bidar,Basava Kalayana,Wheat,3450,4440,4100,2023-10-30
+Bidar,Basava Kalayana,Wheat,4100,4300,4250,2023-10-31
+Bidar,Basava Kalayana,Wheat,2350,2400,2351,2023-10-31
+Bidar,Bidar,Wheat,2700,3400,3100,2023-11-02
+Bidar,Basava Kalayana,Wheat,2350,2700,2400,2023-11-02
+Bidar,Basava Kalayana,Wheat,4150,4300,4200,2023-11-02
+Bidar,Basava Kalayana,Wheat,2300,3102,2301,2023-11-03
+Bidar,Basava Kalayana,Wheat,4200,4410,4300,2023-11-03
+Bidar,Basava Kalayana,Wheat,3800,4200,4100,2023-11-04
+Bidar,Bidar,Wheat,2800,3400,3100,2023-11-04
+Bidar,Basava Kalayana,Wheat,2400,2400,2400,2023-11-04
+Bidar,Basava Kalayana,Wheat,3400,4000,3700,2023-11-06
+Bidar,Bidar,Wheat,2700,3400,3100,2023-11-06
+Bidar,Basava Kalayana,Wheat,2300,2600,2400,2023-11-06
+Bidar,Basava Kalayana,Wheat,3600,3800,3700,2023-11-07
+Bidar,Bidar,Wheat,2800,3400,3100,2023-11-07
+Bidar,Basava Kalayana,Wheat,2351,2700,2500,2023-11-07
+Bidar,Basava Kalayana,Wheat,2300,2400,2350,2023-11-14
+Bidar,Basava Kalayana,Wheat,3211,3900,3801,2023-11-14
+Bidar,Basava Kalayana,Wheat,3201,3900,3500,2023-11-16
+Bidar,Bidar,Wheat,2700,3400,3100,2023-11-16
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-11-16
+Bidar,Basava Kalayana,Wheat,3600,3911,3700,2023-11-17
+Bidar,Basava Kalayana,Wheat,2301,2600,2380,2023-11-17
+Bidar,Basava Kalayana,Wheat,2400,3250,3050,2023-11-18
+Bidar,Basava Kalayana,Wheat,3651,3850,3800,2023-11-18
+Bidar,Bidar,Wheat,2700,3400,3100,2023-11-18
+Bidar,Basava Kalayana,Wheat,3602,3861,3700,2023-11-20
+Bidar,Basava Kalayana,Wheat,2300,3002,2600,2023-11-20
+Bidar,Bidar,Wheat,2700,3400,3100,2023-11-20
+Bidar,Basava Kalayana,Wheat,3500,3940,3850,2023-11-21
+Bidar,Basava Kalayana,Wheat,2400,2850,2700,2023-11-21
+Bidar,Bidar,Wheat,2700,3400,3100,2023-11-21
+Bidar,Basava Kalayana,Wheat,3400,3901,3711,2023-11-22
+Bidar,Basava Kalayana,Wheat,2400,2400,2400,2023-11-22
+Bidar,Bidar,Wheat,2600,3500,3200,2023-11-22
+Bidar,Bidar,Wheat,2600,3400,3100,2023-11-23
+Bidar,Basava Kalayana,Wheat,2650,3251,2651,2023-11-23
+Bidar,Basava Kalayana,Wheat,3699,4000,3950,2023-11-23
+Bidar,Basava Kalayana,Wheat,2400,2500,2401,2023-11-24
+Bidar,Bidar,Wheat,2500,3500,3200,2023-11-24
+Bidar,Basava Kalayana,Wheat,3600,3850,3750,2023-11-24
+Bidar,Basava Kalayana,Wheat,3600,3881,3751,2023-11-25
+Bidar,Basava Kalayana,Wheat,2350,2800,2400,2023-11-25
+Bidar,Basava Kalayana,Wheat,3000,3000,3000,2023-11-27
+Bidar,Basava Kalayana,Wheat,3600,4000,3981,2023-11-27
+Bidar,Basava Kalayana,Wheat,2900,2900,2900,2023-11-28
+Bidar,Basava Kalayana,Wheat,3851,3851,3851,2023-11-28
+Bidar,Bidar,Wheat,2700,3400,3100,2023-11-28
+Bidar,Bidar,Wheat,2700,3400,3100,2023-11-29
+Bidar,Basava Kalayana,Wheat,3600,3800,3675,2023-12-01
+Bidar,Basava Kalayana,Wheat,2001,3150,3050,2023-12-01
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-01
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-04
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-05
+Bidar,Basava Kalayana,Wheat,3050,3050,3050,2023-12-06
+Bidar,Basava Kalayana,Wheat,3400,3501,3400,2023-12-06
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-06
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-08
+Bidar,Basava Kalayana,Wheat,3300,3750,3300,2023-12-08
+Bidar,Basava Kalayana,Wheat,2399,2899,2399,2023-12-08
+Bidar,Basava Kalayana,Wheat,3000,3601,3300,2023-12-09
+Bidar,Basava Kalayana,Wheat,2000,2351,2200,2023-12-09
+Bidar,Basava Kalayana,Wheat,3000,3601,3400,2023-12-11
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-11
+Bidar,Basava Kalayana,Wheat,2800,2800,2800,2023-12-11
+Bidar,Basava Kalayana,Wheat,3000,3701,3300,2023-12-13
+Bidar,Basava Kalayana,Wheat,2300,3000,2750,2023-12-13
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-13
+Bidar,Bidar,Wheat,2700,3100,2900,2023-12-14
+Bidar,Basava Kalayana,Wheat,3000,3300,3250,2023-12-14
+Bidar,Basava Kalayana,Wheat,2200,2501,2200,2023-12-14
+Bidar,Basava Kalayana,Wheat,2300,3000,2300,2023-12-15
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-15
+Bidar,Basava Kalayana,Wheat,2900,3370,3000,2023-12-15
+Bidar,Basava Kalayana,Wheat,3000,3781,3401,2023-12-16
+Bidar,Basava Kalayana,Wheat,2325,2900,2400,2023-12-16
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-16
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-18
+Bidar,Basava Kalayana,Wheat,3100,3362,3101,2023-12-18
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-19
+Bidar,Basava Kalayana,Wheat,2800,3700,3000,2023-12-20
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-20
+Bidar,Basava Kalayana,Wheat,2200,2250,2200,2023-12-20
+Bidar,Basava Kalayana,Wheat,2200,2801,2381,2023-12-21
+Bidar,Basava Kalayana,Wheat,2500,3500,3300,2023-12-21
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-21
+Bidar,Basava Kalayana,Wheat,2600,3440,3000,2023-12-22
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-22
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-12-22
+Bidar,Basava Kalayana,Wheat,2300,2300,2300,2023-12-26
+Bidar,Basava Kalayana,Wheat,3000,3201,3100,2023-12-26
+Bidar,Bidar,Wheat,2700,3400,3200,2023-12-26
+Bidar,Basava Kalayana,Wheat,2600,3100,2601,2023-12-27
+Bidar,Basava Kalayana,Wheat,3000,3401,3200,2023-12-27
+Bidar,Bidar,Wheat,2700,3100,2900,2023-12-28
+Bidar,Basava Kalayana,Wheat,2500,2800,2500,2023-12-28
+Bidar,Basava Kalayana,Wheat,2001,2400,2300,2023-12-29
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-29
+Bidar,Basava Kalayana,Wheat,2300,2900,2500,2023-12-29
+Bidar,Bidar,Wheat,2700,3400,3100,2023-12-30
+Bidar,Bidar,Wheat,2700,3400,3200,2024-01-01
+Bidar,Bidar,Wheat,2700,3400,3100,2024-01-02
+Bidar,Basava Kalayana,Wheat,2300,2891,2300,2024-01-02
+Bidar,Basava Kalayana,Wheat,2200,3000,2800,2024-01-02
+Bidar,Bidar,Wheat,2700,3400,3100,2024-01-03
+Bidar,Bidar,Wheat,2600,3500,3000,2024-01-04
+Bidar,Bidar,Wheat,2800,3400,3200,2024-01-05
+Bidar,Bidar,Wheat,2800,3400,3200,2024-01-06
+Bidar,Bidar,Wheat,2800,3500,3200,2024-01-08
+Bidar,Bidar,Wheat,2400,3600,3200,2024-01-09
+Bidar,Bidar,Wheat,2700,3400,3100,2024-01-10
+Bidar,Bidar,Wheat,2700,3400,3100,2024-01-12
+Bidar,Bidar,Wheat,2800,3400,3100,2024-01-13
+Bidar,Basava Kalayana,Wheat,2700,2811,2700,2024-01-17
+Bidar,Bidar,Wheat,2800,3400,3100,2024-01-17
+Bidar,Basava Kalayana,Wheat,2450,2700,2600,2024-01-17
+Bidar,Basava Kalayana,Wheat,1500,2520,2201,2024-01-18
+Bidar,Basava Kalayana,Wheat,2350,2500,2400,2024-01-18
+Bidar,Bidar,Wheat,2700,3400,3100,2024-01-19
+Bidar,Basava Kalayana,Wheat,2000,2000,2000,2024-01-20
+Bidar,Basava Kalayana,Wheat,2200,2700,2650,2024-01-20
+Bidar,Bidar,Wheat,2700,3400,3100,2024-01-20
+Bidar,Bidar,Wheat,2800,3400,3100,2024-01-23
+Bidar,Bidar,Wheat,2700,3400,3100,2024-01-24
+Bidar,Bidar,Wheat,2800,3400,3100,2024-01-25
+Bidar,Bidar,Wheat,2700,3400,3100,2024-01-27
+Bidar,Bidar,Wheat,2700,3400,3100,2024-01-29
+Bidar,Bidar,Wheat,2700,3400,3100,2024-01-31
+Bidar,Bidar,Wheat,2600,3500,3200,2024-02-01
+Bidar,Bidar,Wheat,2800,3400,3100,2024-02-02
+Bidar,Bidar,Wheat,2700,3400,3100,2024-02-03
+Bidar,Bidar,Wheat,2700,3400,3100,2024-02-05
+Bidar,Basava Kalayana,Wheat,2000,2200,2100,2024-02-05
+Bidar,Basava Kalayana,Wheat,2500,2700,2500,2024-02-05
+Bidar,Bidar,Wheat,2700,3400,3100,2024-02-06
+Bidar,Bidar,Wheat,3000,4500,3500,2024-02-07
+Bidar,Bidar,Wheat,3000,4500,3500,2024-02-08
+Bidar,Bidar,Wheat,2900,3500,3100,2024-02-10
+Bidar,Basava Kalayana,Wheat,2700,2700,2700,2024-02-12
+Bidar,Bidar,Wheat,2900,3400,3200,2024-02-12
+Bidar,Basava Kalayana,Wheat,2100,2700,2650,2024-02-12
+Bidar,Basava Kalayana,Wheat,2401,2801,2401,2024-02-13
+Bidar,Basava Kalayana,Wheat,2250,2600,2250,2024-02-13
+Bidar,Bidar,Wheat,2900,3400,3200,2024-02-13
+Bidar,Bidar,Wheat,2900,3400,3100,2024-02-14
+Bidar,Basava Kalayana,Wheat,2100,2500,2151,2024-02-15
+Bidar,Bidar,Wheat,2900,3500,3200,2024-02-15
+Bidar,Bidar,Wheat,2900,3400,3100,2024-02-16
+Bidar,Basava Kalayana,Wheat,2000,2400,2296,2024-02-17
+Bidar,Bidar,Wheat,2800,3500,3300,2024-02-17
+Bidar,Basava Kalayana,Wheat,2341,2400,2391,2024-02-19
+Bidar,Basava Kalayana,Wheat,2700,2700,2700,2024-02-19
+Bidar,Bidar,Wheat,2400,4500,3600,2024-02-20
+Bidar,Bidar,Wheat,2900,3500,3100,2024-02-21
+Bidar,Basava Kalayana,Wheat,2191,2900,2351,2024-02-21
+Bidar,Basava Kalayana,Wheat,2811,3400,2811,2024-02-21
+Bidar,Bidar,Wheat,2900,3400,3100,2024-02-22
+Bidar,Basava Kalayana,Wheat,2271,2501,2301,2024-02-22
+Bidar,Bidar,Wheat,2900,3300,3100,2024-02-23
+Bidar,Basava Kalayana,Wheat,2612,3322,3011,2024-02-23
+Bidar,Basava Kalayana,Wheat,2350,3000,2500,2024-02-23
+Bidar,Basava Kalayana,Wheat,2301,2601,2401,2024-02-24
+Bidar,Basava Kalayana,Wheat,2300,2870,2641,2024-02-26
+Bidar,Basava Kalayana,Wheat,3291,3434,3300,2024-02-26
+Bidar,Bidar,Wheat,2900,3400,3100,2024-02-26
+Bidar,Basava Kalayana,Wheat,2400,2700,2550,2024-02-27
+Bidar,Bidar,Wheat,2900,3400,3100,2024-02-27
+Bidar,Basava Kalayana,Wheat,3300,3370,3351,2024-02-27
+Bidar,Basava Kalayana,Wheat,2611,3300,3100,2024-02-28
+Bidar,Bidar,Wheat,2900,3400,3100,2024-02-28
+Bidar,Basava Kalayana,Wheat,2371,2750,2600,2024-02-28
+Bidar,Basava Kalayana,Wheat,2321,2541,2400,2024-02-29
+Bidar,Bidar,Wheat,2900,3400,3100,2024-02-29
+Bidar,Basava Kalayana,Wheat,2801,3321,3200,2024-02-29
+Bidar,Basava Kalayana,Wheat,3100,3400,3300,2024-03-01
+Bidar,Basava Kalayana,Wheat,2250,2500,2351,2024-03-01
+Bidar,Bidar,Wheat,2900,3400,3100,2024-03-01
+Bidar,Basava Kalayana,Wheat,2200,2781,2400,2024-03-02
+Bidar,Basava Kalayana,Wheat,2751,3350,3000,2024-03-02
+Bidar,Bidar,Wheat,2900,3400,3100,2024-03-02
+Bidar,Basava Kalayana,Wheat,3000,3350,3200,2024-03-04
+Bidar,Basava Kalayana,Wheat,2350,2800,2450,2024-03-04
+Bidar,Bidar,Wheat,2900,3400,3100,2024-03-04
+Bidar,Basava Kalayana,Wheat,2350,2900,2450,2024-03-05
+Bidar,Bidar,Wheat,2900,3400,3100,2024-03-05
+Bidar,Basava Kalayana,Wheat,3151,3276,3200,2024-03-05
+Bidar,Basava Kalayana,Wheat,2450,3000,2600,2024-03-06
+Bidar,Basava Kalayana,Wheat,2500,3330,3250,2024-03-06
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-06
+Bidar,Basava Kalayana,Wheat,2481,2800,2700,2024-03-07
+Bidar,Basava Kalayana,Wheat,3176,3400,3300,2024-03-07
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-07
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-11
+Bidar,Basava Kalayana,Wheat,2300,2701,2450,2024-03-11
+Bidar,Basava Kalayana,Wheat,3200,3350,3300,2024-03-11
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-12
+Bidar,Basava Kalayana,Wheat,2500,3400,3300,2024-03-12
+Bidar,Basava Kalayana,Wheat,2400,2700,2600,2024-03-12
+Bidar,Basava Kalayana,Wheat,3300,3551,3400,2024-03-13
+Bidar,Basava Kalayana,Wheat,2350,2600,2400,2024-03-13
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-13
+Bidar,Basava Kalayana,Wheat,2450,2750,2600,2024-03-14
+Bidar,Bidar,Wheat,2800,3200,3000,2024-03-14
+Bidar,Basava Kalayana,Wheat,3501,3881,3751,2024-03-14
+Bidar,Basava Kalayana,Wheat,3600,3900,3800,2024-03-15
+Bidar,Basava Kalayana,Wheat,2461,2800,2600,2024-03-15
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-15
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-16
+Bidar,Basava Kalayana,Wheat,2450,3000,2600,2024-03-16
+Bidar,Basava Kalayana,Wheat,3300,3780,3600,2024-03-16
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-18
+Bidar,Basava Kalayana,Wheat,2401,3591,3500,2024-03-18
+Bidar,Basava Kalayana,Wheat,2450,2900,2600,2024-03-18
+Bidar,Basava Kalayana,Wheat,3451,3650,3551,2024-03-19
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-19
+Bidar,Basava Kalayana,Wheat,2450,3001,2750,2024-03-19
+Bidar,Basava Kalayana,Wheat,3450,3701,3601,2024-03-20
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-20
+Bidar,Basava Kalayana,Wheat,2401,2800,2700,2024-03-20
+Bidar,Basava Kalayana,Wheat,2400,3140,2800,2024-03-21
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-21
+Bidar,Basava Kalayana,Wheat,2800,3700,3600,2024-03-21
+Bidar,Basava Kalayana,Wheat,3401,3700,3600,2024-03-22
+Bidar,Basava Kalayana,Wheat,2600,4100,3000,2024-03-22
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-22
+Bidar,Basava Kalayana,Wheat,2850,3701,3000,2024-03-23
+Bidar,Basava Kalayana,Wheat,2950,3699,3581,2024-03-23
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-23
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-26
+Bidar,Basava Kalayana,Wheat,3400,3800,3700,2024-03-26
+Bidar,Basava Kalayana,Wheat,2800,3000,2800,2024-03-26
+Bidar,Basava Kalayana,Wheat,3600,3800,3700,2024-03-27
+Bidar,Bidar,Wheat,2800,3500,3000,2024-03-27
+Bidar,Basava Kalayana,Wheat,2450,2950,2700,2024-03-27
+Bidar,Basava Kalayana,Wheat,2450,3400,3000,2024-03-28
+Bidar,Basava Kalayana,Wheat,3501,3982,3800,2024-03-28
+Bidar,Bidar,Wheat,2800,3400,3000,2024-03-28
+Bidar,Basava Kalayana,Wheat,3900,4076,4000,2024-03-30
+Bidar,Basava Kalayana,Wheat,2600,3351,3000,2024-03-30
+Bidar,Bidar,Wheat,2900,3400,3200,2024-03-30
+Bidar,Basava Kalayana,Wheat,4500,4600,4500,2024-04-05
+Bidar,Basava Kalayana,Wheat,2400,3700,3300,2024-04-05
+Bidar,Basava Kalayana,Wheat,2400,3251,3000,2024-04-06
+Bidar,Basava Kalayana,Wheat,4651,4800,4700,2024-04-15
+Bidar,Basava Kalayana,Wheat,2450,3500,3000,2024-04-15
+Bidar,Bidar,Wheat,2800,3400,3100,2024-04-15
+Bidar,Basava Kalayana,Wheat,3001,3400,3301,2024-04-16
+Bidar,Basava Kalayana,Wheat,4250,4571,4401,2024-04-16
+Bidar,Bidar,Wheat,2800,3400,3100,2024-04-16
+Bidar,Basava Kalayana,Wheat,2001,3100,2301,2024-04-18
+Bidar,Basava Kalayana,Wheat,3800,4500,4351,2024-04-18
+Bidar,Basava Kalayana,Wheat,4000,4540,4500,2024-04-19
+Bidar,Basava Kalayana,Wheat,2400,3100,2900,2024-04-19
+Bidar,Basava Kalayana,Wheat,3950,4521,4400,2024-04-20
+Bidar,Basava Kalayana,Wheat,2200,3450,2900,2024-04-20
+Bidar,Bidar,Wheat,3000,3500,3200,2024-04-22
+Bidar,Basava Kalayana,Wheat,2091,2926,2480,2024-04-22
+Bidar,Basava Kalayana,Wheat,4000,4771,4501,2024-04-24
+Bidar,Bidar,Wheat,2700,4000,3500,2024-04-24
+Bidar,Basava Kalayana,Wheat,2480,3000,2901,2024-04-24
+Bidar,Basava Kalayana,Wheat,3150,3200,3150,2024-04-25
+Bidar,Bidar,Wheat,2700,4500,3600,2024-04-25
+Bidar,Basava Kalayana,Wheat,2451,3500,2661,2024-04-26
+Bidar,Bidar,Wheat,2500,4300,3500,2024-04-26
+Bidar,Basava Kalayana,Wheat,4400,4759,4500,2024-04-26
+Bidar,Basava Kalayana,Wheat,2351,2500,2451,2024-04-27
+Bidar,Bidar,Wheat,2500,4300,3500,2024-04-27
+Bidar,Basava Kalayana,Wheat,2401,3400,3000,2024-04-29
+Bidar,Bidar,Wheat,2900,4500,3500,2024-04-29
+Bidar,Basava Kalayana,Wheat,2400,3390,3200,2024-04-30
+Bidar,Bidar,Wheat,3000,4000,3100,2024-04-30
+Bidar,Basava Kalayana,Wheat,2400,3151,2900,2024-05-02
+Bidar,Bidar,Wheat,2800,3400,3100,2024-05-02
+Bidar,Bidar,Wheat,2900,3400,3100,2024-05-03
+Bidar,Basava Kalayana,Wheat,2401,3200,2750,2024-05-04
+Bidar,Bidar,Wheat,2800,3400,3000,2024-05-04
+Bidar,Bidar,Wheat,2800,3300,3000,2024-05-06
+Bidar,Basava Kalayana,Wheat,2700,3256,2900,2024-05-06
+Bidar,Basava Kalayana,Wheat,2500,3100,2600,2024-05-09
+Bidar,Bidar,Wheat,2900,3400,3200,2024-05-09
+Bidar,Bidar,Wheat,2850,3500,3000,2024-05-11
+Bidar,Basava Kalayana,Wheat,2400,3300,2900,2024-05-13
+Bidar,Bidar,Wheat,2800,3500,3000,2024-05-13
+Bidar,Bidar,Wheat,2700,3400,3100,2024-05-14
+Bidar,Basava Kalayana,Wheat,2201,2900,2600,2024-05-14
+Bidar,Bidar,Wheat,2500,3500,3000,2024-05-15
+Bidar,Basava Kalayana,Wheat,2890,3460,3050,2024-05-15
+Bidar,Basava Kalayana,Wheat,2400,3000,2900,2024-05-16
+Bidar,Bidar,Wheat,3000,3400,3100,2024-05-16
+Bidar,Bidar,Wheat,2900,3400,3100,2024-05-17
+Bidar,Basava Kalayana,Wheat,2400,3600,3000,2024-05-17
+Bidar,Bidar,Wheat,3000,3400,3100,2024-05-18
+Bidar,Basava Kalayana,Wheat,2430,2450,2430,2024-05-18
+Bidar,Bidar,Wheat,3000,3400,3200,2024-05-20
+Bidar,Basava Kalayana,Wheat,2400,2900,2400,2024-05-20
+Bidar,Bidar,Wheat,3000,3400,3200,2024-05-21
+Bidar,Basava Kalayana,Wheat,2400,3200,2800,2024-05-21
+Bidar,Bidar,Wheat,3000,3400,3100,2024-05-22
+Bidar,Bidar,Wheat,2900,3400,3100,2024-05-23
+Bidar,Basava Kalayana,Wheat,2401,2900,2600,2024-05-24
+Bidar,Bidar,Wheat,3000,3400,3200,2024-05-24
+Bidar,Basava Kalayana,Wheat,2360,3000,2550,2024-05-25
+Bidar,Bidar,Wheat,2800,3400,3100,2024-05-25
+Bidar,Bidar,Wheat,3000,3400,3200,2024-05-27
+Bidar,Basava Kalayana,Wheat,2400,3000,2600,2024-05-27
+Bidar,Bidar,Wheat,3000,3400,3200,2024-05-28
+Bidar,Basava Kalayana,Wheat,2350,2951,2700,2024-05-28
+Bidar,Basava Kalayana,Wheat,2450,3251,3000,2024-05-29
+Bidar,Basava Kalayana,Wheat,2430,3051,2430,2024-05-30
+Bidar,Basava Kalayana,Wheat,2400,2600,2400,2024-05-31
+Bidar,Basava Kalayana,Wheat,2450,2700,2600,2024-06-01
+Bidar,Basava Kalayana,Wheat,2450,3290,2900,2024-06-03
+Bidar,Basava Kalayana,Wheat,3800,5630,3801,2024-06-03
+Bidar,Bidar,Wheat,3000,3500,3300,2024-06-03
+Bidar,Basava Kalayana,Wheat,2400,2700,2496,2024-06-04
+Bidar,Basava Kalayana,Wheat,2351,3341,3001,2024-06-05
+Bidar,Bidar,Wheat,3000,3400,3100,2024-06-05
+Bidar,Bidar,Wheat,3000,3400,3100,2024-06-07
+Bidar,Basava Kalayana,Wheat,2450,3290,2700,2024-06-07
+Bidar,Bidar,Wheat,3000,3400,3100,2024-06-08
+Bidar,Basava Kalayana,Wheat,2441,3050,2800,2024-06-08
+Bidar,Basava Kalayana,Wheat,2450,2800,2600,2024-06-10
+Bidar,Bidar,Wheat,3000,3400,3100,2024-06-10
+Bidar,Bidar,Wheat,3000,3400,3100,2024-06-11
+Bidar,Basava Kalayana,Wheat,2201,2670,2500,2024-06-12
+Bidar,Bidar,Wheat,2900,3500,3200,2024-06-12
+Bidar,Bidar,Wheat,2800,3600,3300,2024-06-13
+Bidar,Basava Kalayana,Wheat,2471,3000,2500,2024-06-13
+Bidar,Bidar,Wheat,2900,3400,3100,2024-06-14
+Bidar,Basava Kalayana,Wheat,2500,3100,2650,2024-06-14
+Bidar,Basava Kalayana,Wheat,2451,2750,2601,2024-06-15
+Bidar,Bidar,Wheat,3000,3400,3100,2024-06-15
+Bidar,Basava Kalayana,Wheat,2351,3100,2700,2024-06-18
+Bidar,Bidar,Wheat,3000,3400,3100,2024-06-18
+Bidar,Basava Kalayana,Wheat,2500,3180,2700,2024-06-19
+Bidar,Bidar,Wheat,3000,3400,3100,2024-06-19
+Bidar,Bidar,Wheat,2900,3400,3100,2024-06-20
+Bidar,Basava Kalayana,Wheat,2450,3150,2700,2024-06-20
+Bidar,Bidar,Wheat,2900,3400,3100,2024-06-22
+Bidar,Bidar,Wheat,2900,3400,3100,2024-06-24
+Bidar,Basava Kalayana,Wheat,2481,3000,2530,2024-06-24
+Bidar,Basava Kalayana,Wheat,2450,3000,2600,2024-06-25
+Bidar,Bidar,Wheat,2900,3400,3000,2024-06-25
+Bidar,Basava Kalayana,Wheat,2450,2800,2600,2024-06-26
+Bidar,Bidar,Wheat,2900,3100,3000,2024-06-26
+Bidar,Bidar,Wheat,2900,3400,3100,2024-06-27
+Bidar,Basava Kalayana,Wheat,2550,2801,2550,2024-06-27
+Bidar,Bidar,Wheat,2350,3500,3200,2024-06-28
+Bidar,Basava Kalayana,Wheat,2524,3320,2600,2024-06-28
+Bidar,Basava Kalayana,Wheat,2491,2700,2500,2024-06-29
+Bidar,Bidar,Wheat,2900,3400,3100,2024-06-29
+Bidar,Bidar,Wheat,2900,3400,3100,2024-07-01
+Bidar,Basava Kalayana,Wheat,2700,3000,2750,2024-07-01
+Bidar,Basava Kalayana,Wheat,2500,2630,2551,2024-07-02
+Bidar,Bidar,Wheat,2900,3400,3100,2024-07-02
+Bidar,Basava Kalayana,Wheat,2500,3100,2820,2024-07-03
+Bidar,Bidar,Wheat,2900,3400,3100,2024-07-03
+Bidar,Bidar,Wheat,2900,3400,3100,2024-07-04
+Bidar,Basava Kalayana,Wheat,2500,2650,2550,2024-07-04
+Bidar,Bidar,Wheat,2900,3100,3000,2024-07-06
+Bidar,Basava Kalayana,Wheat,2400,3000,2600,2024-07-06
+Bidar,Basava Kalayana,Wheat,2400,2871,2600,2024-07-08
+Bidar,Bidar,Wheat,2900,3400,3100,2024-07-09
+Bidar,Basava Kalayana,Wheat,2400,2600,2500,2024-07-09
+Bidar,Bidar,Wheat,2900,3400,3100,2024-07-10
+Bidar,Basava Kalayana,Wheat,2451,3250,2600,2024-07-10
+Bidar,Bidar,Wheat,2900,3400,3100,2024-07-11
+Bidar,Basava Kalayana,Wheat,2500,2800,2750,2024-07-11
+Bidar,Bidar,Wheat,2900,3400,3100,2024-07-12
+Bidar,Bidar,Wheat,2500,3500,3000,2024-07-13
+Bidar,Basava Kalayana,Wheat,2499,2711,2501,2024-07-13
+Bidar,Basava Kalayana,Wheat,2500,2890,2600,2024-07-15
+Bidar,Bidar,Wheat,3000,3400,3200,2024-07-16
+Bidar,Bidar,Wheat,3000,3400,3200,2024-07-18
+Bidar,Basava Kalayana,Wheat,2501,2800,2600,2024-07-18
+Bidar,Bidar,Wheat,3000,3400,3200,2024-07-19
+Bidar,Basava Kalayana,Wheat,2500,2704,2560,2024-07-19
+Bidar,Bidar,Wheat,3000,3400,3200,2024-07-20
+Bidar,Basava Kalayana,Wheat,2201,2700,2450,2024-07-23
+Bidar,Bidar,Wheat,3000,3400,3200,2024-07-23
+Bidar,Bidar,Wheat,3050,3500,3300,2024-07-24
+Bidar,Basava Kalayana,Wheat,2491,2850,2614,2024-07-24
+Bidar,Bidar,Wheat,2900,3500,3300,2024-07-25
+Bidar,Basava Kalayana,Wheat,2500,2651,2500,2024-07-25
+Bidar,Basava Kalayana,Wheat,2480,2500,2480,2024-07-26
+Bidar,Bidar,Wheat,3000,3400,3200,2024-07-26
+Bidar,Basava Kalayana,Wheat,2300,2900,2600,2024-07-27
+Bidar,Bidar,Wheat,2950,3600,3250,2024-07-27
+Bidar,Basava Kalayana,Wheat,2471,2700,2511,2024-07-29
+Bidar,Bidar,Wheat,3000,3400,3100,2024-07-29
+Bidar,Basava Kalayana,Wheat,2450,2700,2600,2024-07-30
+Bidar,Bidar,Wheat,2900,3400,3200,2024-07-30
+Bidar,Bidar,Wheat,3000,3400,3100,2024-07-31
+Bidar,Bidar,Wheat,3000,3400,3100,2024-08-01
+Bidar,Basava Kalayana,Wheat,2500,2800,2600,2024-08-02
+Bidar,Bidar,Wheat,3100,3500,3200,2024-08-02
+Bidar,Basava Kalayana,Wheat,2450,2700,2500,2024-08-03
+Bidar,Bidar,Wheat,3000,3400,3200,2024-08-03
+Bidar,Bidar,Wheat,3000,3400,3200,2024-08-05
+Bidar,Basava Kalayana,Wheat,2451,2800,2630,2024-08-06
+Bidar,Bidar,Wheat,3000,3400,3200,2024-08-06
+Bidar,Bidar,Wheat,3100,3450,3300,2024-08-07
+Bidar,Basava Kalayana,Wheat,2451,2550,2499,2024-08-07
+Bidar,Bidar,Wheat,3000,3500,3300,2024-08-08
+Bidar,Basava Kalayana,Wheat,2701,2931,2811,2024-08-08
+Bidar,Bidar,Wheat,3000,3400,3200,2024-08-10
+Bidar,Bidar,Wheat,3000,3400,3200,2024-08-12
+Bidar,Basava Kalayana,Wheat,2401,2900,2601,2024-08-13
+Bidar,Basava Kalayana,Wheat,2201,2800,2500,2024-08-14
+Bidar,Bidar,Wheat,3000,3400,3200,2024-08-14
+Bidar,Basava Kalayana,Wheat,2502,2881,2600,2024-08-16
+Bidar,Bidar,Wheat,3000,3400,3200,2024-08-16
+Bidar,Bidar,Wheat,3000,3400,3200,2024-08-17
+Bidar,Bidar,Wheat,2600,3100,2800,2024-08-20
+Bidar,Basava Kalayana,Wheat,2500,2700,2601,2024-08-20
+Bidar,Basava Kalayana,Wheat,2500,2600,2500,2024-08-21
+Bidar,Bidar,Wheat,2600,3500,3000,2024-08-21
+Bidar,Basava Kalayana,Wheat,2400,2811,2525,2024-08-22
+Bidar,Basava Kalayana,Wheat,2451,2780,2541,2024-08-23
+Bidar,Bidar,Wheat,3000,3400,3200,2024-08-23
+Bidar,Basava Kalayana,Wheat,2600,2951,2651,2024-08-24
+Bidar,Basava Kalayana,Wheat,2300,2980,2711,2024-08-27
+Bidar,Basava Kalayana,Wheat,2600,2990,2601,2024-08-28
+Bidar,Basava Kalayana,Wheat,2300,2700,2500,2024-08-29
+Bidar,Basava Kalayana,Wheat,2450,2826,2600,2024-08-30
+Bidar,Basava Kalayana,Wheat,2500,2641,2501,2024-09-04
+Bidar,Basava Kalayana,Wheat,2450,2790,2600,2024-09-05
+Bidar,Basava Kalayana,Wheat,2400,2721,2600,2024-09-06
+Bidar,Basava Kalayana,Wheat,2500,2981,2600,2024-09-09
+Bidar,Basava Kalayana,Wheat,3051,3051,3051,2024-09-12
+Bidar,Basava Kalayana,Wheat,2501,2800,2600,2024-09-13
+Bidar,Basava Kalayana,Wheat,2501,2601,2575,2024-09-14
+Bidar,Basava Kalayana,Wheat,2490,2600,2580,2024-09-18
+Bidar,Basava Kalayana,Wheat,2450,2600,2500,2024-09-19
+Bidar,Basava Kalayana,Wheat,2550,3102,2701,2024-09-20
+Bidar,Basava Kalayana,Wheat,2400,2900,2752,2024-09-21
+Bidar,Basava Kalayana,Wheat,2400,2900,2500,2024-09-24
+Bidar,Basava Kalayana,Wheat,2200,2704,2500,2024-09-25
+Bidar,Bidar,Wheat,3000,3500,3300,2024-09-25
+Bidar,Basava Kalayana,Wheat,2450,2801,2500,2024-09-26
+Bidar,Bidar,Wheat,2900,3500,3100,2024-09-26
+Bidar,Basava Kalayana,Wheat,2000,2591,2450,2024-09-27
+Bidar,Bidar,Wheat,2600,3200,2900,2024-09-27
+Bidar,Bidar,Wheat,3000,3400,3200,2024-09-28
+Bidar,Basava Kalayana,Wheat,2450,2751,2600,2024-09-28
+Bidar,Bidar,Wheat,3000,3400,3200,2024-09-30
+Bidar,Bidar,Wheat,3000,3400,3200,2024-10-01
+Bidar,Bidar,Wheat,3000,3400,3200,2024-10-03
+Bidar,Bidar,Wheat,3000,3400,3200,2024-10-04
+Bidar,Bidar,Wheat,3000,3400,3200,2024-10-05
+Bidar,Basava Kalayana,Wheat,2000,3001,2900,2024-10-05
+Bidar,Basava Kalayana,Wheat,4500,4500,4500,2024-10-05
+Bidar,Basava Kalayana,Wheat,4451,4800,4451,2024-10-07
+Bidar,Basava Kalayana,Wheat,2300,3085,2500,2024-10-07
+Bidar,Bidar,Wheat,3100,3500,3300,2024-10-07
+Bidar,Bidar,Wheat,2700,3600,3000,2024-10-08
+Bidar,Bidar,Wheat,2800,3500,3000,2024-10-09
+Bidar,Bidar,Wheat,3000,3400,3200,2024-10-10
+Bidar,Basava Kalayana,Wheat,2400,3180,2700,2024-10-10
+Bidar,Bidar,Wheat,2500,3500,3000,2024-10-14
+Bidar,Bidar,Wheat,3000,3400,3200,2024-10-15
+Bidar,Bidar,Wheat,3000,3400,3200,2024-10-16
+Bidar,Basava Kalayana,Wheat,2400,3091,2451,2024-10-18
+Bidar,Bidar,Wheat,3000,3400,3200,2024-10-18
+Bidar,Basava Kalayana,Wheat,4000,4400,4000,2024-10-18
+Bidar,Bidar,Wheat,3000,3400,3200,2024-10-19
+Bidar,Bidar,Wheat,2800,4900,3500,2024-10-21
+Bidar,Bidar,Wheat,3100,3800,3500,2024-10-22
+Bidar,Basava Kalayana,Wheat,4261,4400,4261,2024-10-23
+Bidar,Bidar,Wheat,2700,3900,3400,2024-10-23
+Bidar,Basava Kalayana,Wheat,2400,2901,2651,2024-10-23
+Bidar,Basava Kalayana,Wheat,2400,3000,2602,2024-10-24
+Bidar,Bidar,Wheat,2600,3700,3000,2024-10-24
+Bidar,Basava Kalayana,Wheat,2400,2900,2641,2024-10-25
+Bidar,Basava Kalayana,Wheat,3800,4700,4500,2024-10-25
+Bidar,Bidar,Wheat,2600,3700,3000,2024-10-25
+Bidar,Bidar,Wheat,2900,4800,3500,2024-10-26
+Bidar,Bidar,Wheat,2900,4500,3500,2024-10-28
+Bidar,Basava Kalayana,Wheat,2500,2691,2500,2024-11-04
+Bidar,Bidar,Wheat,3000,3500,3300,2024-11-05
+Bidar,Basava Kalayana,Wheat,2300,2800,2300,2024-11-06
+Bidar,Bidar,Wheat,2800,4000,3500,2024-11-06
+Bidar,Bidar,Wheat,2700,4700,3200,2024-11-07
+Bidar,Bidar,Wheat,2600,3700,3100,2024-11-08
+Bidar,Basava Kalayana,Wheat,2400,3170,2601,2024-11-09
+Bidar,Bidar,Wheat,2750,3800,3260,2024-11-09
+Bidar,Basava Kalayana,Wheat,2000,2801,2450,2024-11-11
+Bidar,Bidar,Wheat,2700,3800,3300,2024-11-12
+Bidar,Basava Kalayana,Wheat,2200,2681,2400,2024-11-12
+Bidar,Basava Kalayana,Wheat,4500,4800,4500,2024-11-13
+Bidar,Bidar,Wheat,2700,3600,3100,2024-11-13
+Bidar,Basava Kalayana,Wheat,2400,2800,2650,2024-11-13
+Bidar,Bidar,Wheat,2900,3800,3100,2024-11-14
+Bidar,Basava Kalayana,Wheat,2400,3050,2700,2024-11-14
+Bidar,Basava Kalayana,Wheat,4400,5000,4400,2024-11-14
+Bidar,Bidar,Wheat,3000,4000,3500,2024-11-15
+Bidar,Basava Kalayana,Wheat,2550,2750,2575,2024-11-16
+Bidar,Bidar,Wheat,3000,3500,3100,2024-11-16
+Bidar,Basava Kalayana,Wheat,2400,3300,2600,2024-11-19
+Bidar,Bidar,Wheat,3200,3400,3300,2024-11-19
+Bidar,Bidar,Wheat,3000,3500,3200,2024-11-20
+Bidar,Basava Kalayana,Wheat,2500,3500,3400,2024-12-02
+Bidar,Basava Kalayana,Wheat,2001,3050,2900,2024-12-04
+Bidar,Bidar,Wheat,3000,3400,3200,2024-12-05
+Bidar,Bidar,Wheat,3000,3400,3200,2024-12-06
+Bidar,Bidar,Wheat,3000,3500,3200,2024-12-07
+Bidar,Bidar,Wheat,3000,3400,3200,2024-12-09
+Bidar,Bidar,Wheat,3000,3400,3200,2024-12-10
+Bidar,Bidar,Wheat,3000,3400,3200,2024-12-13
+Bidar,Bidar,Wheat,3100,3400,3200,2024-12-16
+Bidar,Bidar,Wheat,3100,3400,3200,2024-12-18
+Bidar,Bidar,Wheat,3100,3400,3200,2024-12-19
+Bidar,Basava Kalayana,Wheat,2100,3081,2552,2024-12-24
