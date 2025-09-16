@@ -1,2 +1,2 @@
 # OrganicCrop-Forecast
-Region-wise demand and price forecasting for organic crops using AI/ML
+Region-wise price forecasting for crops 
